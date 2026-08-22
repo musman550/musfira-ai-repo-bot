@@ -1,0 +1,38 @@
+name: Musfira AI Daily Repo Generator
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # 06:00 UTC daily
+  workflow_dispatch: {}
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily orchestrator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_USERNAME: ${{ secrets.GH_USERNAME }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_CX: ${{ secrets.GOOGLE_CX }}
+          YOUTUBE_CHANNEL_URL: ${{ vars.YOUTUBE_CHANNEL_URL }}
+          WEBSITE_URL: ${{ vars.WEBSITE_URL }}
+          LINKEDIN_URL: ${{ vars.LINKEDIN_URL }}
+          INSTAGRAM_URL: ${{ vars.INSTAGRAM_URL }}
+          GMAPS_URL: ${{ vars.GMAPS_URL }}
+          REPOS_PER_DAY_MIN: "2"
+          REPOS_PER_DAY_MAX: "5"
+        run: python scripts/orchestrator.py
