@@ -63,10 +63,6 @@ def try_publish_topic(topic: dict, state: dict) -> bool:
         logger.warning("Content generation failed for '%s', skipping: %s", topic["title"], exc)
         return False
 
-    if is_duplicate(state, topic["title"], generated["overview"]):
-        logger.info("Skipping topic with duplicate generated overview: %s", topic["title"])
-        return False
-
     repo_name = build_repo_name(topic)
     readme = build_readme(topic, generated)
 
