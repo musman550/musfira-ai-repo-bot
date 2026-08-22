@@ -26,29 +26,40 @@ def _promo_block() -> str:
     return "\n".join(links)
 
 
-def build_readme(topic: dict) -> str:
+def build_readme(topic: dict, generated: dict) -> str:
+    """
+    generated must come from content_generator.generate_topic_content() and
+    have already passed its quality gate — this function does not fall back
+    to thin placeholder text. Callers must skip publishing if generation
+    failed rather than calling this with empty content.
+    """
     title = topic["title"]
-    snippet = topic.get("snippet", "")
     link = topic.get("link", "")
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
+    features = generated.get("features", "")
+    use_cases = generated.get("use_cases", "")
+    faq = generated.get("faq", "")
+    setup_tip = generated.get("setup_tip", "")
+
     return f"""# Musfira AI {title} - By Musfira AI
 
-> Daily AI trend digest and automation starter kit, curated and published by **Musfira AI**.
+> Curated, written, and published by **Musfira AI**.
 
 ## Overview
 
-{snippet or "Curated notes, setup guide, and starter code for this trending AI development."}
+{generated["overview"]}
 
 **Source reference:** [{link}]({link})
 **Published:** {today}
 
-## What's Inside
+## Key Features
 
-- Summary of the trend/tool and why it matters
-- Quickstart setup guide (Python + n8n where applicable)
-- Local/edge execution config (Ollama-ready)
-- Lightweight HTML/Tailwind chat UI starter (where applicable)
+{features}
+
+## Use Cases
+
+{use_cases}
 
 ## Quickstart
 
@@ -71,6 +82,12 @@ Import `workflow.json` into your n8n instance via **Workflows > Import from File
 ollama pull llama3
 ollama run llama3
 ```
+
+{setup_tip}
+
+## FAQ
+
+{faq}
 
 ## Repository Structure
 
@@ -99,9 +116,15 @@ and follow the links above for daily updates on AI models, n8n workflows, and lo
 
 
 if __name__ == "__main__":
-    sample = {
+    sample_topic = {
         "title": "Sample Open Source LLM",
-        "snippet": "A new lightweight open-source LLM released for local inference.",
         "link": "https://example.com",
     }
-    print(build_readme(sample))
+    sample_generated = {
+        "overview": "This is a placeholder overview for local testing only.",
+        "features": "- Example feature one\n- Example feature two",
+        "use_cases": "- Example use case one",
+        "faq": "Q: Is this real?\nA: This is a local test fixture.",
+        "setup_tip": "Run `ollama serve` locally before testing this module.",
+    }
+    print(build_readme(sample_topic, sample_generated))
