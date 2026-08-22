@@ -8,7 +8,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
       - name: Checkout
@@ -21,6 +21,20 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Install Ollama
+        run: curl -fsSL https://ollama.com/install.sh | sh
+
+      - name: Start Ollama server
+        run: |
+          nohup ollama serve > ollama.log 2>&1 &
+          for i in $(seq 1 30); do
+            curl -sf http://localhost:11434/api/tags > /dev/null && break
+            sleep 2
+          done
+
+      - name: Pull model
+        run: ollama pull llama3.2:1b
 
       - name: Run daily orchestrator
         env:
@@ -35,4 +49,9 @@ jobs:
           GMAPS_URL: ${{ vars.GMAPS_URL }}
           REPOS_PER_DAY_MIN: "2"
           REPOS_PER_DAY_MAX: "5"
+          OLLAMA_MODEL: "llama3.2:1b"
         run: python scripts/orchestrator.py
+
+      - name: Show Ollama log on failure
+        if: failure()
+        run: cat ollama.log || true
