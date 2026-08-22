@@ -15,7 +15,11 @@ import requests
 logger = logging.getLogger("content_generator")
 
 OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://localhost:11434/api/generate")
-OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "llama3.2:1b")
+OLLAMA_MODELS = [
+    m.strip()
+    for m in os.environ.get("OLLAMA_MODELS", "llama3.2:1b,qwen2.5:1.5b,gemma2:2b").split(",")
+    if m.strip()
+]
 MIN_OVERVIEW_WORDS = 80
 MIN_SECTION_COUNT = 4
 
@@ -33,11 +37,11 @@ class ContentGenerationError(Exception):
     """Raised when generated content fails the quality gate after retries."""
 
 
-def _call_ollama(prompt: str, max_tokens: int = 900, timeout: int = 180) -> str:
+def _call_ollama(prompt: str, model: str, max_tokens: int = 900, timeout: int = 180) -> str:
     resp = requests.post(
         OLLAMA_URL,
         json={
-            "model": OLLAMA_MODEL,
+            "model": model,
             "prompt": prompt,
             "stream": False,
             "options": {"num_predict": max_tokens, "temperature": 0.7},
@@ -75,15 +79,19 @@ Do not use markdown headers, do not repeat the section names, write plain conten
 No disclaimers, no apologies, no meta-commentary about being an AI. Content only."""
 
 
-def generate_topic_content(topic: dict, retries: int = 2) -> dict:
+def generate_topic_content(topic: dict, retries: int | None = None) -> dict:
     title = topic["title"]
     snippet = topic.get("snippet", "")
     prompt = _build_prompt(title, snippet)
 
+    if retries is None:
+        retries = len(OLLAMA_MODELS) - 1  # try every available model before giving up
+
     last_error: Exception | None = None
     for attempt in range(retries + 1):
+        model = OLLAMA_MODELS[attempt % len(OLLAMA_MODELS)]
         try:
-            raw = _call_ollama(prompt)
+            raw = _call_ollama(prompt, model=model)
             sections = [s.strip() for s in raw.split("###") if s.strip()]
 
             if len(sections) < MIN_SECTION_COUNT:
@@ -101,12 +109,13 @@ def generate_topic_content(topic: dict, retries: int = 2) -> dict:
                 "use_cases": sections[2] if len(sections) > 2 else "",
                 "faq": sections[3] if len(sections) > 3 else "",
                 "setup_tip": sections[4] if len(sections) > 4 else "",
+                "generated_by": model,
             }
         except Exception as exc:  # noqa: BLE001 - we deliberately catch broadly and retry
             last_error = exc
             logger.warning(
-                "Content generation attempt %d/%d failed for '%s': %s",
-                attempt + 1, retries + 1, title, exc,
+                "Content generation attempt %d/%d (model=%s) failed for '%s': %s",
+                attempt + 1, retries + 1, model, title, exc,
             )
 
     raise ContentGenerationError(f"generation failed after {retries + 1} attempts: {last_error}")
