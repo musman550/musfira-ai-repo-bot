@@ -28,9 +28,9 @@ HEADERS = {
 }
 
 
-def _content_hash(title: str, overview: str) -> str:
-    combined = (title.strip().lower() + "|" + overview.strip().lower())[:2000]
-    return hashlib.sha256(combined.encode("utf-8")).hexdigest()[:16]
+def _title_key(title: str) -> str:
+    normalized = " ".join(title.strip().lower().split())
+    return hashlib.sha256(normalized.encode("utf-8")).hexdigest()[:16]
 
 
 def load_state() -> dict:
@@ -71,11 +71,9 @@ def save_state(state: dict) -> bool:
     return True
 
 
-def is_duplicate(state: dict, title: str, overview: str) -> bool:
-    h = _content_hash(title, overview)
-    return h in state["published"]
+def is_duplicate(state: dict, title: str, overview: str = "") -> bool:
+    return _title_key(title) in state["published"]
 
 
 def mark_published(state: dict, title: str, overview: str, repo_name: str) -> None:
-    h = _content_hash(title, overview)
-    state["published"][h] = {"title": title, "repo": repo_name}
+    state["published"][_title_key(title)] = {"title": title, "repo": repo_name}
