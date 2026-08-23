@@ -59,24 +59,59 @@ def _passes_quality_gate(text: str) -> bool:
     return not any(p in lowered for p in BANNED_PHRASES)
 
 
+LEAKED_INSTRUCTION_PATTERNS = [
+    "specific, concrete 3-paragraph overview",
+    "distinct key-feature sentences",
+    "realistic use-case sentences",
+    "faq pairs",
+    "setup/usage tip",
+    "no disclaimers, no apologies",
+    "three paragraphs explaining what this is",
+    "five sentences, one per line",
+    "three sentences, one per line",
+    "question-answer pairs formatted as",
+    "practical setup or usage tip",
+    "begin your response with",
+    "block 1", "block 2", "block 3", "block 4", "block 5",
+]
+BARE_HEADER_LINES = {"overview", "key features", "use cases", "faq", "setup tip", "features"}
+
+
+def _strip_leaked_instructions(text: str) -> str:
+    """Small models sometimes echo the prompt's instruction wording, or a bare
+    section header, as a leading line. Strip any line matching those patterns
+    so it never reaches a published README."""
+    cleaned_lines = []
+    for line in text.split("\n"):
+        stripped = line.strip()
+        lowered = stripped.lower().strip(":.- ")
+        if lowered in BARE_HEADER_LINES:
+            continue
+        if any(pat in lowered for pat in LEAKED_INSTRUCTION_PATTERNS):
+            continue
+        cleaned_lines.append(line)
+    return "\n".join(cleaned_lines).strip()
+
+
 def _build_prompt(title: str, snippet: str) -> str:
-    return f"""You are a technical writer producing original documentation for an
-open-source repository about: "{title}"
-Background context: {snippet or "a recent development in AI/automation tooling"}
+    return f"""Write original technical documentation about: "{title}"
+Context: {snippet or "a recent development in AI/automation tooling"}
 
-Write these five sections, each separated by a line containing only "###".
-Do not use markdown headers, do not repeat the section names, write plain content only.
+Output exactly 5 blocks of content separated by a line containing only ###.
+Start writing the actual content immediately in each block — do not restate
+these instructions, do not print section titles or numbers, do not print
+words like "Overview" or "Key Features" as a heading.
 
-1. A specific, concrete 3-paragraph overview: what this is, why it actually matters
-   right now, and a realistic scenario of someone using it. No generic filler.
-2. Five distinct key-feature sentences, one per line.
-3. Three realistic use-case sentences, one per line.
-4. Three FAQ pairs, each formatted exactly as:
-   Q: <question>
-   A: <answer>
-5. A short setup/usage tip (2-4 sentences) specific to this topic.
+Block 1: Three paragraphs explaining what this is, why it matters right now,
+and a concrete scenario of someone using it.
+Block 2: Five sentences, one per line, each describing one capability.
+Block 3: Three sentences, one per line, each describing a real-world use case.
+Block 4: Three question-answer pairs formatted as:
+Q: <question>
+A: <answer>
+Block 5: Two to four sentences with a practical setup or usage tip.
 
-No disclaimers, no apologies, no meta-commentary about being an AI. Content only."""
+Begin your response with the Block 1 content directly, no preamble."""
 
 
 def generate_topic_content(topic: dict, retries: int | None = None) -> dict:
@@ -93,15 +128,17 @@ def generate_topic_content(topic: dict, retries: int | None = None) -> dict:
         try:
             raw = _call_ollama(prompt, model=model)
             sections = [s.strip() for s in raw.split("###") if s.strip()]
+            sections = [_strip_leaked_instructions(s) for s in sections]
+            sections = [s for s in sections if s]  # drop any section emptied by cleaning
 
             if len(sections) < MIN_SECTION_COUNT:
                 raise ContentGenerationError(
-                    f"only {len(sections)} sections returned, need {MIN_SECTION_COUNT}"
+                    f"only {len(sections)} usable sections after cleaning, need {MIN_SECTION_COUNT}"
                 )
 
             overview = sections[0]
             if not _passes_quality_gate(overview):
-                raise ContentGenerationError("overview failed quality gate")
+                raise ContentGenerationError("overview failed quality gate after cleaning")
 
             return {
                 "overview": overview,
