@@ -22,5 +22,21 @@
   "9635ff34ce31d7c8": {
     "title": "How Much Memory Does Your Agent Actually Need?",
     "repo": "musfira-ai-how-much-memory-does-your-agent-actually-need"
+  },
+  "b145210310fc9878": {
+    "title": "This is a great sub, regardless of what complaints people have about it.",
+    "repo": "musfira-ai-this-is-a-great-sub-regardless-of-what-complaints-people-hav"
+  },
+  "b1e9085aa20d98e3": {
+    "title": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
+    "repo": "musfira-ai-i-benchmark-dflash-2-pr-build-in-llamacpp-on-qwen-38-27b-aga"
+  },
+  "d3c5f0d6f3823700": {
+    "title": "Better tools for managing blocked users",
+    "repo": "musfira-ai-better-tools-for-managing-blocked-users"
+  },
+  "6e818015ef0b3ff8": {
+    "title": "Windows 11 arm64 VS2026 image generally available",
+    "repo": "musfira-ai-windows-11-arm64-vs2026-image-generally-available"
   }
 }
