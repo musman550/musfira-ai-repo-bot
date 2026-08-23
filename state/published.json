@@ -38,5 +38,21 @@
   "6e818015ef0b3ff8": {
     "title": "Windows 11 arm64 VS2026 image generally available",
     "repo": "musfira-ai-windows-11-arm64-vs2026-image-generally-available"
+  },
+  "9a02ee80860aaf18": {
+    "title": "New 100B Liquid AI model coming soon",
+    "repo": "musfira-ai-new-100b-liquid-ai-model-coming-soon"
+  },
+  "000d460b464ef100": {
+    "title": "Qwen 3.8 27B is a game changer.",
+    "repo": "musfira-ai-qwen-38-27b-is-a-game-changer"
+  },
+  "c4d05381338c6f6b": {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "repo": "musfira-ai-measuring-benchmark-optimization-in-speech-recognition"
+  },
+  "b0be464d1afce352": {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "repo": "musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark"
   }
 }
