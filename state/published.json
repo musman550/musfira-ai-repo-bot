@@ -54,5 +54,21 @@
   "b0be464d1afce352": {
     "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
     "repo": "musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark"
+  },
+  "d1975dc5e1b73fe7": {
+    "title": "I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150",
+    "repo": "musfira-ai-i-trained-a-157b-parameter-dreamer-4-world-model-from-scratc"
+  },
+  "770f6cb44052f21b": {
+    "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB",
+    "repo": "musfira-ai-i-developed-my-own-quantized-llm-from-scratch-trained-on-30b"
+  },
+  "6d5cd7eab760ea7c": {
+    "title": "Qwen 3.8 27B, just wanted to say thanks to you guys",
+    "repo": "musfira-ai-qwen-38-27b-just-wanted-to-say-thanks-to-you-guys"
+  },
+  "d911eb7b76326ca7": {
+    "title": "New qwen3.8:27b on a 39k line C to single-file HTML / three.js port",
+    "repo": "musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po"
   }
 }
