@@ -3,21 +3,24 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 18
-**Last updated:** 2026-08-24
+**Total repos published:** 21
+**Last updated:** 2026-08-25
 
 ## Catalog
 
 - [Best Local LLMs - August 2026](https://github.com/musman550/musfira-ai-best-local-llms---august-2026)
+- [Best Local Vision Language Models - August 2026](https://github.com/musman550/musfira-ai-best-local-vision-language-models---august-2026)
 - [Better tools for managing blocked users](https://github.com/musman550/musfira-ai-better-tools-for-managing-blocked-users)
 - [How Much Memory Does Your Agent Actually Need?](https://github.com/musman550/musfira-ai-how-much-memory-does-your-agent-actually-need)
 - [I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.](https://github.com/musman550/musfira-ai-i-benchmark-dflash-2-pr-build-in-llamacpp-on-qwen-38-27b-aga)
 - [I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB](https://github.com/musman550/musfira-ai-i-developed-my-own-quantized-llm-from-scratch-trained-on-30b)
 - [I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150](https://github.com/musman550/musfira-ai-i-trained-a-157b-parameter-dreamer-4-world-model-from-scratc)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
+- [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence)
 - [New 100B Liquid AI model coming soon](https://github.com/musman550/musfira-ai-new-100b-liquid-ai-model-coming-soon)
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
 - [Pinning saved views to the repository issues sidebar is generally available and more](https://github.com/musman550/musfira-ai-pinning-saved-views-to-the-repository-issues-sidebar-is-gene)
+- [Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.](https://github.com/musman550/musfira-ai-qwen-38-27b-in-9th-position-on-code-arena-gemma-4-31b-is-80t)
 - [Qwen 3.8 27B is a game changer.](https://github.com/musman550/musfira-ai-qwen-38-27b-is-a-game-changer)
 - [Qwen 3.8 27B, just wanted to say thanks to you guys](https://github.com/musman550/musfira-ai-qwen-38-27b-just-wanted-to-say-thanks-to-you-guys)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
