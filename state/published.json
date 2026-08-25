@@ -70,5 +70,17 @@
   "d911eb7b76326ca7": {
     "title": "New qwen3.8:27b on a 39k line C to single-file HTML / three.js port",
     "repo": "musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po"
+  },
+  "1b3002cd087d17aa": {
+    "title": "Best Local Vision Language Models - August 2026",
+    "repo": "musfira-ai-best-local-vision-language-models---august-2026"
+  },
+  "df612ce3e114f4f6": {
+    "title": "Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.",
+    "repo": "musfira-ai-qwen-38-27b-in-9th-position-on-code-arena-gemma-4-31b-is-80t"
+  },
+  "e2ef86e1bc5c2892": {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "repo": "musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence"
   }
 }
