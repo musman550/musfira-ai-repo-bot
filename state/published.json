@@ -82,5 +82,25 @@
   "e2ef86e1bc5c2892": {
     "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
     "repo": "musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence"
+  },
+  "a65606d78d1743cd": {
+    "title": "Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model",
+    "repo": "musfira-ai-thomson-reuters-releases-thomson-10-small-a-law-and-tax-focu"
+  },
+  "58f4bf37269757a4": {
+    "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+    "repo": "musfira-ai-apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra---u"
+  },
+  "31a9c8eca9f4991d": {
+    "title": "First serious confirmation. Ox Alpha is GLM-5.3-Flash",
+    "repo": "musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash"
+  },
+  "30f033c55f68fed1": {
+    "title": "Block users directly from security advisories",
+    "repo": "musfira-ai-block-users-directly-from-security-advisories"
+  },
+  "2ac60e7d419f6210": {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "repo": "musfira-ai-granite-42-llms-how-theyre-built"
   }
 }
