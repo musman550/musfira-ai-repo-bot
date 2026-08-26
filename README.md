@@ -3,14 +3,18 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 21
-**Last updated:** 2026-08-25
+**Total repos published:** 26
+**Last updated:** 2026-08-26
 
 ## Catalog
 
+- [Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory](https://github.com/musman550/musfira-ai-apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra---u)
 - [Best Local LLMs - August 2026](https://github.com/musman550/musfira-ai-best-local-llms---august-2026)
 - [Best Local Vision Language Models - August 2026](https://github.com/musman550/musfira-ai-best-local-vision-language-models---august-2026)
 - [Better tools for managing blocked users](https://github.com/musman550/musfira-ai-better-tools-for-managing-blocked-users)
+- [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
+- [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
+- [Granite 4.2 LLMs: How They're Built](https://github.com/musman550/musfira-ai-granite-42-llms-how-theyre-built)
 - [How Much Memory Does Your Agent Actually Need?](https://github.com/musman550/musfira-ai-how-much-memory-does-your-agent-actually-need)
 - [I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.](https://github.com/musman550/musfira-ai-i-benchmark-dflash-2-pr-build-in-llamacpp-on-qwen-38-27b-aga)
 - [I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB](https://github.com/musman550/musfira-ai-i-developed-my-own-quantized-llm-from-scratch-trained-on-30b)
@@ -27,6 +31,7 @@
 - [The new GitHub Copilot experience in Slack](https://github.com/musman550/musfira-ai-the-new-github-copilot-experience-in-slack)
 - [Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high](https://github.com/musman550/musfira-ai-think-youre-going-to-get-cheap-ddr5-ram-think-again-even-if)
 - [This is a great sub, regardless of what complaints people have about it.](https://github.com/musman550/musfira-ai-this-is-a-great-sub-regardless-of-what-complaints-people-hav)
+- [Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model](https://github.com/musman550/musfira-ai-thomson-reuters-releases-thomson-10-small-a-law-and-tax-focu)
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://github.com/musman550/musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 
