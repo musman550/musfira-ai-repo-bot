@@ -3,11 +3,12 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 26
-**Last updated:** 2026-08-26
+**Total repos published:** 29
+**Last updated:** 2026-08-27
 
 ## Catalog
 
+- [and then they came for the used server RAM.](https://github.com/musman550/musfira-ai-and-then-they-came-for-the-used-server-ram)
 - [Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory](https://github.com/musman550/musfira-ai-apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra---u)
 - [Best Local LLMs - August 2026](https://github.com/musman550/musfira-ai-best-local-llms---august-2026)
 - [Best Local Vision Language Models - August 2026](https://github.com/musman550/musfira-ai-best-local-vision-language-models---august-2026)
@@ -23,6 +24,7 @@
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence)
 - [New 100B Liquid AI model coming soon](https://github.com/musman550/musfira-ai-new-100b-liquid-ai-model-coming-soon)
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
+- [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
 - [Pinning saved views to the repository issues sidebar is generally available and more](https://github.com/musman550/musfira-ai-pinning-saved-views-to-the-repository-issues-sidebar-is-gene)
 - [Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.](https://github.com/musman550/musfira-ai-qwen-38-27b-in-9th-position-on-code-arena-gemma-4-31b-is-80t)
 - [Qwen 3.8 27B is a game changer.](https://github.com/musman550/musfira-ai-qwen-38-27b-is-a-game-changer)
@@ -33,6 +35,7 @@
 - [This is a great sub, regardless of what complaints people have about it.](https://github.com/musman550/musfira-ai-this-is-a-great-sub-regardless-of-what-complaints-people-hav)
 - [Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model](https://github.com/musman550/musfira-ai-thomson-reuters-releases-thomson-10-small-a-law-and-tax-focu)
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://github.com/musman550/musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark)
+- [We’re the Team Behind Apodex 1.1 — Ask Us Anything!](https://github.com/musman550/musfira-ai-were-the-team-behind-apodex-11-ask-us-anything)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 
 ## How it works
