@@ -122,5 +122,13 @@
   "44aae2ac43da1272": {
     "title": "Tencent/Hy4-preview 770B-A49B weight dropped",
     "repo": "musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped"
+  },
+  "43e6029b8a9f137f": {
+    "title": "Saved my fiances phone with qwen 3.8 27b",
+    "repo": "musfira-ai-saved-my-fiances-phone-with-qwen-38-27b"
+  },
+  "2b2ac323020f933a": {
+    "title": "Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error",
+    "repo": "musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a"
   }
 }
