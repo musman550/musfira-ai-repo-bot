@@ -46,6 +46,17 @@ CASUAL_TITLE_PATTERNS = [
 ]
 _CASUAL_RE = re.compile("|".join(CASUAL_TITLE_PATTERNS), re.IGNORECASE)
 
+AI_TECH_KEYWORDS = [
+    "ai", "llm", "model", "gpt", "ollama", "n8n", "automation", "agent",
+    "machine learning", " ml ", "github", "api", "open source", "open-source",
+    "framework", "sdk", "neural", "transformer", "chatbot", "workflow",
+    "copilot", "huggingface", "hugging face", "dataset", "inference",
+    "fine-tun", "prompt", "arxiv", "qwen", "llama", "gemma", "claude",
+    "gemini", "vision-language", "embedding", "quantiz", "benchmark",
+    "vscode", "vs code", "cli", "python", "docker", "kubernetes", "devops",
+]
+_AI_TECH_RE = re.compile("|".join(re.escape(k) for k in AI_TECH_KEYWORDS), re.IGNORECASE)
+
 
 def _is_technical_title(title: str) -> bool:
     """Rejects personal-anecdote / community-meta post titles (common on
@@ -54,6 +65,14 @@ def _is_technical_title(title: str) -> bool:
     LLMs nothing factual to ground content on, leading to fabricated
     'explanations' of what the post is actually about."""
     return not _CASUAL_RE.search(title)
+
+
+def _is_ai_tech_relevant(title: str, snippet: str = "") -> bool:
+    """Requires at least one AI/automation/dev-tooling keyword so generic,
+    non-AI feed items (e.g. unrelated product UI changes) don't slip
+    through just because they came from a tech-adjacent RSS feed."""
+    combined = f"{title} {snippet}"
+    return bool(_AI_TECH_RE.search(combined))
 
 
 def _slugify(text: str) -> str:
@@ -143,6 +162,8 @@ def dedupe_and_rank(candidates: list[dict], max_topics: int = 5) -> list[dict]:
         if not title or len(title) < 8:
             continue
         if not _is_technical_title(title):
+            continue
+        if not _is_ai_tech_relevant(title, c.get("snippet", "")):
             continue
         tid = _topic_id(title)
         if tid in seen_ids:
