@@ -13,6 +13,8 @@ WEBSITE_URL = os.environ.get("WEBSITE_URL", "https://musfiraai.com")
 LINKEDIN_URL = os.environ.get("LINKEDIN_URL", "https://www.linkedin.com/in/musfira-ai-b3218b39b")
 INSTAGRAM_URL = os.environ.get("INSTAGRAM_URL", "https://instagram.com/musma_n55")
 GMAPS_URL = os.environ.get("GMAPS_URL", "https://share.google/kJchUsfQyABVLghSF")
+WHATSAPP_URL = os.environ.get("WHATSAPP_URL", "https://wa.me/923217358096")
+PHONE_NUMBER = os.environ.get("PHONE_NUMBER", "+923217358096")
 
 
 def _promo_block() -> str:
@@ -22,6 +24,8 @@ def _promo_block() -> str:
         f"- 💼 LinkedIn: [{LINKEDIN_URL}]({LINKEDIN_URL})",
         f"- 📸 Instagram: [{INSTAGRAM_URL}]({INSTAGRAM_URL})",
         f"- 📍 Location: [Google Maps]({GMAPS_URL})",
+        f"- 💬 WhatsApp: [Chat with us]({WHATSAPP_URL})",
+        f"- 📞 Call: [{PHONE_NUMBER}](tel:{PHONE_NUMBER})",
     ]
     return "\n".join(links)
 
