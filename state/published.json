@@ -114,5 +114,25 @@
   "2b2ac323020f933a": {
     "title": "Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error",
     "repo": "musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a"
+  },
+  "182c94a463878834": {
+    "title": "[Megathread] GLM-5.3-Flash - former ox-alpha",
+    "repo": "musfira-ai-megathread-glm-53-flash---former-ox-alpha"
+  },
+  "2c828fea083b8565": {
+    "title": "It's official! 192GB Framework",
+    "repo": "musfira-ai-its-official-192gb-framework"
+  },
+  "cec581629a745eaf": {
+    "title": "Better label management on issues is generally available",
+    "repo": "musfira-ai-better-label-management-on-issues-is-generally-available"
+  },
+  "d5e153b33848c3b9": {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "repo": "musfira-ai-training-and-finetuning-multi-vector-embedding-models-with-s"
+  },
+  "691a49cc1154cac8": {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "repo": "musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio"
   }
 }
