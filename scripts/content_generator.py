@@ -97,6 +97,11 @@ def _build_prompt(title: str, snippet: str) -> str:
     return f"""Write original technical documentation about: "{title}"
 Context: {snippet or "a recent development in AI/automation tooling"}
 
+Only state facts, features, or specifications that are supported by the title
+and context above. If the context is vague or limited, keep the writing at a
+general, accurate level rather than inventing specific technical details,
+architecture, or numbers that were not given to you.
+
 Output exactly 5 blocks of content separated by a line containing only ###.
 Start writing the actual content immediately in each block — do not restate
 these instructions, do not print section titles or numbers, do not print
