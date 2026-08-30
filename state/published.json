@@ -23,10 +23,6 @@
     "title": "How Much Memory Does Your Agent Actually Need?",
     "repo": "musfira-ai-how-much-memory-does-your-agent-actually-need"
   },
-  "b145210310fc9878": {
-    "title": "This is a great sub, regardless of what complaints people have about it.",
-    "repo": "musfira-ai-this-is-a-great-sub-regardless-of-what-complaints-people-hav"
-  },
   "b1e9085aa20d98e3": {
     "title": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
     "repo": "musfira-ai-i-benchmark-dflash-2-pr-build-in-llamacpp-on-qwen-38-27b-aga"
@@ -62,10 +58,6 @@
   "770f6cb44052f21b": {
     "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB",
     "repo": "musfira-ai-i-developed-my-own-quantized-llm-from-scratch-trained-on-30b"
-  },
-  "6d5cd7eab760ea7c": {
-    "title": "Qwen 3.8 27B, just wanted to say thanks to you guys",
-    "repo": "musfira-ai-qwen-38-27b-just-wanted-to-say-thanks-to-you-guys"
   },
   "d911eb7b76326ca7": {
     "title": "New qwen3.8:27b on a 39k line C to single-file HTML / three.js port",
@@ -107,10 +99,6 @@
     "title": "NVIDIA buying HF isn't a good thing for open source",
     "repo": "musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source"
   },
-  "5ce722c9e5981701": {
-    "title": "We\u2019re the Team Behind Apodex 1.1 \u2014 Ask Us Anything!",
-    "repo": "musfira-ai-were-the-team-behind-apodex-11-ask-us-anything"
-  },
   "a52db256906cea00": {
     "title": "and then they came for the used server RAM.",
     "repo": "musfira-ai-and-then-they-came-for-the-used-server-ram"
@@ -122,10 +110,6 @@
   "44aae2ac43da1272": {
     "title": "Tencent/Hy4-preview 770B-A49B weight dropped",
     "repo": "musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped"
-  },
-  "43e6029b8a9f137f": {
-    "title": "Saved my fiances phone with qwen 3.8 27b",
-    "repo": "musfira-ai-saved-my-fiances-phone-with-qwen-38-27b"
   },
   "2b2ac323020f933a": {
     "title": "Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error",
