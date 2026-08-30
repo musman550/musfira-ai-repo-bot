@@ -48,6 +48,8 @@ Every day this bot:
 - ▶️ YouTube: [Automate With Musfira AI](https://www.youtube.com/@automatewithmusfiraai)
 - 💼 LinkedIn: [Musfira AI](https://www.linkedin.com/in/musfira-ai-b3218b39b)
 - 📸 Instagram: [@musma_n55](https://instagram.com/musma_n55)
+- 💬 WhatsApp: [Chat with us](https://wa.me/923217358096)
+- 📞 Call: [+923217358096](tel:+923217358096)
 
 ## License
 
