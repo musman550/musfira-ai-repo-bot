@@ -3,7 +3,7 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 29
+**Total repos published:** 34
 **Last updated:** 2026-08-30
 
 ## Catalog
@@ -12,6 +12,7 @@
 - [Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory](https://github.com/musman550/musfira-ai-apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra---u)
 - [Best Local LLMs - August 2026](https://github.com/musman550/musfira-ai-best-local-llms---august-2026)
 - [Best Local Vision Language Models - August 2026](https://github.com/musman550/musfira-ai-best-local-vision-language-models---august-2026)
+- [Better label management on issues is generally available](https://github.com/musman550/musfira-ai-better-label-management-on-issues-is-generally-available)
 - [Better tools for managing blocked users](https://github.com/musman550/musfira-ai-better-tools-for-managing-blocked-users)
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
@@ -20,7 +21,9 @@
 - [I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.](https://github.com/musman550/musfira-ai-i-benchmark-dflash-2-pr-build-in-llamacpp-on-qwen-38-27b-aga)
 - [I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB](https://github.com/musman550/musfira-ai-i-developed-my-own-quantized-llm-from-scratch-trained-on-30b)
 - [I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150](https://github.com/musman550/musfira-ai-i-trained-a-157b-parameter-dreamer-4-world-model-from-scratc)
+- [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
+- [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence)
 - [New 100B Liquid AI model coming soon](https://github.com/musman550/musfira-ai-new-100b-liquid-ai-model-coming-soon)
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
@@ -34,8 +37,10 @@
 - [The new GitHub Copilot experience in Slack](https://github.com/musman550/musfira-ai-the-new-github-copilot-experience-in-slack)
 - [Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high](https://github.com/musman550/musfira-ai-think-youre-going-to-get-cheap-ddr5-ram-think-again-even-if)
 - [Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model](https://github.com/musman550/musfira-ai-thomson-reuters-releases-thomson-10-small-a-law-and-tax-focu)
+- [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-training-and-finetuning-multi-vector-embedding-models-with-s)
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://github.com/musman550/musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
+- [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
 - [zai-org/GLM-5.3 · Hugging Face](https://github.com/musman550/musfira-ai-zai-orgglm-53-hugging-face)
 
 ## How it works
@@ -52,6 +57,8 @@ Every day this bot:
 - ▶️ YouTube: [Automate With Musfira AI](https://www.youtube.com/@automatewithmusfiraai)
 - 💼 LinkedIn: [Musfira AI](https://www.linkedin.com/in/musfira-ai-b3218b39b)
 - 📸 Instagram: [@musma_n55](https://instagram.com/musma_n55)
+- 💬 WhatsApp: [Chat with us](https://wa.me/923217358096)
+- 📞 Call: [+923217358096](tel:+923217358096)
 
 ## License
 
