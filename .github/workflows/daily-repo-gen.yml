@@ -50,6 +50,8 @@ jobs:
           LINKEDIN_URL: ${{ vars.LINKEDIN_URL }}
           INSTAGRAM_URL: ${{ vars.INSTAGRAM_URL }}
           GMAPS_URL: ${{ vars.GMAPS_URL }}
+          WHATSAPP_URL: ${{ vars.WHATSAPP_URL }}
+          PHONE_NUMBER: ${{ vars.PHONE_NUMBER }}
           REPOS_PER_DAY_MIN: "2"
           REPOS_PER_DAY_MAX: "5"
           OLLAMA_MODELS: "llama3.2:1b,qwen2.5:1.5b,gemma2:2b"
