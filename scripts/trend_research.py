@@ -38,6 +38,23 @@ RSS_FEEDS = [
 
 STOPWORDS = {"the", "a", "an", "for", "with", "and", "to", "of", "in", "on", "is"}
 
+CASUAL_TITLE_PATTERNS = [
+    r"\bmy\s", r"\bi'm\b", r"\bi've\b", r"\bi\s", r"\bwe're\b", r"\bwe've\b",
+    r"\bour\s", r"\bthanks\b", r"\bthank you\b", r"\bfiance", r"\bwife\b",
+    r"\bhusband\b", r"\bask us anything\b", r"\bama\b", r"\bthis sub\b",
+    r"\bregardless of what complaints\b", r"\bwe are the team\b",
+]
+_CASUAL_RE = re.compile("|".join(CASUAL_TITLE_PATTERNS), re.IGNORECASE)
+
+
+def _is_technical_title(title: str) -> bool:
+    """Rejects personal-anecdote / community-meta post titles (common on
+    Reddit RSS) that read like forum chatter rather than a technical
+    announcement — these produce unprofessional repo names and give small
+    LLMs nothing factual to ground content on, leading to fabricated
+    'explanations' of what the post is actually about."""
+    return not _CASUAL_RE.search(title)
+
 
 def _slugify(text: str) -> str:
     text = re.sub(r"[^a-zA-Z0-9\s-]", "", text).strip().lower()
@@ -124,6 +141,8 @@ def dedupe_and_rank(candidates: list[dict], max_topics: int = 5) -> list[dict]:
     for c in candidates:
         title = c.get("title", "")
         if not title or len(title) < 8:
+            continue
+        if not _is_technical_title(title):
             continue
         tid = _topic_id(title)
         if tid in seen_ids:
