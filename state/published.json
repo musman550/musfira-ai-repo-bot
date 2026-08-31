@@ -134,5 +134,13 @@
   "691a49cc1154cac8": {
     "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
     "repo": "musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio"
+  },
+  "5b576f717b22aebb": {
+    "title": "vote for the Qwen 3.8",
+    "repo": "musfira-ai-vote-for-the-qwen-38"
+  },
+  "cca2938cc17edf3d": {
+    "title": "Upcoming changes to GitHub Copilot policies and billing",
+    "repo": "musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing"
   }
 }
