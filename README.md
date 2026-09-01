@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 36
-**Last updated:** 2026-08-31
+**Total repos published:** 37
+**Last updated:** 2026-09-01
 
 ## Catalog
 
@@ -24,6 +24,7 @@
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
+- [MTP released for Qwen3.8-Flash-Next-GGUF](https://github.com/musman550/musfira-ai-mtp-released-for-qwen38-flash-next-gguf)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence)
 - [New 100B Liquid AI model coming soon](https://github.com/musman550/musfira-ai-new-100b-liquid-ai-model-coming-soon)
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
