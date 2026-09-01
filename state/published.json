@@ -142,5 +142,9 @@
   "cca2938cc17edf3d": {
     "title": "Upcoming changes to GitHub Copilot policies and billing",
     "repo": "musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing"
+  },
+  "7466b0018c28b484": {
+    "title": "MTP released for Qwen3.8-Flash-Next-GGUF",
+    "repo": "musfira-ai-mtp-released-for-qwen38-flash-next-gguf"
   }
 }
