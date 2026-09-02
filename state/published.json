@@ -146,5 +146,13 @@
   "7466b0018c28b484": {
     "title": "MTP released for Qwen3.8-Flash-Next-GGUF",
     "repo": "musfira-ai-mtp-released-for-qwen38-flash-next-gguf"
+  },
+  "28ccb99a3dfd06de": {
+    "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
+    "repo": "musfira-ai-claude-fable-51-is-generally-available-in-github-copilot"
+  },
+  "1c86955e3ca76db8": {
+    "title": "Qwen will be the king?",
+    "repo": "musfira-ai-qwen-will-be-the-king"
   }
 }
