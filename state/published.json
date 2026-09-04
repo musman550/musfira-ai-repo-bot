@@ -158,5 +158,13 @@
   "e585df8897d02c10": {
     "title": "How to handle naughty model",
     "repo": "musfira-ai-how-to-handle-naughty-model"
+  },
+  "0b3c1d3ee56fb830": {
+    "title": "Upcoming deprecation of selected GitHub Copilot models",
+    "repo": "musfira-ai-upcoming-deprecation-of-selected-github-copilot-models"
+  },
+  "104808c1015d6294": {
+    "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+    "repo": "musfira-ai-gemini-38-flash-is-now-available-in-github-copilot"
   }
 }
