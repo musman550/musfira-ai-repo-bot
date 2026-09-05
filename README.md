@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 42
-**Last updated:** 2026-09-04
+**Total repos published:** 44
+**Last updated:** 2026-09-05
 
 ## Catalog
 
@@ -29,6 +29,7 @@
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
 - [MTP released for Qwen3.8-Flash-Next-GGUF](https://github.com/musman550/musfira-ai-mtp-released-for-qwen38-flash-next-gguf)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence)
+- [Multiple trusted publishing configurations for npm](https://github.com/musman550/musfira-ai-multiple-trusted-publishing-configurations-for-npm)
 - [New 100B Liquid AI model coming soon](https://github.com/musman550/musfira-ai-new-100b-liquid-ai-model-coming-soon)
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
@@ -36,6 +37,7 @@
 - [Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.](https://github.com/musman550/musfira-ai-qwen-38-27b-in-9th-position-on-code-arena-gemma-4-31b-is-80t)
 - [Qwen 3.8 27B is a game changer.](https://github.com/musman550/musfira-ai-qwen-38-27b-is-a-game-changer)
 - [Qwen will be the king?](https://github.com/musman550/musfira-ai-qwen-will-be-the-king)
+- [Qwen3.8-27B beat the Wikipedia game in 6 clicks.](https://github.com/musman550/musfira-ai-qwen38-27b-beat-the-wikipedia-game-in-6-clicks)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
 - [Tencent/Hy4-preview 770B-A49B weight dropped](https://github.com/musman550/musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped)
 - [Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error](https://github.com/musman550/musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a)
