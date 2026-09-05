@@ -166,5 +166,13 @@
   "104808c1015d6294": {
     "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
     "repo": "musfira-ai-gemini-38-flash-is-now-available-in-github-copilot"
+  },
+  "a548eb4bd7f047cd": {
+    "title": "Qwen3.8-27B beat the Wikipedia game in 6 clicks.",
+    "repo": "musfira-ai-qwen38-27b-beat-the-wikipedia-game-in-6-clicks"
+  },
+  "35c529435c5e5397": {
+    "title": "Multiple trusted publishing configurations for npm",
+    "repo": "musfira-ai-multiple-trusted-publishing-configurations-for-npm"
   }
 }
