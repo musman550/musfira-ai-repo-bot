@@ -174,5 +174,13 @@
   "35c529435c5e5397": {
     "title": "Multiple trusted publishing configurations for npm",
     "repo": "musfira-ai-multiple-trusted-publishing-configurations-for-npm"
+  },
+  "d9d3efaceb139cd9": {
+    "title": "Qwen 3.8 Flash Next (Max) is impressive just to talk with.",
+    "repo": "musfira-ai-qwen-38-flash-next-max-is-impressive-just-to-talk-with"
+  },
+  "c4aa0dbffdc97fa1": {
+    "title": "Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM",
+    "repo": "musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx"
   }
 }
