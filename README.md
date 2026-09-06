@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 44
-**Last updated:** 2026-09-05
+**Total repos published:** 46
+**Last updated:** 2026-09-06
 
 ## Catalog
 
@@ -36,6 +36,7 @@
 - [Pinning saved views to the repository issues sidebar is generally available and more](https://github.com/musman550/musfira-ai-pinning-saved-views-to-the-repository-issues-sidebar-is-gene)
 - [Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.](https://github.com/musman550/musfira-ai-qwen-38-27b-in-9th-position-on-code-arena-gemma-4-31b-is-80t)
 - [Qwen 3.8 27B is a game changer.](https://github.com/musman550/musfira-ai-qwen-38-27b-is-a-game-changer)
+- [Qwen 3.8 Flash Next (Max) is impressive just to talk with.](https://github.com/musman550/musfira-ai-qwen-38-flash-next-max-is-impressive-just-to-talk-with)
 - [Qwen will be the king?](https://github.com/musman550/musfira-ai-qwen-will-be-the-king)
 - [Qwen3.8-27B beat the Wikipedia game in 6 clicks.](https://github.com/musman550/musfira-ai-qwen38-27b-beat-the-wikipedia-game-in-6-clicks)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
@@ -48,6 +49,7 @@
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://github.com/musman550/musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark)
 - [Upcoming changes to GitHub Copilot policies and billing](https://github.com/musman550/musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing)
 - [Upcoming deprecation of selected GitHub Copilot models](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models)
+- [Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM](https://github.com/musman550/musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx)
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
