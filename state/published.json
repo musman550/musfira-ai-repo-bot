@@ -182,5 +182,25 @@
   "c4aa0dbffdc97fa1": {
     "title": "Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM",
     "repo": "musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx"
+  },
+  "c75d0bc2de94edeb": {
+    "title": "New Benchmark: The Struggle Bench",
+    "repo": "musfira-ai-new-benchmark-the-struggle-bench"
+  },
+  "6b4891739124b068": {
+    "title": "tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)",
+    "repo": "musfira-ai-tencentevie-8b-and-evie-45b-high-capacity-visual-document-re"
+  },
+  "428b049451121d73": {
+    "title": "New API endpoint provides privacy-safe star history data",
+    "repo": "musfira-ai-new-api-endpoint-provides-privacy-safe-star-history-data"
+  },
+  "fb52ec6ebfb682b4": {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "repo": "musfira-ai-give-your-coding-agents-a-memory-you-own"
+  },
+  "74c5fc09cf9196a1": {
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "repo": "musfira-ai-training-a-coding-model-to-paint-watercolours-with-trl-and-o"
   }
 }
