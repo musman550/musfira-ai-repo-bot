@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 46
-**Last updated:** 2026-09-06
+**Total repos published:** 51
+**Last updated:** 2026-09-07
 
 ## Catalog
 
@@ -18,6 +18,7 @@
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
 - [Gemini 3.8 Flash is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-38-flash-is-now-available-in-github-copilot)
+- [Give Your Coding Agents a Memory You Own](https://github.com/musman550/musfira-ai-give-your-coding-agents-a-memory-you-own)
 - [Granite 4.2 LLMs: How They're Built](https://github.com/musman550/musfira-ai-granite-42-llms-how-theyre-built)
 - [How Much Memory Does Your Agent Actually Need?](https://github.com/musman550/musfira-ai-how-much-memory-does-your-agent-actually-need)
 - [How to handle naughty model](https://github.com/musman550/musfira-ai-how-to-handle-naughty-model)
@@ -31,6 +32,8 @@
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence)
 - [Multiple trusted publishing configurations for npm](https://github.com/musman550/musfira-ai-multiple-trusted-publishing-configurations-for-npm)
 - [New 100B Liquid AI model coming soon](https://github.com/musman550/musfira-ai-new-100b-liquid-ai-model-coming-soon)
+- [New API endpoint provides privacy-safe star history data](https://github.com/musman550/musfira-ai-new-api-endpoint-provides-privacy-safe-star-history-data)
+- [New Benchmark: The Struggle Bench](https://github.com/musman550/musfira-ai-new-benchmark-the-struggle-bench)
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
 - [Pinning saved views to the repository issues sidebar is generally available and more](https://github.com/musman550/musfira-ai-pinning-saved-views-to-the-repository-issues-sidebar-is-gene)
@@ -40,11 +43,13 @@
 - [Qwen will be the king?](https://github.com/musman550/musfira-ai-qwen-will-be-the-king)
 - [Qwen3.8-27B beat the Wikipedia game in 6 clicks.](https://github.com/musman550/musfira-ai-qwen38-27b-beat-the-wikipedia-game-in-6-clicks)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
+- [tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)](https://github.com/musman550/musfira-ai-tencentevie-8b-and-evie-45b-high-capacity-visual-document-re)
 - [Tencent/Hy4-preview 770B-A49B weight dropped](https://github.com/musman550/musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped)
 - [Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error](https://github.com/musman550/musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a)
 - [The new GitHub Copilot experience in Slack](https://github.com/musman550/musfira-ai-the-new-github-copilot-experience-in-slack)
 - [Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high](https://github.com/musman550/musfira-ai-think-youre-going-to-get-cheap-ddr5-ram-think-again-even-if)
 - [Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model](https://github.com/musman550/musfira-ai-thomson-reuters-releases-thomson-10-small-a-law-and-tax-focu)
+- [Training a coding model to paint watercolours with TRL and OpenEnv](https://github.com/musman550/musfira-ai-training-a-coding-model-to-paint-watercolours-with-trl-and-o)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-training-and-finetuning-multi-vector-embedding-models-with-s)
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://github.com/musman550/musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark)
 - [Upcoming changes to GitHub Copilot policies and billing](https://github.com/musman550/musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing)
