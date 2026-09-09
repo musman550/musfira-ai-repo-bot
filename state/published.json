@@ -206,5 +206,25 @@
   "4e95e66ed85c5014": {
     "title": "GitHub Actions: Early September 2026 updates",
     "repo": "musfira-ai-github-actions-early-september-2026-updates"
+  },
+  "e59ea521e3c49050": {
+    "title": "GitHub Copilot weekly releases \u2014 August 31",
+    "repo": "musfira-ai-github-copilot-weekly-releases-august-31"
+  },
+  "fc3c284f0398a7a1": {
+    "title": "OpenAI alleged of stealing mathematicians work",
+    "repo": "musfira-ai-openai-alleged-of-stealing-mathematicians-work"
+  },
+  "bdd0ba2011a480e8": {
+    "title": "Deepseek Has Soft Retired Deepseek V4 Pro",
+    "repo": "musfira-ai-deepseek-has-soft-retired-deepseek-v4-pro"
+  },
+  "4406c2852ecc061f": {
+    "title": "Qwen3.8-Flash-Next on MLX-serve, 1m context is released!",
+    "repo": "musfira-ai-qwen38-flash-next-on-mlx-serve-1m-context-is-released"
+  },
+  "77bd2b82e1706b6c": {
+    "title": "Qwen/Qwen-Drive-1.0-4B \u00b7 Hugging Face",
+    "repo": "musfira-ai-qwenqwen-drive-10-4b-hugging-face"
   }
 }
