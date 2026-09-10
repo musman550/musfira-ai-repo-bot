@@ -226,5 +226,21 @@
   "77bd2b82e1706b6c": {
     "title": "Qwen/Qwen-Drive-1.0-4B \u00b7 Hugging Face",
     "repo": "musfira-ai-qwenqwen-drive-10-4b-hugging-face"
+  },
+  "05d092bef10003b5": {
+    "title": "Remediate Code Quality findings with agentic autofix",
+    "repo": "musfira-ai-remediate-code-quality-findings-with-agentic-autofix"
+  },
+  "f15bd973c8377f61": {
+    "title": "deepseek-ai/DeepSeek-V4.1-Flash \u00b7 Hugging Face",
+    "repo": "musfira-ai-deepseek-aideepseek-v41-flash-hugging-face"
+  },
+  "800768c67a63931c": {
+    "title": "So relevant",
+    "repo": "musfira-ai-so-relevant"
+  },
+  "cb6d35c42ffc0812": {
+    "title": "DeepSeek-V4.1-Flash surprised ....",
+    "repo": "musfira-ai-deepseek-v41-flash-surprised"
   }
 }
