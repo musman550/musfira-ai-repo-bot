@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 57
-**Last updated:** 2026-09-09
+**Total repos published:** 61
+**Last updated:** 2026-09-10
 
 ## Catalog
 
@@ -16,7 +16,9 @@
 - [Better tools for managing blocked users](https://github.com/musman550/musfira-ai-better-tools-for-managing-blocked-users)
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
+- [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
 - [Deepseek Has Soft Retired Deepseek V4 Pro](https://github.com/musman550/musfira-ai-deepseek-has-soft-retired-deepseek-v4-pro)
+- [DeepSeek-V4.1-Flash surprised ....](https://github.com/musman550/musfira-ai-deepseek-v41-flash-surprised)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
 - [Gemini 3.8 Flash is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-38-flash-is-now-available-in-github-copilot)
 - [GitHub Actions: Early September 2026 updates](https://github.com/musman550/musfira-ai-github-actions-early-september-2026-updates)
@@ -48,7 +50,9 @@
 - [Qwen3.8-27B beat the Wikipedia game in 6 clicks.](https://github.com/musman550/musfira-ai-qwen38-27b-beat-the-wikipedia-game-in-6-clicks)
 - [Qwen3.8-Flash-Next on MLX-serve, 1m context is released!](https://github.com/musman550/musfira-ai-qwen38-flash-next-on-mlx-serve-1m-context-is-released)
 - [Qwen/Qwen-Drive-1.0-4B · Hugging Face](https://github.com/musman550/musfira-ai-qwenqwen-drive-10-4b-hugging-face)
+- [Remediate Code Quality findings with agentic autofix](https://github.com/musman550/musfira-ai-remediate-code-quality-findings-with-agentic-autofix)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
+- [So relevant](https://github.com/musman550/musfira-ai-so-relevant)
 - [tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)](https://github.com/musman550/musfira-ai-tencentevie-8b-and-evie-45b-high-capacity-visual-document-re)
 - [Tencent/Hy4-preview 770B-A49B weight dropped](https://github.com/musman550/musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped)
 - [Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error](https://github.com/musman550/musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a)
