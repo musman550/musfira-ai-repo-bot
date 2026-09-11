@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 61
-**Last updated:** 2026-09-10
+**Total repos published:** 63
+**Last updated:** 2026-09-11
 
 ## Catalog
 
@@ -27,9 +27,11 @@
 - [Granite 4.2 LLMs: How They're Built](https://github.com/musman550/musfira-ai-granite-42-llms-how-theyre-built)
 - [How Much Memory Does Your Agent Actually Need?](https://github.com/musman550/musfira-ai-how-much-memory-does-your-agent-actually-need)
 - [How to handle naughty model](https://github.com/musman550/musfira-ai-how-to-handle-naughty-model)
+- [Hugging Face security.txt](https://github.com/musman550/musfira-ai-hugging-face-securitytxt)
 - [I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.](https://github.com/musman550/musfira-ai-i-benchmark-dflash-2-pr-build-in-llamacpp-on-qwen-38-27b-aga)
 - [I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB](https://github.com/musman550/musfira-ai-i-developed-my-own-quantized-llm-from-scratch-trained-on-30b)
 - [I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150](https://github.com/musman550/musfira-ai-i-trained-a-157b-parameter-dreamer-4-world-model-from-scratc)
+- [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://github.com/musman550/musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
