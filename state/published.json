@@ -242,5 +242,13 @@
   "cb6d35c42ffc0812": {
     "title": "DeepSeek-V4.1-Flash surprised ....",
     "repo": "musfira-ai-deepseek-v41-flash-surprised"
+  },
+  "92cfe175301e96dd": {
+    "title": "Hugging Face security.txt",
+    "repo": "musfira-ai-hugging-face-securitytxt"
+  },
+  "73f40b5c680d0733": {
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "repo": "musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w"
   }
 }
