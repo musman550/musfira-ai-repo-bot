@@ -262,5 +262,9 @@
   "585c5df51ff2aff8": {
     "title": "Refreshed repository pull requests page in public preview",
     "repo": "musfira-ai-refreshed-repository-pull-requests-page-in-public-preview"
+  },
+  "63188156a4c7231a": {
+    "title": "AI Scan for pull request APIs in public preview",
+    "repo": "musfira-ai-ai-scan-for-pull-request-apis-in-public-preview"
   }
 }
