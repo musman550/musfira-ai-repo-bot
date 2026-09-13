@@ -3,12 +3,13 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 66
-**Last updated:** 2026-09-12
+**Total repos published:** 67
+**Last updated:** 2026-09-13
 
 ## Catalog
 
 - [Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36](https://github.com/musman550/musfira-ai-agnes-aiagnes-30-flash-33b-multimodal-aa-score-36)
+- [AI Scan for pull request APIs in public preview](https://github.com/musman550/musfira-ai-ai-scan-for-pull-request-apis-in-public-preview)
 - [and then they came for the used server RAM.](https://github.com/musman550/musfira-ai-and-then-they-came-for-the-used-server-ram)
 - [Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory](https://github.com/musman550/musfira-ai-apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra---u)
 - [Best Local LLMs - August 2026](https://github.com/musman550/musfira-ai-best-local-llms---august-2026)
