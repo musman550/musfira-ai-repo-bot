@@ -266,5 +266,13 @@
   "63188156a4c7231a": {
     "title": "AI Scan for pull request APIs in public preview",
     "repo": "musfira-ai-ai-scan-for-pull-request-apis-in-public-preview"
+  },
+  "621a020f71d413a3": {
+    "title": "Add VS Code Agents to Copilot usage metrics",
+    "repo": "musfira-ai-add-vs-code-agents-to-copilot-usage-metrics"
+  },
+  "eb99ac8a13854a62": {
+    "title": "DeepSeek V4.1 Flash beats Astra on AA's new benchmark",
+    "repo": "musfira-ai-deepseek-v41-flash-beats-astra-on-aas-new-benchmark"
   }
 }
