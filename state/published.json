@@ -278,5 +278,25 @@
   "e3289f9f2bee106f": {
     "title": "Profiles now show your highest achievement badge tier",
     "repo": "musfira-ai-profiles-now-show-your-highest-achievement-badge-tier"
+  },
+  "1109f50c073dc62e": {
+    "title": "Mozilla Report: China-U.S. AI Model Capability Gap Narrows to 4.4 Months",
+    "repo": "musfira-ai-mozilla-report-china-us-ai-model-capability-gap-narrows-to-4"
+  },
+  "4f234c6aadb4c6ba": {
+    "title": "Configure cost and quality in Copilot auto model selection",
+    "repo": "musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection"
+  },
+  "257e7c0856e3b91e": {
+    "title": "Don\u2019t buy a $9K RTX 5090.... instead.",
+    "repo": "musfira-ai-dont-buy-a-9k-rtx-5090-instead"
+  },
+  "7be8b1463d22aca1": {
+    "title": "Qwen3.8 27b Game Dev Part 2",
+    "repo": "musfira-ai-qwen38-27b-game-dev-part-2"
+  },
+  "f3689b00cc2c22fc": {
+    "title": "Enforce GitHub Advanced Security configurations",
+    "repo": "musfira-ai-enforce-github-advanced-security-configurations"
   }
 }
