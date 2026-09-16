@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 70
-**Last updated:** 2026-09-15
+**Total repos published:** 75
+**Last updated:** 2026-09-16
 
 ## Catalog
 
@@ -19,10 +19,13 @@
 - [Better tools for managing blocked users](https://github.com/musman550/musfira-ai-better-tools-for-managing-blocked-users)
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
+- [Configure cost and quality in Copilot auto model selection](https://github.com/musman550/musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection)
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
 - [Deepseek Has Soft Retired Deepseek V4 Pro](https://github.com/musman550/musfira-ai-deepseek-has-soft-retired-deepseek-v4-pro)
 - [DeepSeek V4.1 Flash beats Astra on AA's new benchmark](https://github.com/musman550/musfira-ai-deepseek-v41-flash-beats-astra-on-aas-new-benchmark)
 - [DeepSeek-V4.1-Flash surprised ....](https://github.com/musman550/musfira-ai-deepseek-v41-flash-surprised)
+- [Don’t buy a $9K RTX 5090.... instead.](https://github.com/musman550/musfira-ai-dont-buy-a-9k-rtx-5090-instead)
+- [Enforce GitHub Advanced Security configurations](https://github.com/musman550/musfira-ai-enforce-github-advanced-security-configurations)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
 - [Gemini 3.8 Flash is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-38-flash-is-now-available-in-github-copilot)
 - [GitHub Actions: Early September 2026 updates](https://github.com/musman550/musfira-ai-github-actions-early-september-2026-updates)
@@ -40,6 +43,7 @@
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
+- [Mozilla Report: China-U.S. AI Model Capability Gap Narrows to 4.4 Months](https://github.com/musman550/musfira-ai-mozilla-report-china-us-ai-model-capability-gap-narrows-to-4)
 - [MTP released for Qwen3.8-Flash-Next-GGUF](https://github.com/musman550/musfira-ai-mtp-released-for-qwen38-flash-next-gguf)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence)
 - [Multiple trusted publishing configurations for npm](https://github.com/musman550/musfira-ai-multiple-trusted-publishing-configurations-for-npm)
@@ -56,6 +60,7 @@
 - [Qwen 3.8 Flash Next (Max) is impressive just to talk with.](https://github.com/musman550/musfira-ai-qwen-38-flash-next-max-is-impressive-just-to-talk-with)
 - [Qwen will be the king?](https://github.com/musman550/musfira-ai-qwen-will-be-the-king)
 - [Qwen3.8-27B beat the Wikipedia game in 6 clicks.](https://github.com/musman550/musfira-ai-qwen38-27b-beat-the-wikipedia-game-in-6-clicks)
+- [Qwen3.8 27b Game Dev Part 2](https://github.com/musman550/musfira-ai-qwen38-27b-game-dev-part-2)
 - [Qwen3.8-Flash-Next on MLX-serve, 1m context is released!](https://github.com/musman550/musfira-ai-qwen38-flash-next-on-mlx-serve-1m-context-is-released)
 - [Qwen/Qwen-Drive-1.0-4B · Hugging Face](https://github.com/musman550/musfira-ai-qwenqwen-drive-10-4b-hugging-face)
 - [Refreshed repository pull requests page in public preview](https://github.com/musman550/musfira-ai-refreshed-repository-pull-requests-page-in-public-preview)
