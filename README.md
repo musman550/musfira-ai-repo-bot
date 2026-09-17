@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 75
-**Last updated:** 2026-09-16
+**Total repos published:** 79
+**Last updated:** 2026-09-17
 
 ## Catalog
 
@@ -13,13 +13,16 @@
 - [AI Scan for pull request APIs in public preview](https://github.com/musman550/musfira-ai-ai-scan-for-pull-request-apis-in-public-preview)
 - [and then they came for the used server RAM.](https://github.com/musman550/musfira-ai-and-then-they-came-for-the-used-server-ram)
 - [Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory](https://github.com/musman550/musfira-ai-apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra---u)
+- [Automate SSO authorization for classic PATs and SSH keys](https://github.com/musman550/musfira-ai-automate-sso-authorization-for-classic-pats-and-ssh-keys)
 - [Best Local LLMs - August 2026](https://github.com/musman550/musfira-ai-best-local-llms---august-2026)
 - [Best Local Vision Language Models - August 2026](https://github.com/musman550/musfira-ai-best-local-vision-language-models---august-2026)
 - [Better label management on issues is generally available](https://github.com/musman550/musfira-ai-better-label-management-on-issues-is-generally-available)
 - [Better tools for managing blocked users](https://github.com/musman550/musfira-ai-better-tools-for-managing-blocked-users)
+- [[Bi-Weekly Megathread] Project Showcase](https://github.com/musman550/musfira-ai-bi-weekly-megathread-project-showcase)
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
 - [Configure cost and quality in Copilot auto model selection](https://github.com/musman550/musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection)
+- [Copilot budget increase requests are generally available](https://github.com/musman550/musfira-ai-copilot-budget-increase-requests-are-generally-available)
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
 - [Deepseek Has Soft Retired Deepseek V4 Pro](https://github.com/musman550/musfira-ai-deepseek-has-soft-retired-deepseek-v4-pro)
 - [DeepSeek V4.1 Flash beats Astra on AA's new benchmark](https://github.com/musman550/musfira-ai-deepseek-v41-flash-beats-astra-on-aas-new-benchmark)
@@ -82,6 +85,7 @@
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
+- [XingChen-AGI/Xing4.0-29B-A4B MoE](https://github.com/musman550/musfira-ai-xingchen-agixing40-29b-a4b-moe)
 - [zai-org/GLM-5.3 · Hugging Face](https://github.com/musman550/musfira-ai-zai-orgglm-53-hugging-face)
 
 ## How it works
