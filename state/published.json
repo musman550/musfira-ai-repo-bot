@@ -298,5 +298,21 @@
   "f3689b00cc2c22fc": {
     "title": "Enforce GitHub Advanced Security configurations",
     "repo": "musfira-ai-enforce-github-advanced-security-configurations"
+  },
+  "a020ae22f465d073": {
+    "title": "XingChen-AGI/Xing4.0-29B-A4B MoE",
+    "repo": "musfira-ai-xingchen-agixing40-29b-a4b-moe"
+  },
+  "859984cb82cb61fd": {
+    "title": "[Bi-Weekly Megathread] Project Showcase",
+    "repo": "musfira-ai-bi-weekly-megathread-project-showcase"
+  },
+  "c08ca44a10de3758": {
+    "title": "Automate SSO authorization for classic PATs and SSH keys",
+    "repo": "musfira-ai-automate-sso-authorization-for-classic-pats-and-ssh-keys"
+  },
+  "417cd7f57d7595b3": {
+    "title": "Copilot budget increase requests are generally available",
+    "repo": "musfira-ai-copilot-budget-increase-requests-are-generally-available"
   }
 }
