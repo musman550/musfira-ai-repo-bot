@@ -314,5 +314,21 @@
   "417cd7f57d7595b3": {
     "title": "Copilot budget increase requests are generally available",
     "repo": "musfira-ai-copilot-budget-increase-requests-are-generally-available"
+  },
+  "f9baaeb3f54fee90": {
+    "title": "Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo",
+    "repo": "musfira-ai-made-the-horizontal-open-source-model-for-jev-with-rlcd-and"
+  },
+  "75f544d91d1526f4": {
+    "title": "Copilot impact dashboard now shows feature engagement",
+    "repo": "musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement"
+  },
+  "e82a4c22521ba24e": {
+    "title": "Ubuntu 26 generally available and latest migration",
+    "repo": "musfira-ai-ubuntu-26-generally-available-and-latest-migration"
+  },
+  "1e3b84d169b7073d": {
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "repo": "musfira-ai-your-agent-aced-the-task-will-it-do-it-again"
   }
 }
