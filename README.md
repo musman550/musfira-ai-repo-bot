@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 79
-**Last updated:** 2026-09-17
+**Total repos published:** 83
+**Last updated:** 2026-09-18
 
 ## Catalog
 
@@ -23,6 +23,7 @@
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
 - [Configure cost and quality in Copilot auto model selection](https://github.com/musman550/musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection)
 - [Copilot budget increase requests are generally available](https://github.com/musman550/musfira-ai-copilot-budget-increase-requests-are-generally-available)
+- [Copilot impact dashboard now shows feature engagement](https://github.com/musman550/musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement)
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
 - [Deepseek Has Soft Retired Deepseek V4 Pro](https://github.com/musman550/musfira-ai-deepseek-has-soft-retired-deepseek-v4-pro)
 - [DeepSeek V4.1 Flash beats Astra on AA's new benchmark](https://github.com/musman550/musfira-ai-deepseek-v41-flash-beats-astra-on-aas-new-benchmark)
@@ -44,6 +45,7 @@
 - [I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150](https://github.com/musman550/musfira-ai-i-trained-a-157b-parameter-dreamer-4-world-model-from-scratc)
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://github.com/musman550/musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
+- [Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo](https://github.com/musman550/musfira-ai-made-the-horizontal-open-source-model-for-jev-with-rlcd-and)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
 - [Mozilla Report: China-U.S. AI Model Capability Gap Narrows to 4.4 Months](https://github.com/musman550/musfira-ai-mozilla-report-china-us-ai-model-capability-gap-narrows-to-4)
@@ -78,6 +80,7 @@
 - [Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model](https://github.com/musman550/musfira-ai-thomson-reuters-releases-thomson-10-small-a-law-and-tax-focu)
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://github.com/musman550/musfira-ai-training-a-coding-model-to-paint-watercolours-with-trl-and-o)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-training-and-finetuning-multi-vector-embedding-models-with-s)
+- [Ubuntu 26 generally available and latest migration](https://github.com/musman550/musfira-ai-ubuntu-26-generally-available-and-latest-migration)
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://github.com/musman550/musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark)
 - [Upcoming changes to GitHub Copilot policies and billing](https://github.com/musman550/musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing)
 - [Upcoming deprecation of selected GitHub Copilot models](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models)
@@ -86,6 +89,7 @@
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
 - [XingChen-AGI/Xing4.0-29B-A4B MoE](https://github.com/musman550/musfira-ai-xingchen-agixing40-29b-a4b-moe)
+- [Your Agent Aced the Task. Will It Do It Again?](https://github.com/musman550/musfira-ai-your-agent-aced-the-task-will-it-do-it-again)
 - [zai-org/GLM-5.3 · Hugging Face](https://github.com/musman550/musfira-ai-zai-orgglm-53-hugging-face)
 
 ## How it works
