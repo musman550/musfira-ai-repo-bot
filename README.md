@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 83
-**Last updated:** 2026-09-18
+**Total repos published:** 85
+**Last updated:** 2026-09-19
 
 ## Catalog
 
@@ -32,6 +32,7 @@
 - [Enforce GitHub Advanced Security configurations](https://github.com/musman550/musfira-ai-enforce-github-advanced-security-configurations)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
 - [Gemini 3.8 Flash is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-38-flash-is-now-available-in-github-copilot)
+- [General warning about Clore.AI](https://github.com/musman550/musfira-ai-general-warning-about-cloreai)
 - [GitHub Actions: Early September 2026 updates](https://github.com/musman550/musfira-ai-github-actions-early-september-2026-updates)
 - [GitHub Copilot weekly releases — August 31](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-august-31)
 - [GitHub Copilot weekly releases — September 7](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-7)
@@ -84,6 +85,7 @@
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://github.com/musman550/musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark)
 - [Upcoming changes to GitHub Copilot policies and billing](https://github.com/musman550/musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing)
 - [Upcoming deprecation of selected GitHub Copilot models](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models)
+- [Upcoming deprecation of selected GitHub Copilot models in mid-October](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models-in-mi)
 - [Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM](https://github.com/musman550/musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx)
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
