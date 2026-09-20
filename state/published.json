@@ -338,5 +338,9 @@
   "56cc5d0f85a88b7d": {
     "title": "General warning about Clore.AI",
     "repo": "musfira-ai-general-warning-about-cloreai"
+  },
+  "bdf19db0c3f80aef": {
+    "title": "Stage-only npm tokens for safer automation",
+    "repo": "musfira-ai-stage-only-npm-tokens-for-safer-automation"
   }
 }
