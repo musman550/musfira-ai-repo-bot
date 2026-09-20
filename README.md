@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 85
-**Last updated:** 2026-09-19
+**Total repos published:** 86
+**Last updated:** 2026-09-20
 
 ## Catalog
 
@@ -73,6 +73,7 @@
 - [Remediate Code Quality findings with agentic autofix](https://github.com/musman550/musfira-ai-remediate-code-quality-findings-with-agentic-autofix)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
 - [So relevant](https://github.com/musman550/musfira-ai-so-relevant)
+- [Stage-only npm tokens for safer automation](https://github.com/musman550/musfira-ai-stage-only-npm-tokens-for-safer-automation)
 - [tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)](https://github.com/musman550/musfira-ai-tencentevie-8b-and-evie-45b-high-capacity-visual-document-re)
 - [Tencent/Hy4-preview 770B-A49B weight dropped](https://github.com/musman550/musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped)
 - [Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error](https://github.com/musman550/musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a)
