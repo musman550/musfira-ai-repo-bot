@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 86
-**Last updated:** 2026-09-20
+**Total repos published:** 89
+**Last updated:** 2026-09-21
 
 ## Catalog
 
@@ -20,6 +20,7 @@
 - [Better tools for managing blocked users](https://github.com/musman550/musfira-ai-better-tools-for-managing-blocked-users)
 - [[Bi-Weekly Megathread] Project Showcase](https://github.com/musman550/musfira-ai-bi-weekly-megathread-project-showcase)
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
+- [Clarification on the Qwen-image-2.1 license](https://github.com/musman550/musfira-ai-clarification-on-the-qwen-image-21-license)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
 - [Configure cost and quality in Copilot auto model selection](https://github.com/musman550/musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection)
 - [Copilot budget increase requests are generally available](https://github.com/musman550/musfira-ai-copilot-budget-increase-requests-are-generally-available)
@@ -35,6 +36,7 @@
 - [General warning about Clore.AI](https://github.com/musman550/musfira-ai-general-warning-about-cloreai)
 - [GitHub Actions: Early September 2026 updates](https://github.com/musman550/musfira-ai-github-actions-early-september-2026-updates)
 - [GitHub Copilot weekly releases — August 31](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-august-31)
+- [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
 - [GitHub Copilot weekly releases — September 7](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-7)
 - [Give Your Coding Agents a Memory You Own](https://github.com/musman550/musfira-ai-give-your-coding-agents-a-memory-you-own)
 - [Granite 4.2 LLMs: How They're Built](https://github.com/musman550/musfira-ai-granite-42-llms-how-theyre-built)
@@ -47,6 +49,7 @@
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://github.com/musman550/musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo](https://github.com/musman550/musfira-ai-made-the-horizontal-open-source-model-for-jev-with-rlcd-and)
+- [Manage the code coverage ruleset condition with the REST API](https://github.com/musman550/musfira-ai-manage-the-code-coverage-ruleset-condition-with-the-rest-api)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
 - [Mozilla Report: China-U.S. AI Model Capability Gap Narrows to 4.4 Months](https://github.com/musman550/musfira-ai-mozilla-report-china-us-ai-model-capability-gap-narrows-to-4)
