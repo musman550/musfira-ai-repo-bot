@@ -342,5 +342,17 @@
   "bdf19db0c3f80aef": {
     "title": "Stage-only npm tokens for safer automation",
     "repo": "musfira-ai-stage-only-npm-tokens-for-safer-automation"
+  },
+  "19441323b77df6d2": {
+    "title": "GitHub Copilot weekly releases \u2014 September 14",
+    "repo": "musfira-ai-github-copilot-weekly-releases-september-14"
+  },
+  "a620182a15d59e1a": {
+    "title": "Clarification on the Qwen-image-2.1 license",
+    "repo": "musfira-ai-clarification-on-the-qwen-image-21-license"
+  },
+  "2a2af75901bfa181": {
+    "title": "Manage the code coverage ruleset condition with the REST API",
+    "repo": "musfira-ai-manage-the-code-coverage-ruleset-condition-with-the-rest-api"
   }
 }
