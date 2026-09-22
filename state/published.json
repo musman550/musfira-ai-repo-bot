@@ -354,5 +354,21 @@
   "2a2af75901bfa181": {
     "title": "Manage the code coverage ruleset condition with the REST API",
     "repo": "musfira-ai-manage-the-code-coverage-ruleset-condition-with-the-rest-api"
+  },
+  "d9cba6c7f3aa95cb": {
+    "title": "Grok 4.7 is now available in GitHub Copilot",
+    "repo": "musfira-ai-grok-47-is-now-available-in-github-copilot"
+  },
+  "0a4d92bba8523fc5": {
+    "title": "Qwen 4 Announced at Apsara Conference",
+    "repo": "musfira-ai-qwen-4-announced-at-apsara-conference"
+  },
+  "238ca92e21e7900e": {
+    "title": "Deprecation notice: All-platform CodeQL bundle",
+    "repo": "musfira-ai-deprecation-notice-all-platform-codeql-bundle"
+  },
+  "3cec9d994e56b942": {
+    "title": "Copilot code review: An improved review experience",
+    "repo": "musfira-ai-copilot-code-review-an-improved-review-experience"
   }
 }
