@@ -370,5 +370,25 @@
   "3cec9d994e56b942": {
     "title": "Copilot code review: An improved review experience",
     "repo": "musfira-ai-copilot-code-review-an-improved-review-experience"
+  },
+  "50b2ac719476a4a6": {
+    "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+    "repo": "musfira-ai-claude-opus-55-is-now-available-in-github-copilot"
+  },
+  "9817848c5b11824d": {
+    "title": "New features and improvements in Copilot for JetBrains",
+    "repo": "musfira-ai-new-features-and-improvements-in-copilot-for-jetbrains"
+  },
+  "177b827ed8d1b7e2": {
+    "title": "this is not even a competition at this point ... this is embarrassing",
+    "repo": "musfira-ai-this-is-not-even-a-competition-at-this-point-this-is-embarra"
+  },
+  "0cab78d6b0890348": {
+    "title": "GGUFs in transformers natively!",
+    "repo": "musfira-ai-ggufs-in-transformers-natively"
+  },
+  "3bf8f849992cd1ca": {
+    "title": "Faster C++ code intelligence with whole codebase indexing",
+    "repo": "musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing"
   }
 }
