@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 93
-**Last updated:** 2026-09-22
+**Total repos published:** 98
+**Last updated:** 2026-09-23
 
 ## Catalog
 
@@ -22,6 +22,7 @@
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
 - [Clarification on the Qwen-image-2.1 license](https://github.com/musman550/musfira-ai-clarification-on-the-qwen-image-21-license)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
+- [Claude Opus 5.5 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-opus-55-is-now-available-in-github-copilot)
 - [Configure cost and quality in Copilot auto model selection](https://github.com/musman550/musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection)
 - [Copilot budget increase requests are generally available](https://github.com/musman550/musfira-ai-copilot-budget-increase-requests-are-generally-available)
 - [Copilot code review: An improved review experience](https://github.com/musman550/musfira-ai-copilot-code-review-an-improved-review-experience)
@@ -33,9 +34,11 @@
 - [Deprecation notice: All-platform CodeQL bundle](https://github.com/musman550/musfira-ai-deprecation-notice-all-platform-codeql-bundle)
 - [Don’t buy a $9K RTX 5090.... instead.](https://github.com/musman550/musfira-ai-dont-buy-a-9k-rtx-5090-instead)
 - [Enforce GitHub Advanced Security configurations](https://github.com/musman550/musfira-ai-enforce-github-advanced-security-configurations)
+- [Faster C++ code intelligence with whole codebase indexing](https://github.com/musman550/musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
 - [Gemini 3.8 Flash is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-38-flash-is-now-available-in-github-copilot)
 - [General warning about Clore.AI](https://github.com/musman550/musfira-ai-general-warning-about-cloreai)
+- [GGUFs in transformers natively!](https://github.com/musman550/musfira-ai-ggufs-in-transformers-natively)
 - [GitHub Actions: Early September 2026 updates](https://github.com/musman550/musfira-ai-github-actions-early-september-2026-updates)
 - [GitHub Copilot weekly releases — August 31](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-august-31)
 - [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
@@ -62,6 +65,7 @@
 - [New 100B Liquid AI model coming soon](https://github.com/musman550/musfira-ai-new-100b-liquid-ai-model-coming-soon)
 - [New API endpoint provides privacy-safe star history data](https://github.com/musman550/musfira-ai-new-api-endpoint-provides-privacy-safe-star-history-data)
 - [New Benchmark: The Struggle Bench](https://github.com/musman550/musfira-ai-new-benchmark-the-struggle-bench)
+- [New features and improvements in Copilot for JetBrains](https://github.com/musman550/musfira-ai-new-features-and-improvements-in-copilot-for-jetbrains)
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
 - [OpenAI alleged of stealing mathematicians work](https://github.com/musman550/musfira-ai-openai-alleged-of-stealing-mathematicians-work)
@@ -86,6 +90,7 @@
 - [Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error](https://github.com/musman550/musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a)
 - [The new GitHub Copilot experience in Slack](https://github.com/musman550/musfira-ai-the-new-github-copilot-experience-in-slack)
 - [Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high](https://github.com/musman550/musfira-ai-think-youre-going-to-get-cheap-ddr5-ram-think-again-even-if)
+- [this is not even a competition at this point ... this is embarrassing](https://github.com/musman550/musfira-ai-this-is-not-even-a-competition-at-this-point-this-is-embarra)
 - [Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model](https://github.com/musman550/musfira-ai-thomson-reuters-releases-thomson-10-small-a-law-and-tax-focu)
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://github.com/musman550/musfira-ai-training-a-coding-model-to-paint-watercolours-with-trl-and-o)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-training-and-finetuning-multi-vector-embedding-models-with-s)
