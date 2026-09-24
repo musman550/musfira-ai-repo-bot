@@ -390,5 +390,21 @@
   "3bf8f849992cd1ca": {
     "title": "Faster C++ code intelligence with whole codebase indexing",
     "repo": "musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing"
+  },
+  "dd62fb7671d34077": {
+    "title": "OpenTelemetry in the GitHub Copilot app",
+    "repo": "musfira-ai-opentelemetry-in-the-github-copilot-app"
+  },
+  "897b2e09775c566c": {
+    "title": "Jev isn't new tech. Its marketing targets people who think AI started with LLMs.",
+    "repo": "musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai"
+  },
+  "25894a7fcc2bfb35": {
+    "title": "Folks, have you purchased the Mac M5 Ultra with 256GB yet? We need serious benchmarks, because we only get YouTube clowns influencers results",
+    "repo": "musfira-ai-folks-have-you-purchased-the-mac-m5-ultra-with-256gb-yet-we"
+  },
+  "8941d1d47820f815": {
+    "title": "Node 20 is no longer available in GitHub Actions",
+    "repo": "musfira-ai-node-20-is-no-longer-available-in-github-actions"
   }
 }
