@@ -3,11 +3,12 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 102
-**Last updated:** 2026-09-24
+**Total repos published:** 106
+**Last updated:** 2026-09-25
 
 ## Catalog
 
+- [Accelerating vision-language models with LFM2.5-VL-DSpark](https://github.com/musman550/musfira-ai-accelerating-vision-language-models-with-lfm25-vl-dspark)
 - [Add VS Code Agents to Copilot usage metrics](https://github.com/musman550/musfira-ai-add-vs-code-agents-to-copilot-usage-metrics)
 - [Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36](https://github.com/musman550/musfira-ai-agnes-aiagnes-30-flash-33b-multimodal-aa-score-36)
 - [AI Scan for pull request APIs in public preview](https://github.com/musman550/musfira-ai-ai-scan-for-pull-request-apis-in-public-preview)
@@ -32,6 +33,7 @@
 - [DeepSeek V4.1 Flash beats Astra on AA's new benchmark](https://github.com/musman550/musfira-ai-deepseek-v41-flash-beats-astra-on-aas-new-benchmark)
 - [DeepSeek-V4.1-Flash surprised ....](https://github.com/musman550/musfira-ai-deepseek-v41-flash-surprised)
 - [Deprecation notice: All-platform CodeQL bundle](https://github.com/musman550/musfira-ai-deprecation-notice-all-platform-codeql-bundle)
+- [Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some](https://github.com/musman550/musfira-ai-did-anyone-do-a-full-bench-of-eg-qwen-flash-next-iq4-and-qwe)
 - [Don’t buy a $9K RTX 5090.... instead.](https://github.com/musman550/musfira-ai-dont-buy-a-9k-rtx-5090-instead)
 - [Enforce GitHub Advanced Security configurations](https://github.com/musman550/musfira-ai-enforce-github-advanced-security-configurations)
 - [Faster C++ code intelligence with whole codebase indexing](https://github.com/musman550/musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing)
@@ -56,6 +58,7 @@
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://github.com/musman550/musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Jev isn't new tech. Its marketing targets people who think AI started with LLMs.](https://github.com/musman550/musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai)
+- [M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds](https://github.com/musman550/musfira-ai-m5-ultra-80core-glm-53-flash-on-dwarfstar-speeds)
 - [Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo](https://github.com/musman550/musfira-ai-made-the-horizontal-open-source-model-for-jev-with-rlcd-and)
 - [Manage the code coverage ruleset condition with the REST API](https://github.com/musman550/musfira-ai-manage-the-code-coverage-ruleset-condition-with-the-rest-api)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
@@ -75,6 +78,7 @@
 - [OpenTelemetry in the GitHub Copilot app](https://github.com/musman550/musfira-ai-opentelemetry-in-the-github-copilot-app)
 - [Pinning saved views to the repository issues sidebar is generally available and more](https://github.com/musman550/musfira-ai-pinning-saved-views-to-the-repository-issues-sidebar-is-gene)
 - [Profiles now show your highest achievement badge tier](https://github.com/musman550/musfira-ai-profiles-now-show-your-highest-achievement-badge-tier)
+- [Qwen 3.8 27b be like...](https://github.com/musman550/musfira-ai-qwen-38-27b-be-like)
 - [Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.](https://github.com/musman550/musfira-ai-qwen-38-27b-in-9th-position-on-code-arena-gemma-4-31b-is-80t)
 - [Qwen 3.8 27B is a game changer.](https://github.com/musman550/musfira-ai-qwen-38-27b-is-a-game-changer)
 - [Qwen 3.8 Flash Next (Max) is impressive just to talk with.](https://github.com/musman550/musfira-ai-qwen-38-flash-next-max-is-impressive-just-to-talk-with)
