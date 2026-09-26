@@ -422,5 +422,13 @@
   "7bb42a40b900b022": {
     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
     "repo": "musfira-ai-accelerating-vision-language-models-with-lfm25-vl-dspark"
+  },
+  "ea4ef8a84456d7e9": {
+    "title": "Blabbermouth AI coding agents hate this one weird trick!",
+    "repo": "musfira-ai-blabbermouth-ai-coding-agents-hate-this-one-weird-trick"
+  },
+  "25ced81fdb81e5e4": {
+    "title": "Swift 1.5 27b: Swift Qwen just got faster",
+    "repo": "musfira-ai-swift-15-27b-swift-qwen-just-got-faster"
   }
 }
