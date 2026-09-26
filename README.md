@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 106
-**Last updated:** 2026-09-25
+**Total repos published:** 108
+**Last updated:** 2026-09-26
 
 ## Catalog
 
@@ -20,6 +20,7 @@
 - [Better label management on issues is generally available](https://github.com/musman550/musfira-ai-better-label-management-on-issues-is-generally-available)
 - [Better tools for managing blocked users](https://github.com/musman550/musfira-ai-better-tools-for-managing-blocked-users)
 - [[Bi-Weekly Megathread] Project Showcase](https://github.com/musman550/musfira-ai-bi-weekly-megathread-project-showcase)
+- [Blabbermouth AI coding agents hate this one weird trick!](https://github.com/musman550/musfira-ai-blabbermouth-ai-coding-agents-hate-this-one-weird-trick)
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
 - [Clarification on the Qwen-image-2.1 license](https://github.com/musman550/musfira-ai-clarification-on-the-qwen-image-21-license)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
@@ -93,6 +94,7 @@
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
 - [So relevant](https://github.com/musman550/musfira-ai-so-relevant)
 - [Stage-only npm tokens for safer automation](https://github.com/musman550/musfira-ai-stage-only-npm-tokens-for-safer-automation)
+- [Swift 1.5 27b: Swift Qwen just got faster](https://github.com/musman550/musfira-ai-swift-15-27b-swift-qwen-just-got-faster)
 - [tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)](https://github.com/musman550/musfira-ai-tencentevie-8b-and-evie-45b-high-capacity-visual-document-re)
 - [Tencent/Hy4-preview 770B-A49B weight dropped](https://github.com/musman550/musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped)
 - [Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error](https://github.com/musman550/musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a)
