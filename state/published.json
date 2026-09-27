@@ -430,5 +430,13 @@
   "25ced81fdb81e5e4": {
     "title": "Swift 1.5 27b: Swift Qwen just got faster",
     "repo": "musfira-ai-swift-15-27b-swift-qwen-just-got-faster"
+  },
+  "5af9e11909ac3cb3": {
+    "title": "Agentic autofix now uses Copilot Memory",
+    "repo": "musfira-ai-agentic-autofix-now-uses-copilot-memory"
+  },
+  "d5296142210d68c7": {
+    "title": "42x Faster Prompt Lookup Drafting in llama.cpp",
+    "repo": "musfira-ai-42x-faster-prompt-lookup-drafting-in-llamacpp"
   }
 }
