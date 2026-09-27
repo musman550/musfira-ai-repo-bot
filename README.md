@@ -3,13 +3,15 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 108
-**Last updated:** 2026-09-26
+**Total repos published:** 110
+**Last updated:** 2026-09-27
 
 ## Catalog
 
+- [42x Faster Prompt Lookup Drafting in llama.cpp](https://github.com/musman550/musfira-ai-42x-faster-prompt-lookup-drafting-in-llamacpp)
 - [Accelerating vision-language models with LFM2.5-VL-DSpark](https://github.com/musman550/musfira-ai-accelerating-vision-language-models-with-lfm25-vl-dspark)
 - [Add VS Code Agents to Copilot usage metrics](https://github.com/musman550/musfira-ai-add-vs-code-agents-to-copilot-usage-metrics)
+- [Agentic autofix now uses Copilot Memory](https://github.com/musman550/musfira-ai-agentic-autofix-now-uses-copilot-memory)
 - [Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36](https://github.com/musman550/musfira-ai-agnes-aiagnes-30-flash-33b-multimodal-aa-score-36)
 - [AI Scan for pull request APIs in public preview](https://github.com/musman550/musfira-ai-ai-scan-for-pull-request-apis-in-public-preview)
 - [and then they came for the used server RAM.](https://github.com/musman550/musfira-ai-and-then-they-came-for-the-used-server-ram)
