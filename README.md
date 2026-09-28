@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 110
-**Last updated:** 2026-09-27
+**Total repos published:** 112
+**Last updated:** 2026-09-28
 
 ## Catalog
 
@@ -42,6 +42,7 @@
 - [Faster C++ code intelligence with whole codebase indexing](https://github.com/musman550/musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
 - [Folks, have you purchased the Mac M5 Ultra with 256GB yet? We need serious benchmarks, because we only get YouTube clowns influencers results](https://github.com/musman550/musfira-ai-folks-have-you-purchased-the-mac-m5-ultra-with-256gb-yet-we)
+- [FT: Corporate America rejects overpriced frontier, embraces open models](https://github.com/musman550/musfira-ai-ft-corporate-america-rejects-overpriced-frontier-embraces-op)
 - [Gemini 3.8 Flash is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-38-flash-is-now-available-in-github-copilot)
 - [General warning about Clore.AI](https://github.com/musman550/musfira-ai-general-warning-about-cloreai)
 - [GGUFs in transformers natively!](https://github.com/musman550/musfira-ai-ggufs-in-transformers-natively)
@@ -106,6 +107,7 @@
 - [Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model](https://github.com/musman550/musfira-ai-thomson-reuters-releases-thomson-10-small-a-law-and-tax-focu)
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://github.com/musman550/musfira-ai-training-a-coding-model-to-paint-watercolours-with-trl-and-o)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-training-and-finetuning-multi-vector-embedding-models-with-s)
+- [Transformers now runs llama.cpp quants](https://github.com/musman550/musfira-ai-transformers-now-runs-llamacpp-quants)
 - [Ubuntu 26 generally available and latest migration](https://github.com/musman550/musfira-ai-ubuntu-26-generally-available-and-latest-migration)
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://github.com/musman550/musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark)
 - [Upcoming changes to GitHub Copilot policies and billing](https://github.com/musman550/musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing)
