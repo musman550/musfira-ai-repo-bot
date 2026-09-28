@@ -438,5 +438,13 @@
   "d5296142210d68c7": {
     "title": "42x Faster Prompt Lookup Drafting in llama.cpp",
     "repo": "musfira-ai-42x-faster-prompt-lookup-drafting-in-llamacpp"
+  },
+  "8312eff2e3303acb": {
+    "title": "FT: Corporate America rejects overpriced frontier, embraces open models",
+    "repo": "musfira-ai-ft-corporate-america-rejects-overpriced-frontier-embraces-op"
+  },
+  "9d0cd7c35e2cafae": {
+    "title": "Transformers now runs llama.cpp quants",
+    "repo": "musfira-ai-transformers-now-runs-llamacpp-quants"
   }
 }
