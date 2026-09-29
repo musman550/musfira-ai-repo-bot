@@ -446,5 +446,17 @@
   "9d0cd7c35e2cafae": {
     "title": "Transformers now runs llama.cpp quants",
     "repo": "musfira-ai-transformers-now-runs-llamacpp-quants"
+  },
+  "50a164b9dc04422f": {
+    "title": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
+    "repo": "musfira-ai-looks-like-the-era-of-subsidised-compute-is-coming-to-an-end"
+  },
+  "5f05412ab092fe42": {
+    "title": "Reflection 70B was released two years ago (September 2024)",
+    "repo": "musfira-ai-reflection-70b-was-released-two-years-ago-september-2024"
+  },
+  "c63822eea027042d": {
+    "title": "Private saved views for repository issues and \u201cRelates to\u201d issue relationship is generally available",
+    "repo": "musfira-ai-private-saved-views-for-repository-issues-and-relates-to-iss"
   }
 }
