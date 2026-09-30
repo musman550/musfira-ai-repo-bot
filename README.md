@@ -3,13 +3,14 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 115
-**Last updated:** 2026-09-29
+**Total repos published:** 119
+**Last updated:** 2026-09-30
 
 ## Catalog
 
 - [42x Faster Prompt Lookup Drafting in llama.cpp](https://github.com/musman550/musfira-ai-42x-faster-prompt-lookup-drafting-in-llamacpp)
 - [Accelerating vision-language models with LFM2.5-VL-DSpark](https://github.com/musman550/musfira-ai-accelerating-vision-language-models-with-lfm25-vl-dspark)
+- [add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-add-glm-53-flash-glm5-next-support-by-timkhronos-pull-reques)
 - [Add VS Code Agents to Copilot usage metrics](https://github.com/musman550/musfira-ai-add-vs-code-agents-to-copilot-usage-metrics)
 - [Agentic autofix now uses Copilot Memory](https://github.com/musman550/musfira-ai-agentic-autofix-now-uses-copilot-memory)
 - [Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36](https://github.com/musman550/musfira-ai-agnes-aiagnes-30-flash-33b-multimodal-aa-score-36)
@@ -17,6 +18,7 @@
 - [and then they came for the used server RAM.](https://github.com/musman550/musfira-ai-and-then-they-came-for-the-used-server-ram)
 - [Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory](https://github.com/musman550/musfira-ai-apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra---u)
 - [Automate SSO authorization for classic PATs and SSH keys](https://github.com/musman550/musfira-ai-automate-sso-authorization-for-classic-pats-and-ssh-keys)
+- [BAAI/AREX-2 - 27B - Agent model based on Qwen3.8 27B](https://github.com/musman550/musfira-ai-baaiarex-2---27b---agent-model-based-on-qwen38-27b)
 - [Best Local LLMs - August 2026](https://github.com/musman550/musfira-ai-best-local-llms---august-2026)
 - [Best Local Vision Language Models - August 2026](https://github.com/musman550/musfira-ai-best-local-vision-language-models---august-2026)
 - [Better label management on issues is generally available](https://github.com/musman550/musfira-ai-better-label-management-on-issues-is-generally-available)
@@ -27,6 +29,7 @@
 - [Clarification on the Qwen-image-2.1 license](https://github.com/musman550/musfira-ai-clarification-on-the-qwen-image-21-license)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
 - [Claude Opus 5.5 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-opus-55-is-now-available-in-github-copilot)
+- [Claude Sonnet 5.5 in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-sonnet-55-in-github-copilot)
 - [Configure cost and quality in Copilot auto model selection](https://github.com/musman550/musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection)
 - [Copilot budget increase requests are generally available](https://github.com/musman550/musfira-ai-copilot-budget-increase-requests-are-generally-available)
 - [Copilot code review: An improved review experience](https://github.com/musman550/musfira-ai-copilot-code-review-an-improved-review-experience)
@@ -51,6 +54,7 @@
 - [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
 - [GitHub Copilot weekly releases — September 7](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-7)
 - [Give Your Coding Agents a Memory You Own](https://github.com/musman550/musfira-ai-give-your-coding-agents-a-memory-you-own)
+- [GPT-6.1 Sol in GitHub Copilot](https://github.com/musman550/musfira-ai-gpt-61-sol-in-github-copilot)
 - [Granite 4.2 LLMs: How They're Built](https://github.com/musman550/musfira-ai-granite-42-llms-how-theyre-built)
 - [Grok 4.7 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-grok-47-is-now-available-in-github-copilot)
 - [How Much Memory Does Your Agent Actually Need?](https://github.com/musman550/musfira-ai-how-much-memory-does-your-agent-actually-need)
