@@ -474,5 +474,21 @@
   "d2959902441eab7d": {
     "title": "add GLM-5.3-Flash (GLM5-Next) support by timkhronos \u00b7 Pull Request #27773 \u00b7 ggml-org/llama.cpp",
     "repo": "musfira-ai-add-glm-53-flash-glm5-next-support-by-timkhronos-pull-reques"
+  },
+  "ef34fd71914f97c6": {
+    "title": "DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key",
+    "repo": "musfira-ai-deepseek-harness-02---optional-bundle-architecture-windows-s"
+  },
+  "9ecd1c4c593548d4": {
+    "title": "12hrs with Ling 3.1 Flash",
+    "repo": "musfira-ai-12hrs-with-ling-31-flash"
+  },
+  "d18fe8340a237cef": {
+    "title": "X25519-only TLS ends for GHE.com on October 7",
+    "repo": "musfira-ai-x25519-only-tls-ends-for-ghecom-on-october-7"
+  },
+  "ac9f3b7d4358e2ce": {
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "repo": "musfira-ai-getting-the-source-right-not-just-the-fact-source-aware-veri"
   }
 }
