@@ -3,11 +3,12 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 119
-**Last updated:** 2026-09-30
+**Total repos published:** 123
+**Last updated:** 2026-10-01
 
 ## Catalog
 
+- [12hrs with Ling 3.1 Flash](https://github.com/musman550/musfira-ai-12hrs-with-ling-31-flash)
 - [42x Faster Prompt Lookup Drafting in llama.cpp](https://github.com/musman550/musfira-ai-42x-faster-prompt-lookup-drafting-in-llamacpp)
 - [Accelerating vision-language models with LFM2.5-VL-DSpark](https://github.com/musman550/musfira-ai-accelerating-vision-language-models-with-lfm25-vl-dspark)
 - [add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-add-glm-53-flash-glm5-next-support-by-timkhronos-pull-reques)
@@ -35,6 +36,7 @@
 - [Copilot code review: An improved review experience](https://github.com/musman550/musfira-ai-copilot-code-review-an-improved-review-experience)
 - [Copilot impact dashboard now shows feature engagement](https://github.com/musman550/musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement)
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
+- [DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key](https://github.com/musman550/musfira-ai-deepseek-harness-02---optional-bundle-architecture-windows-s)
 - [Deepseek Has Soft Retired Deepseek V4 Pro](https://github.com/musman550/musfira-ai-deepseek-has-soft-retired-deepseek-v4-pro)
 - [DeepSeek V4.1 Flash beats Astra on AA's new benchmark](https://github.com/musman550/musfira-ai-deepseek-v41-flash-beats-astra-on-aas-new-benchmark)
 - [DeepSeek-V4.1-Flash surprised ....](https://github.com/musman550/musfira-ai-deepseek-v41-flash-surprised)
@@ -48,6 +50,7 @@
 - [FT: Corporate America rejects overpriced frontier, embraces open models](https://github.com/musman550/musfira-ai-ft-corporate-america-rejects-overpriced-frontier-embraces-op)
 - [Gemini 3.8 Flash is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-38-flash-is-now-available-in-github-copilot)
 - [General warning about Clore.AI](https://github.com/musman550/musfira-ai-general-warning-about-cloreai)
+- [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://github.com/musman550/musfira-ai-getting-the-source-right-not-just-the-fact-source-aware-veri)
 - [GGUFs in transformers natively!](https://github.com/musman550/musfira-ai-ggufs-in-transformers-natively)
 - [GitHub Actions: Early September 2026 updates](https://github.com/musman550/musfira-ai-github-actions-early-september-2026-updates)
 - [GitHub Copilot weekly releases — August 31](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-august-31)
@@ -124,6 +127,7 @@
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
+- [X25519-only TLS ends for GHE.com on October 7](https://github.com/musman550/musfira-ai-x25519-only-tls-ends-for-ghecom-on-october-7)
 - [XingChen-AGI/Xing4.0-29B-A4B MoE](https://github.com/musman550/musfira-ai-xingchen-agixing40-29b-a4b-moe)
 - [Your Agent Aced the Task. Will It Do It Again?](https://github.com/musman550/musfira-ai-your-agent-aced-the-task-will-it-do-it-again)
 - [zai-org/GLM-5.3 · Hugging Face](https://github.com/musman550/musfira-ai-zai-orgglm-53-hugging-face)
