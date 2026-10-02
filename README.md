@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 123
-**Last updated:** 2026-10-01
+**Total repos published:** 124
+**Last updated:** 2026-10-02
 
 ## Catalog
 
@@ -88,6 +88,7 @@
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
 - [OpenAI alleged of stealing mathematicians work](https://github.com/musman550/musfira-ai-openai-alleged-of-stealing-mathematicians-work)
 - [OpenTelemetry in the GitHub Copilot app](https://github.com/musman550/musfira-ai-opentelemetry-in-the-github-copilot-app)
+- [Pi 1.0 released - MCP support now included by default](https://github.com/musman550/musfira-ai-pi-10-released---mcp-support-now-included-by-default)
 - [Pinning saved views to the repository issues sidebar is generally available and more](https://github.com/musman550/musfira-ai-pinning-saved-views-to-the-repository-issues-sidebar-is-gene)
 - [Private saved views for repository issues and “Relates to” issue relationship is generally available](https://github.com/musman550/musfira-ai-private-saved-views-for-repository-issues-and-relates-to-iss)
 - [Profiles now show your highest achievement badge tier](https://github.com/musman550/musfira-ai-profiles-now-show-your-highest-achievement-badge-tier)
