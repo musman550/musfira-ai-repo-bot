@@ -490,5 +490,9 @@
   "ac9f3b7d4358e2ce": {
     "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
     "repo": "musfira-ai-getting-the-source-right-not-just-the-fact-source-aware-veri"
+  },
+  "0d9e8fa92880afaf": {
+    "title": "Pi 1.0 released - MCP support now included by default",
+    "repo": "musfira-ai-pi-10-released---mcp-support-now-included-by-default"
   }
 }
