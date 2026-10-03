@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 124
-**Last updated:** 2026-10-02
+**Total repos published:** 129
+**Last updated:** 2026-10-03
 
 ## Catalog
 
@@ -83,9 +83,11 @@
 - [New API endpoint provides privacy-safe star history data](https://github.com/musman550/musfira-ai-new-api-endpoint-provides-privacy-safe-star-history-data)
 - [New Benchmark: The Struggle Bench](https://github.com/musman550/musfira-ai-new-benchmark-the-struggle-bench)
 - [New features and improvements in Copilot for JetBrains](https://github.com/musman550/musfira-ai-new-features-and-improvements-in-copilot-for-jetbrains)
+- [New fields for SecurityAdvisory GraphQL API](https://github.com/musman550/musfira-ai-new-fields-for-securityadvisory-graphql-api)
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
 - [Node 20 is no longer available in GitHub Actions](https://github.com/musman550/musfira-ai-node-20-is-no-longer-available-in-github-actions)
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
+- [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://github.com/musman550/musfira-ai-open-sourcing-astabrief-the-fast-report-generation-model-in)
 - [OpenAI alleged of stealing mathematicians work](https://github.com/musman550/musfira-ai-openai-alleged-of-stealing-mathematicians-work)
 - [OpenTelemetry in the GitHub Copilot app](https://github.com/musman550/musfira-ai-opentelemetry-in-the-github-copilot-app)
 - [Pi 1.0 released - MCP support now included by default](https://github.com/musman550/musfira-ai-pi-10-released---mcp-support-now-included-by-default)
@@ -100,11 +102,14 @@
 - [Qwen will be the king?](https://github.com/musman550/musfira-ai-qwen-will-be-the-king)
 - [Qwen3.8-27B beat the Wikipedia game in 6 clicks.](https://github.com/musman550/musfira-ai-qwen38-27b-beat-the-wikipedia-game-in-6-clicks)
 - [Qwen3.8 27b Game Dev Part 2](https://github.com/musman550/musfira-ai-qwen38-27b-game-dev-part-2)
+- [Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following](https://github.com/musman550/musfira-ai-qwen38-27b-humanlike-chat-20-texts-like-a-human-now-with-too)
 - [Qwen3.8-Flash-Next on MLX-serve, 1m context is released!](https://github.com/musman550/musfira-ai-qwen38-flash-next-on-mlx-serve-1m-context-is-released)
+- [qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-qwen4exp-halve-the-indexer-score-memory-by-serveurpersocom-p)
 - [Qwen/Qwen-Drive-1.0-4B · Hugging Face](https://github.com/musman550/musfira-ai-qwenqwen-drive-10-4b-hugging-face)
 - [Reflection 70B was released two years ago (September 2024)](https://github.com/musman550/musfira-ai-reflection-70b-was-released-two-years-ago-september-2024)
 - [Refreshed repository pull requests page in public preview](https://github.com/musman550/musfira-ai-refreshed-repository-pull-requests-page-in-public-preview)
 - [Remediate Code Quality findings with agentic autofix](https://github.com/musman550/musfira-ai-remediate-code-quality-findings-with-agentic-autofix)
+- [Selected models in GitHub Copilot deprecated](https://github.com/musman550/musfira-ai-selected-models-in-github-copilot-deprecated)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
 - [So relevant](https://github.com/musman550/musfira-ai-so-relevant)
 - [Stage-only npm tokens for safer automation](https://github.com/musman550/musfira-ai-stage-only-npm-tokens-for-safer-automation)
