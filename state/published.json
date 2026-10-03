@@ -494,5 +494,25 @@
   "0d9e8fa92880afaf": {
     "title": "Pi 1.0 released - MCP support now included by default",
     "repo": "musfira-ai-pi-10-released---mcp-support-now-included-by-default"
+  },
+  "c91a57be60ad6d20": {
+    "title": "Selected models in GitHub Copilot deprecated",
+    "repo": "musfira-ai-selected-models-in-github-copilot-deprecated"
+  },
+  "4ce2727724f308aa": {
+    "title": "qwen4exp : halve the indexer score memory by ServeurpersoCom \u00b7 Pull Request #29825 \u00b7 ggml-org/llama.cpp",
+    "repo": "musfira-ai-qwen4exp-halve-the-indexer-score-memory-by-serveurpersocom-p"
+  },
+  "5387636b42e4ffc0": {
+    "title": "Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following",
+    "repo": "musfira-ai-qwen38-27b-humanlike-chat-20-texts-like-a-human-now-with-too"
+  },
+  "94fdb0115c9c9a1c": {
+    "title": "New fields for SecurityAdvisory GraphQL API",
+    "repo": "musfira-ai-new-fields-for-securityadvisory-graphql-api"
+  },
+  "e733a496b6fc7c87": {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "repo": "musfira-ai-open-sourcing-astabrief-the-fast-report-generation-model-in"
   }
 }
