@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 129
-**Last updated:** 2026-10-03
+**Total repos published:** 131
+**Last updated:** 2026-10-04
 
 ## Catalog
 
@@ -113,10 +113,12 @@
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
 - [So relevant](https://github.com/musman550/musfira-ai-so-relevant)
 - [Stage-only npm tokens for safer automation](https://github.com/musman550/musfira-ai-stage-only-npm-tokens-for-safer-automation)
+- [Stateless GitHub App installation tokens rolled out](https://github.com/musman550/musfira-ai-stateless-github-app-installation-tokens-rolled-out)
 - [Swift 1.5 27b: Swift Qwen just got faster](https://github.com/musman550/musfira-ai-swift-15-27b-swift-qwen-just-got-faster)
 - [tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)](https://github.com/musman550/musfira-ai-tencentevie-8b-and-evie-45b-high-capacity-visual-document-re)
 - [Tencent/Hy4-preview 770B-A49B weight dropped](https://github.com/musman550/musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped)
 - [Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error](https://github.com/musman550/musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a)
+- [The Agent Said It Was Done. The Database Disagreed.](https://github.com/musman550/musfira-ai-the-agent-said-it-was-done-the-database-disagreed)
 - [The new GitHub Copilot experience in Slack](https://github.com/musman550/musfira-ai-the-new-github-copilot-experience-in-slack)
 - [Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high](https://github.com/musman550/musfira-ai-think-youre-going-to-get-cheap-ddr5-ram-think-again-even-if)
 - [this is not even a competition at this point ... this is embarrassing](https://github.com/musman550/musfira-ai-this-is-not-even-a-competition-at-this-point-this-is-embarra)
@@ -158,15 +160,3 @@ Every day this bot:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-<!-- BRANDING:START -->
-
----
-
-🌐 Website: [musfiraai.com](https://musfiraai.com/)
-
-* ▶️ YouTube: [Automate With Musfira AI](https://www.youtube.com/@automatewithmusfiraai)
-* 💼 LinkedIn: [Musfira AI](https://www.linkedin.com/in/musfira-ai-b3218b39b)
-* 📸 Instagram: [@musma_n55](https://instagram.com/musma_n55)
-
-<!-- BRANDING:END -->
