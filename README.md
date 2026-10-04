@@ -158,3 +158,15 @@ Every day this bot:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+<!-- BRANDING:START -->
+
+---
+
+🌐 Website: [musfiraai.com](https://musfiraai.com/)
+
+* ▶️ YouTube: [Automate With Musfira AI](https://www.youtube.com/@automatewithmusfiraai)
+* 💼 LinkedIn: [Musfira AI](https://www.linkedin.com/in/musfira-ai-b3218b39b)
+* 📸 Instagram: [@musma_n55](https://instagram.com/musma_n55)
+
+<!-- BRANDING:END -->
