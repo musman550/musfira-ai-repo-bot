@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 131
-**Last updated:** 2026-10-04
+**Total repos published:** 135
+**Last updated:** 2026-10-05
 
 ## Catalog
 
@@ -31,9 +31,11 @@
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
 - [Claude Opus 5.5 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-opus-55-is-now-available-in-github-copilot)
 - [Claude Sonnet 5.5 in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-sonnet-55-in-github-copilot)
+- [Confidential comments on repository security advisories](https://github.com/musman550/musfira-ai-confidential-comments-on-repository-security-advisories)
 - [Configure cost and quality in Copilot auto model selection](https://github.com/musman550/musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection)
 - [Copilot budget increase requests are generally available](https://github.com/musman550/musfira-ai-copilot-budget-increase-requests-are-generally-available)
 - [Copilot code review: An improved review experience](https://github.com/musman550/musfira-ai-copilot-code-review-an-improved-review-experience)
+- [Copilot code review: API support and new default effort level](https://github.com/musman550/musfira-ai-copilot-code-review-api-support-and-new-default-effort-level)
 - [Copilot impact dashboard now shows feature engagement](https://github.com/musman550/musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement)
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
 - [DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key](https://github.com/musman550/musfira-ai-deepseek-harness-02---optional-bundle-architecture-windows-s)
@@ -70,6 +72,7 @@
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Jev isn't new tech. Its marketing targets people who think AI started with LLMs.](https://github.com/musman550/musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai)
 - [Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.](https://github.com/musman550/musfira-ai-looks-like-the-era-of-subsidised-compute-is-coming-to-an-end)
+- [M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s](https://github.com/musman550/musfira-ai-m5-ultra-256-running-glm-53-flash-688-toks)
 - [M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds](https://github.com/musman550/musfira-ai-m5-ultra-80core-glm-53-flash-on-dwarfstar-speeds)
 - [Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo](https://github.com/musman550/musfira-ai-made-the-horizontal-open-source-model-for-jev-with-rlcd-and)
 - [Manage the code coverage ruleset condition with the REST API](https://github.com/musman550/musfira-ai-manage-the-code-coverage-ruleset-condition-with-the-rest-api)
@@ -137,6 +140,7 @@
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
 - [X25519-only TLS ends for GHE.com on October 7](https://github.com/musman550/musfira-ai-x25519-only-tls-ends-for-ghecom-on-october-7)
 - [XingChen-AGI/Xing4.0-29B-A4B MoE](https://github.com/musman550/musfira-ai-xingchen-agixing40-29b-a4b-moe)
+- [You can now try Aleph Alpha's Kolibri 78B for free online here.](https://github.com/musman550/musfira-ai-you-can-now-try-aleph-alphas-kolibri-78b-for-free-online-her)
 - [Your Agent Aced the Task. Will It Do It Again?](https://github.com/musman550/musfira-ai-your-agent-aced-the-task-will-it-do-it-again)
 - [zai-org/GLM-5.3 · Hugging Face](https://github.com/musman550/musfira-ai-zai-orgglm-53-hugging-face)
 
