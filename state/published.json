@@ -522,5 +522,21 @@
   "6c42a3493c182073": {
     "title": "The Agent Said It Was Done. The Database Disagreed.",
     "repo": "musfira-ai-the-agent-said-it-was-done-the-database-disagreed"
+  },
+  "dadbec9f696f7884": {
+    "title": "You can now try Aleph Alpha's Kolibri 78B for free online here.",
+    "repo": "musfira-ai-you-can-now-try-aleph-alphas-kolibri-78b-for-free-online-her"
+  },
+  "e93088932911f6a4": {
+    "title": "M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s",
+    "repo": "musfira-ai-m5-ultra-256-running-glm-53-flash-688-toks"
+  },
+  "e6968ceb9ab12378": {
+    "title": "Copilot code review: API support and new default effort level",
+    "repo": "musfira-ai-copilot-code-review-api-support-and-new-default-effort-level"
+  },
+  "b384035b4594e034": {
+    "title": "Confidential comments on repository security advisories",
+    "repo": "musfira-ai-confidential-comments-on-repository-security-advisories"
   }
 }
