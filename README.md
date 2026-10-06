@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 135
-**Last updated:** 2026-10-05
+**Total repos published:** 136
+**Last updated:** 2026-10-06
 
 ## Catalog
 
@@ -93,6 +93,7 @@
 - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://github.com/musman550/musfira-ai-open-sourcing-astabrief-the-fast-report-generation-model-in)
 - [OpenAI alleged of stealing mathematicians work](https://github.com/musman550/musfira-ai-openai-alleged-of-stealing-mathematicians-work)
 - [OpenTelemetry in the GitHub Copilot app](https://github.com/musman550/musfira-ai-opentelemetry-in-the-github-copilot-app)
+- [PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀](https://github.com/musman550/musfira-ai-pewdiepie-getting-banned-twice-by-openai-while-making-a-loca)
 - [Pi 1.0 released - MCP support now included by default](https://github.com/musman550/musfira-ai-pi-10-released---mcp-support-now-included-by-default)
 - [Pinning saved views to the repository issues sidebar is generally available and more](https://github.com/musman550/musfira-ai-pinning-saved-views-to-the-repository-issues-sidebar-is-gene)
 - [Private saved views for repository issues and “Relates to” issue relationship is generally available](https://github.com/musman550/musfira-ai-private-saved-views-for-repository-issues-and-relates-to-iss)
