@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 136
-**Last updated:** 2026-10-06
+**Total repos published:** 137
+**Last updated:** 2026-10-07
 
 ## Catalog
 
@@ -135,6 +135,7 @@
 - [Upcoming changes to GitHub Copilot policies and billing](https://github.com/musman550/musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing)
 - [Upcoming deprecation of selected GitHub Copilot models](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models)
 - [Upcoming deprecation of selected GitHub Copilot models in mid-October](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models-in-mi)
+- [Update your IDE to restore agent activity in Copilot usage metrics](https://github.com/musman550/musfira-ai-update-your-ide-to-restore-agent-activity-in-copilot-usage-m)
 - [Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM](https://github.com/musman550/musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx)
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
