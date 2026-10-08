@@ -546,5 +546,21 @@
   "9610a5d925b499ba": {
     "title": "Update your IDE to restore agent activity in Copilot usage metrics",
     "repo": "musfira-ai-update-your-ide-to-restore-agent-activity-in-copilot-usage-m"
+  },
+  "2da6b56d14a9acd5": {
+    "title": "Claude Haiku 5.5 in GitHub Copilot",
+    "repo": "musfira-ai-claude-haiku-55-in-github-copilot"
+  },
+  "a76dc081adbd2873": {
+    "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
+    "repo": "musfira-ai-last-week-some-of-south-koreas-biggest-banks-were-hit-by-a-c"
+  },
+  "8ca778d332f9ee54": {
+    "title": "llama.cpp on the stage",
+    "repo": "musfira-ai-llamacpp-on-the-stage"
+  },
+  "827739bad86020ea": {
+    "title": "We unlearned CCP alignment from Qwen3.6-35B-A3B: censored/propaganda answers 89.8% \u2192 2.8%, general benchmarks within ~1 point (open weights)",
+    "repo": "musfira-ai-we-unlearned-ccp-alignment-from-qwen36-35b-a3b-censoredpropa"
   }
 }
