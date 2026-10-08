@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 137
-**Last updated:** 2026-10-07
+**Total repos published:** 141
+**Last updated:** 2026-10-08
 
 ## Catalog
 
@@ -29,6 +29,7 @@
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
 - [Clarification on the Qwen-image-2.1 license](https://github.com/musman550/musfira-ai-clarification-on-the-qwen-image-21-license)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
+- [Claude Haiku 5.5 in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-haiku-55-in-github-copilot)
 - [Claude Opus 5.5 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-opus-55-is-now-available-in-github-copilot)
 - [Claude Sonnet 5.5 in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-sonnet-55-in-github-copilot)
 - [Confidential comments on repository security advisories](https://github.com/musman550/musfira-ai-confidential-comments-on-repository-security-advisories)
@@ -71,6 +72,8 @@
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://github.com/musman550/musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Jev isn't new tech. Its marketing targets people who think AI started with LLMs.](https://github.com/musman550/musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai)
+- [Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)](https://github.com/musman550/musfira-ai-last-week-some-of-south-koreas-biggest-banks-were-hit-by-a-c)
+- [llama.cpp on the stage](https://github.com/musman550/musfira-ai-llamacpp-on-the-stage)
 - [Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.](https://github.com/musman550/musfira-ai-looks-like-the-era-of-subsidised-compute-is-coming-to-an-end)
 - [M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s](https://github.com/musman550/musfira-ai-m5-ultra-256-running-glm-53-flash-688-toks)
 - [M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds](https://github.com/musman550/musfira-ai-m5-ultra-80core-glm-53-flash-on-dwarfstar-speeds)
@@ -138,6 +141,7 @@
 - [Update your IDE to restore agent activity in Copilot usage metrics](https://github.com/musman550/musfira-ai-update-your-ide-to-restore-agent-activity-in-copilot-usage-m)
 - [Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM](https://github.com/musman550/musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx)
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
+- [We unlearned CCP alignment from Qwen3.6-35B-A3B: censored/propaganda answers 89.8% → 2.8%, general benchmarks within ~1 point (open weights)](https://github.com/musman550/musfira-ai-we-unlearned-ccp-alignment-from-qwen36-35b-a3b-censoredpropa)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
 - [X25519-only TLS ends for GHE.com on October 7](https://github.com/musman550/musfira-ai-x25519-only-tls-ends-for-ghecom-on-october-7)
