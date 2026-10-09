@@ -562,5 +562,17 @@
   "827739bad86020ea": {
     "title": "We unlearned CCP alignment from Qwen3.6-35B-A3B: censored/propaganda answers 89.8% \u2192 2.8%, general benchmarks within ~1 point (open weights)",
     "repo": "musfira-ai-we-unlearned-ccp-alignment-from-qwen36-35b-a3b-censoredpropa"
+  },
+  "4a583df01d9954d7": {
+    "title": "Purpose-built model for leaked secret detection",
+    "repo": "musfira-ai-purpose-built-model-for-leaked-secret-detection"
+  },
+  "02da88ade2589622": {
+    "title": "[Paper] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+    "repo": "musfira-ai-paper-engramedit-decoupled-knowledge-updates-in-llms-through"
+  },
+  "1f20a9cd18871213": {
+    "title": "Qwen3.8-27B: 159 tok/s on R9700, 64 tok/s on Strix Halo",
+    "repo": "musfira-ai-qwen38-27b-159-toks-on-r9700-64-toks-on-strix-halo"
   }
 }
