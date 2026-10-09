@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 141
-**Last updated:** 2026-10-08
+**Total repos published:** 144
+**Last updated:** 2026-10-09
 
 ## Catalog
 
@@ -96,17 +96,20 @@
 - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://github.com/musman550/musfira-ai-open-sourcing-astabrief-the-fast-report-generation-model-in)
 - [OpenAI alleged of stealing mathematicians work](https://github.com/musman550/musfira-ai-openai-alleged-of-stealing-mathematicians-work)
 - [OpenTelemetry in the GitHub Copilot app](https://github.com/musman550/musfira-ai-opentelemetry-in-the-github-copilot-app)
+- [[Paper] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](https://github.com/musman550/musfira-ai-paper-engramedit-decoupled-knowledge-updates-in-llms-through)
 - [PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀](https://github.com/musman550/musfira-ai-pewdiepie-getting-banned-twice-by-openai-while-making-a-loca)
 - [Pi 1.0 released - MCP support now included by default](https://github.com/musman550/musfira-ai-pi-10-released---mcp-support-now-included-by-default)
 - [Pinning saved views to the repository issues sidebar is generally available and more](https://github.com/musman550/musfira-ai-pinning-saved-views-to-the-repository-issues-sidebar-is-gene)
 - [Private saved views for repository issues and “Relates to” issue relationship is generally available](https://github.com/musman550/musfira-ai-private-saved-views-for-repository-issues-and-relates-to-iss)
 - [Profiles now show your highest achievement badge tier](https://github.com/musman550/musfira-ai-profiles-now-show-your-highest-achievement-badge-tier)
+- [Purpose-built model for leaked secret detection](https://github.com/musman550/musfira-ai-purpose-built-model-for-leaked-secret-detection)
 - [Qwen 3.8 27b be like...](https://github.com/musman550/musfira-ai-qwen-38-27b-be-like)
 - [Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.](https://github.com/musman550/musfira-ai-qwen-38-27b-in-9th-position-on-code-arena-gemma-4-31b-is-80t)
 - [Qwen 3.8 27B is a game changer.](https://github.com/musman550/musfira-ai-qwen-38-27b-is-a-game-changer)
 - [Qwen 3.8 Flash Next (Max) is impressive just to talk with.](https://github.com/musman550/musfira-ai-qwen-38-flash-next-max-is-impressive-just-to-talk-with)
 - [Qwen 4 Announced at Apsara Conference](https://github.com/musman550/musfira-ai-qwen-4-announced-at-apsara-conference)
 - [Qwen will be the king?](https://github.com/musman550/musfira-ai-qwen-will-be-the-king)
+- [Qwen3.8-27B: 159 tok/s on R9700, 64 tok/s on Strix Halo](https://github.com/musman550/musfira-ai-qwen38-27b-159-toks-on-r9700-64-toks-on-strix-halo)
 - [Qwen3.8-27B beat the Wikipedia game in 6 clicks.](https://github.com/musman550/musfira-ai-qwen38-27b-beat-the-wikipedia-game-in-6-clicks)
 - [Qwen3.8 27b Game Dev Part 2](https://github.com/musman550/musfira-ai-qwen38-27b-game-dev-part-2)
 - [Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following](https://github.com/musman550/musfira-ai-qwen38-27b-humanlike-chat-20-texts-like-a-human-now-with-too)
