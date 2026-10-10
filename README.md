@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 144
-**Last updated:** 2026-10-09
+**Total repos published:** 149
+**Last updated:** 2026-10-10
 
 ## Catalog
 
@@ -32,6 +32,7 @@
 - [Claude Haiku 5.5 in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-haiku-55-in-github-copilot)
 - [Claude Opus 5.5 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-opus-55-is-now-available-in-github-copilot)
 - [Claude Sonnet 5.5 in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-sonnet-55-in-github-copilot)
+- [CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis](https://github.com/musman550/musfira-ai-codeql-2272-improves-c-go-rust-and-javascript-analysis)
 - [Confidential comments on repository security advisories](https://github.com/musman550/musfira-ai-confidential-comments-on-repository-security-advisories)
 - [Configure cost and quality in Copilot auto model selection](https://github.com/musman550/musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection)
 - [Copilot budget increase requests are generally available](https://github.com/musman550/musfira-ai-copilot-budget-increase-requests-are-generally-available)
@@ -93,8 +94,10 @@
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
 - [Node 20 is no longer available in GitHub Actions](https://github.com/musman550/musfira-ai-node-20-is-no-longer-available-in-github-actions)
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
+- [NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series](https://github.com/musman550/musfira-ai-nvidia-reportedly-discontinuing-rtx-5090-gb202-gpus-to-be-re)
 - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://github.com/musman550/musfira-ai-open-sourcing-astabrief-the-fast-report-generation-model-in)
 - [OpenAI alleged of stealing mathematicians work](https://github.com/musman550/musfira-ai-openai-alleged-of-stealing-mathematicians-work)
+- [OpenAI's math findings built on stolen user data](https://github.com/musman550/musfira-ai-openais-math-findings-built-on-stolen-user-data)
 - [OpenTelemetry in the GitHub Copilot app](https://github.com/musman550/musfira-ai-opentelemetry-in-the-github-copilot-app)
 - [[Paper] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](https://github.com/musman550/musfira-ai-paper-engramedit-decoupled-knowledge-updates-in-llms-through)
 - [PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀](https://github.com/musman550/musfira-ai-pewdiepie-getting-banned-twice-by-openai-while-making-a-loca)
@@ -136,6 +139,7 @@
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://github.com/musman550/musfira-ai-training-a-coding-model-to-paint-watercolours-with-trl-and-o)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-training-and-finetuning-multi-vector-embedding-models-with-s)
 - [Transformers now runs llama.cpp quants](https://github.com/musman550/musfira-ai-transformers-now-runs-llamacpp-quants)
+- [Triage role users or higher can now archive pull requests](https://github.com/musman550/musfira-ai-triage-role-users-or-higher-can-now-archive-pull-requests)
 - [Ubuntu 26 generally available and latest migration](https://github.com/musman550/musfira-ai-ubuntu-26-generally-available-and-latest-migration)
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://github.com/musman550/musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark)
 - [Upcoming changes to GitHub Copilot policies and billing](https://github.com/musman550/musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing)
@@ -144,6 +148,7 @@
 - [Update your IDE to restore agent activity in Copilot usage metrics](https://github.com/musman550/musfira-ai-update-your-ide-to-restore-agent-activity-in-copilot-usage-m)
 - [Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM](https://github.com/musman550/musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx)
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
+- [want me to get you some?🤣](https://github.com/musman550/musfira-ai-want-me-to-get-you-some)
 - [We unlearned CCP alignment from Qwen3.6-35B-A3B: censored/propaganda answers 89.8% → 2.8%, general benchmarks within ~1 point (open weights)](https://github.com/musman550/musfira-ai-we-unlearned-ccp-alignment-from-qwen36-35b-a3b-censoredpropa)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
