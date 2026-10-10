@@ -574,5 +574,25 @@
   "1f20a9cd18871213": {
     "title": "Qwen3.8-27B: 159 tok/s on R9700, 64 tok/s on Strix Halo",
     "repo": "musfira-ai-qwen38-27b-159-toks-on-r9700-64-toks-on-strix-halo"
+  },
+  "b05fe90d78ace626": {
+    "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+    "repo": "musfira-ai-nvidia-reportedly-discontinuing-rtx-5090-gb202-gpus-to-be-re"
+  },
+  "8ed014bcb409279d": {
+    "title": "want me to get you some?\ud83e\udd23",
+    "repo": "musfira-ai-want-me-to-get-you-some"
+  },
+  "e6b17f2803aebb6a": {
+    "title": "OpenAI's math findings built on stolen user data",
+    "repo": "musfira-ai-openais-math-findings-built-on-stolen-user-data"
+  },
+  "b3b13ba0295e123f": {
+    "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+    "repo": "musfira-ai-codeql-2272-improves-c-go-rust-and-javascript-analysis"
+  },
+  "8f3b978f97b62366": {
+    "title": "Triage role users or higher can now archive pull requests",
+    "repo": "musfira-ai-triage-role-users-or-higher-can-now-archive-pull-requests"
   }
 }
