@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 149
-**Last updated:** 2026-10-10
+**Total repos published:** 152
+**Last updated:** 2026-10-11
 
 ## Catalog
 
@@ -38,6 +38,7 @@
 - [Copilot budget increase requests are generally available](https://github.com/musman550/musfira-ai-copilot-budget-increase-requests-are-generally-available)
 - [Copilot code review: An improved review experience](https://github.com/musman550/musfira-ai-copilot-code-review-an-improved-review-experience)
 - [Copilot code review: API support and new default effort level](https://github.com/musman550/musfira-ai-copilot-code-review-api-support-and-new-default-effort-level)
+- [Copilot code review: New organization billing options and controls](https://github.com/musman550/musfira-ai-copilot-code-review-new-organization-billing-options-and-con)
 - [Copilot impact dashboard now shows feature engagement](https://github.com/musman550/musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement)
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
 - [DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key](https://github.com/musman550/musfira-ai-deepseek-harness-02---optional-bundle-architecture-windows-s)
@@ -105,6 +106,7 @@
 - [Pinning saved views to the repository issues sidebar is generally available and more](https://github.com/musman550/musfira-ai-pinning-saved-views-to-the-repository-issues-sidebar-is-gene)
 - [Private saved views for repository issues and “Relates to” issue relationship is generally available](https://github.com/musman550/musfira-ai-private-saved-views-for-repository-issues-and-relates-to-iss)
 - [Profiles now show your highest achievement badge tier](https://github.com/musman550/musfira-ai-profiles-now-show-your-highest-achievement-badge-tier)
+- [PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use](https://github.com/musman550/musfira-ai-psa-deepseek-v41-flash-habitually-exfiltrates-api-keys-it-is)
 - [Purpose-built model for leaked secret detection](https://github.com/musman550/musfira-ai-purpose-built-model-for-leaked-secret-detection)
 - [Qwen 3.8 27b be like...](https://github.com/musman550/musfira-ai-qwen-38-27b-be-like)
 - [Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.](https://github.com/musman550/musfira-ai-qwen-38-27b-in-9th-position-on-code-arena-gemma-4-31b-is-80t)
@@ -132,6 +134,7 @@
 - [Tencent/Hy4-preview 770B-A49B weight dropped](https://github.com/musman550/musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped)
 - [Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error](https://github.com/musman550/musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a)
 - [The Agent Said It Was Done. The Database Disagreed.](https://github.com/musman550/musfira-ai-the-agent-said-it-was-done-the-database-disagreed)
+- [The model that didn't exist, so you made it yourself](https://github.com/musman550/musfira-ai-the-model-that-didnt-exist-so-you-made-it-yourself)
 - [The new GitHub Copilot experience in Slack](https://github.com/musman550/musfira-ai-the-new-github-copilot-experience-in-slack)
 - [Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high](https://github.com/musman550/musfira-ai-think-youre-going-to-get-cheap-ddr5-ram-think-again-even-if)
 - [this is not even a competition at this point ... this is embarrassing](https://github.com/musman550/musfira-ai-this-is-not-even-a-competition-at-this-point-this-is-embarra)
