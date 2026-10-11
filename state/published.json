@@ -594,5 +594,17 @@
   "8f3b978f97b62366": {
     "title": "Triage role users or higher can now archive pull requests",
     "repo": "musfira-ai-triage-role-users-or-higher-can-now-archive-pull-requests"
+  },
+  "44d0b0195606e36a": {
+    "title": "PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use",
+    "repo": "musfira-ai-psa-deepseek-v41-flash-habitually-exfiltrates-api-keys-it-is"
+  },
+  "d35c9d70aba12071": {
+    "title": "Copilot code review: New organization billing options and controls",
+    "repo": "musfira-ai-copilot-code-review-new-organization-billing-options-and-con"
+  },
+  "fd45f8b5f83d5b52": {
+    "title": "The model that didn't exist, so you made it yourself",
+    "repo": "musfira-ai-the-model-that-didnt-exist-so-you-made-it-yourself"
   }
 }
