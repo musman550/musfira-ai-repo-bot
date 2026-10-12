@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 152
-**Last updated:** 2026-10-11
+**Total repos published:** 154
+**Last updated:** 2026-10-12
 
 ## Catalog
 
@@ -40,6 +40,7 @@
 - [Copilot code review: API support and new default effort level](https://github.com/musman550/musfira-ai-copilot-code-review-api-support-and-new-default-effort-level)
 - [Copilot code review: New organization billing options and controls](https://github.com/musman550/musfira-ai-copilot-code-review-new-organization-billing-options-and-con)
 - [Copilot impact dashboard now shows feature engagement](https://github.com/musman550/musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement)
+- [Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards](https://github.com/musman550/musfira-ai-decision-30-open-multimodal-decision-models-from-06b-to-27b)
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
 - [DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key](https://github.com/musman550/musfira-ai-deepseek-harness-02---optional-bundle-architecture-windows-s)
 - [Deepseek Has Soft Retired Deepseek V4 Pro](https://github.com/musman550/musfira-ai-deepseek-has-soft-retired-deepseek-v4-pro)
@@ -59,6 +60,7 @@
 - [GGUFs in transformers natively!](https://github.com/musman550/musfira-ai-ggufs-in-transformers-natively)
 - [GitHub Actions: Early September 2026 updates](https://github.com/musman550/musfira-ai-github-actions-early-september-2026-updates)
 - [GitHub Copilot weekly releases — August 31](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-august-31)
+- [GitHub Copilot weekly releases — October 5](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-october-5)
 - [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
 - [GitHub Copilot weekly releases — September 7](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-7)
 - [Give Your Coding Agents a Memory You Own](https://github.com/musman550/musfira-ai-give-your-coding-agents-a-memory-you-own)
