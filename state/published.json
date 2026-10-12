@@ -606,5 +606,13 @@
   "fd45f8b5f83d5b52": {
     "title": "The model that didn't exist, so you made it yourself",
     "repo": "musfira-ai-the-model-that-didnt-exist-so-you-made-it-yourself"
+  },
+  "c5fae87a4f27c29a": {
+    "title": "Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards",
+    "repo": "musfira-ai-decision-30-open-multimodal-decision-models-from-06b-to-27b"
+  },
+  "0b160fb240bd48f0": {
+    "title": "GitHub Copilot weekly releases \u2014 October 5",
+    "repo": "musfira-ai-github-copilot-weekly-releases-october-5"
   }
 }
