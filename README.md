@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 154
-**Last updated:** 2026-10-12
+**Total repos published:** 157
+**Last updated:** 2026-10-13
 
 ## Catalog
 
@@ -17,6 +17,8 @@
 - [Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36](https://github.com/musman550/musfira-ai-agnes-aiagnes-30-flash-33b-multimodal-aa-score-36)
 - [AI Scan for pull request APIs in public preview](https://github.com/musman550/musfira-ai-ai-scan-for-pull-request-apis-in-public-preview)
 - [and then they came for the used server RAM.](https://github.com/musman550/musfira-ai-and-then-they-came-for-the-used-server-ram)
+- [Anthropic is doing free publicity for GLM again](https://github.com/musman550/musfira-ai-anthropic-is-doing-free-publicity-for-glm-again)
+- [Anyone feel like reverse-engineering CUDA?](https://github.com/musman550/musfira-ai-anyone-feel-like-reverse-engineering-cuda)
 - [Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory](https://github.com/musman550/musfira-ai-apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra---u)
 - [Automate SSO authorization for classic PATs and SSH keys](https://github.com/musman550/musfira-ai-automate-sso-authorization-for-classic-pats-and-ssh-keys)
 - [BAAI/AREX-2 - 27B - Agent model based on Qwen3.8 27B](https://github.com/musman550/musfira-ai-baaiarex-2---27b---agent-model-based-on-qwen38-27b)
@@ -74,6 +76,7 @@
 - [I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB](https://github.com/musman550/musfira-ai-i-developed-my-own-quantized-llm-from-scratch-trained-on-30b)
 - [I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150](https://github.com/musman550/musfira-ai-i-trained-a-157b-parameter-dreamer-4-world-model-from-scratc)
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://github.com/musman550/musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w)
+- [It's been too quiet on the other side of the Pacific](https://github.com/musman550/musfira-ai-its-been-too-quiet-on-the-other-side-of-the-pacific)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Jev isn't new tech. Its marketing targets people who think AI started with LLMs.](https://github.com/musman550/musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai)
 - [Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)](https://github.com/musman550/musfira-ai-last-week-some-of-south-koreas-biggest-banks-were-hit-by-a-c)
