@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 157
-**Last updated:** 2026-10-13
+**Total repos published:** 161
+**Last updated:** 2026-10-14
 
 ## Catalog
 
@@ -29,6 +29,7 @@
 - [[Bi-Weekly Megathread] Project Showcase](https://github.com/musman550/musfira-ai-bi-weekly-megathread-project-showcase)
 - [Blabbermouth AI coding agents hate this one weird trick!](https://github.com/musman550/musfira-ai-blabbermouth-ai-coding-agents-hate-this-one-weird-trick)
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
+- [Character.AI files for bankruptcy, to sell some assets to Disney for $20 million](https://github.com/musman550/musfira-ai-characterai-files-for-bankruptcy-to-sell-some-assets-to-disn)
 - [Clarification on the Qwen-image-2.1 license](https://github.com/musman550/musfira-ai-clarification-on-the-qwen-image-21-license)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
 - [Claude Haiku 5.5 in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-haiku-55-in-github-copilot)
@@ -57,10 +58,12 @@
 - [Folks, have you purchased the Mac M5 Ultra with 256GB yet? We need serious benchmarks, because we only get YouTube clowns influencers results](https://github.com/musman550/musfira-ai-folks-have-you-purchased-the-mac-m5-ultra-with-256gb-yet-we)
 - [FT: Corporate America rejects overpriced frontier, embraces open models](https://github.com/musman550/musfira-ai-ft-corporate-america-rejects-overpriced-frontier-embraces-op)
 - [Gemini 3.8 Flash is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-38-flash-is-now-available-in-github-copilot)
+- [Gemini 4 Argon in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-4-argon-in-github-copilot)
 - [General warning about Clore.AI](https://github.com/musman550/musfira-ai-general-warning-about-cloreai)
 - [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://github.com/musman550/musfira-ai-getting-the-source-right-not-just-the-fact-source-aware-veri)
 - [GGUFs in transformers natively!](https://github.com/musman550/musfira-ai-ggufs-in-transformers-natively)
 - [GitHub Actions: Early September 2026 updates](https://github.com/musman550/musfira-ai-github-actions-early-september-2026-updates)
+- [GitHub App improvements for least privilege and management](https://github.com/musman550/musfira-ai-github-app-improvements-for-least-privilege-and-management)
 - [GitHub Copilot weekly releases — August 31](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-august-31)
 - [GitHub Copilot weekly releases — October 5](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-october-5)
 - [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
@@ -132,6 +135,7 @@
 - [Selected models in GitHub Copilot deprecated](https://github.com/musman550/musfira-ai-selected-models-in-github-copilot-deprecated)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
 - [So relevant](https://github.com/musman550/musfira-ai-so-relevant)
+- [Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU](https://github.com/musman550/musfira-ai-someone-is-running-qwen-27b-at-20-toks-on-a-jailbroken-ps5s)
 - [Stage-only npm tokens for safer automation](https://github.com/musman550/musfira-ai-stage-only-npm-tokens-for-safer-automation)
 - [Stateless GitHub App installation tokens rolled out](https://github.com/musman550/musfira-ai-stateless-github-app-installation-tokens-rolled-out)
 - [Swift 1.5 27b: Swift Qwen just got faster](https://github.com/musman550/musfira-ai-swift-15-27b-swift-qwen-just-got-faster)
