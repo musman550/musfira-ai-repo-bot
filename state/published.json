@@ -626,5 +626,21 @@
   "637e4c4898479705": {
     "title": "Anthropic is doing free publicity for GLM again",
     "repo": "musfira-ai-anthropic-is-doing-free-publicity-for-glm-again"
+  },
+  "845f3fca02422a3a": {
+    "title": "Gemini 4 Argon in GitHub Copilot",
+    "repo": "musfira-ai-gemini-4-argon-in-github-copilot"
+  },
+  "0b9dff9f03216b59": {
+    "title": "Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
+    "repo": "musfira-ai-someone-is-running-qwen-27b-at-20-toks-on-a-jailbroken-ps5s"
+  },
+  "4f7210fb13bf1657": {
+    "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
+    "repo": "musfira-ai-characterai-files-for-bankruptcy-to-sell-some-assets-to-disn"
+  },
+  "acde3b18c063a60e": {
+    "title": "GitHub App improvements for least privilege and management",
+    "repo": "musfira-ai-github-app-improvements-for-least-privilege-and-management"
   }
 }
