@@ -3,12 +3,13 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 161
-**Last updated:** 2026-10-14
+**Total repos published:** 164
+**Last updated:** 2026-10-15
 
 ## Catalog
 
 - [12hrs with Ling 3.1 Flash](https://github.com/musman550/musfira-ai-12hrs-with-ling-31-flash)
+- [137B A6.8B model from Microsoft?](https://github.com/musman550/musfira-ai-137b-a68b-model-from-microsoft)
 - [42x Faster Prompt Lookup Drafting in llama.cpp](https://github.com/musman550/musfira-ai-42x-faster-prompt-lookup-drafting-in-llamacpp)
 - [Accelerating vision-language models with LFM2.5-VL-DSpark](https://github.com/musman550/musfira-ai-accelerating-vision-language-models-with-lfm25-vl-dspark)
 - [add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-add-glm-53-flash-glm5-next-support-by-timkhronos-pull-reques)
@@ -132,12 +133,14 @@
 - [Reflection 70B was released two years ago (September 2024)](https://github.com/musman550/musfira-ai-reflection-70b-was-released-two-years-ago-september-2024)
 - [Refreshed repository pull requests page in public preview](https://github.com/musman550/musfira-ai-refreshed-repository-pull-requests-page-in-public-preview)
 - [Remediate Code Quality findings with agentic autofix](https://github.com/musman550/musfira-ai-remediate-code-quality-findings-with-agentic-autofix)
+- [Run fast, private agents on-device with LFM2.5-24B-A2B](https://github.com/musman550/musfira-ai-run-fast-private-agents-on-device-with-lfm25-24b-a2b)
 - [Selected models in GitHub Copilot deprecated](https://github.com/musman550/musfira-ai-selected-models-in-github-copilot-deprecated)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
 - [So relevant](https://github.com/musman550/musfira-ai-so-relevant)
 - [Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU](https://github.com/musman550/musfira-ai-someone-is-running-qwen-27b-at-20-toks-on-a-jailbroken-ps5s)
 - [Stage-only npm tokens for safer automation](https://github.com/musman550/musfira-ai-stage-only-npm-tokens-for-safer-automation)
 - [Stateless GitHub App installation tokens rolled out](https://github.com/musman550/musfira-ai-stateless-github-app-installation-tokens-rolled-out)
+- [Stepfun Step-5-Preview released! (600B/27B-1M Context)](https://github.com/musman550/musfira-ai-stepfun-step-5-preview-released-600b27b-1m-context)
 - [Swift 1.5 27b: Swift Qwen just got faster](https://github.com/musman550/musfira-ai-swift-15-27b-swift-qwen-just-got-faster)
 - [tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)](https://github.com/musman550/musfira-ai-tencentevie-8b-and-evie-45b-high-capacity-visual-document-re)
 - [Tencent/Hy4-preview 770B-A49B weight dropped](https://github.com/musman550/musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped)
