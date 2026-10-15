@@ -642,5 +642,17 @@
   "acde3b18c063a60e": {
     "title": "GitHub App improvements for least privilege and management",
     "repo": "musfira-ai-github-app-improvements-for-least-privilege-and-management"
+  },
+  "8a195074c3c7ed7e": {
+    "title": "137B A6.8B model from Microsoft?",
+    "repo": "musfira-ai-137b-a68b-model-from-microsoft"
+  },
+  "323059c7d7d83260": {
+    "title": "Stepfun Step-5-Preview released! (600B/27B-1M Context)",
+    "repo": "musfira-ai-stepfun-step-5-preview-released-600b27b-1m-context"
+  },
+  "ec1d3b5ff81803db": {
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "repo": "musfira-ai-run-fast-private-agents-on-device-with-lfm25-24b-a2b"
   }
 }
