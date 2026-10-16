@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 164
-**Last updated:** 2026-10-15
+**Total repos published:** 169
+**Last updated:** 2026-10-16
 
 ## Catalog
 
@@ -14,6 +14,7 @@
 - [Accelerating vision-language models with LFM2.5-VL-DSpark](https://github.com/musman550/musfira-ai-accelerating-vision-language-models-with-lfm25-vl-dspark)
 - [add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-add-glm-53-flash-glm5-next-support-by-timkhronos-pull-reques)
 - [Add VS Code Agents to Copilot usage metrics](https://github.com/musman550/musfira-ai-add-vs-code-agents-to-copilot-usage-metrics)
+- [Agentic autofix for code scanning alerts general availability](https://github.com/musman550/musfira-ai-agentic-autofix-for-code-scanning-alerts-general-availabilit)
 - [Agentic autofix now uses Copilot Memory](https://github.com/musman550/musfira-ai-agentic-autofix-now-uses-copilot-memory)
 - [Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36](https://github.com/musman550/musfira-ai-agnes-aiagnes-30-flash-33b-multimodal-aa-score-36)
 - [AI Scan for pull request APIs in public preview](https://github.com/musman550/musfira-ai-ai-scan-for-pull-request-apis-in-public-preview)
@@ -53,6 +54,7 @@
 - [Deprecation notice: All-platform CodeQL bundle](https://github.com/musman550/musfira-ai-deprecation-notice-all-platform-codeql-bundle)
 - [Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some](https://github.com/musman550/musfira-ai-did-anyone-do-a-full-bench-of-eg-qwen-flash-next-iq4-and-qwe)
 - [Don’t buy a $9K RTX 5090.... instead.](https://github.com/musman550/musfira-ai-dont-buy-a-9k-rtx-5090-instead)
+- [Download GitHub Code Quality license usage as a CSV](https://github.com/musman550/musfira-ai-download-github-code-quality-license-usage-as-a-csv)
 - [Enforce GitHub Advanced Security configurations](https://github.com/musman550/musfira-ai-enforce-github-advanced-security-configurations)
 - [Faster C++ code intelligence with whole codebase indexing](https://github.com/musman550/musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
@@ -101,6 +103,7 @@
 - [New Benchmark: The Struggle Bench](https://github.com/musman550/musfira-ai-new-benchmark-the-struggle-bench)
 - [New features and improvements in Copilot for JetBrains](https://github.com/musman550/musfira-ai-new-features-and-improvements-in-copilot-for-jetbrains)
 - [New fields for SecurityAdvisory GraphQL API](https://github.com/musman550/musfira-ai-new-fields-for-securityadvisory-graphql-api)
+- [New paper from Stanford, Together AI, UIUC, and Meta introduces Hybrid Reasoning Agents. These AI models think mostly in a hidden internal way (faster and cheaper), and only use normal text when they need tools or give the final answer.](https://github.com/musman550/musfira-ai-new-paper-from-stanford-together-ai-uiuc-and-meta-introduces)
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
 - [Node 20 is no longer available in GitHub Actions](https://github.com/musman550/musfira-ai-node-20-is-no-longer-available-in-github-actions)
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
@@ -122,6 +125,7 @@
 - [Qwen 3.8 27B is a game changer.](https://github.com/musman550/musfira-ai-qwen-38-27b-is-a-game-changer)
 - [Qwen 3.8 Flash Next (Max) is impressive just to talk with.](https://github.com/musman550/musfira-ai-qwen-38-flash-next-max-is-impressive-just-to-talk-with)
 - [Qwen 4 Announced at Apsara Conference](https://github.com/musman550/musfira-ai-qwen-4-announced-at-apsara-conference)
+- [Qwen Flash Next potential SOTA Q2 nobody talks about](https://github.com/musman550/musfira-ai-qwen-flash-next-potential-sota-q2-nobody-talks-about)
 - [Qwen will be the king?](https://github.com/musman550/musfira-ai-qwen-will-be-the-king)
 - [Qwen3.8-27B: 159 tok/s on R9700, 64 tok/s on Strix Halo](https://github.com/musman550/musfira-ai-qwen38-27b-159-toks-on-r9700-64-toks-on-strix-halo)
 - [Qwen3.8-27B beat the Wikipedia game in 6 clicks.](https://github.com/musman550/musfira-ai-qwen38-27b-beat-the-wikipedia-game-in-6-clicks)
@@ -160,6 +164,7 @@
 - [Upcoming changes to GitHub Copilot policies and billing](https://github.com/musman550/musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing)
 - [Upcoming deprecation of selected GitHub Copilot models](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models)
 - [Upcoming deprecation of selected GitHub Copilot models in mid-October](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models-in-mi)
+- [Upcoming deprecation of selected GitHub Copilot models in mid-November](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models-in-mi)
 - [Update your IDE to restore agent activity in Copilot usage metrics](https://github.com/musman550/musfira-ai-update-your-ide-to-restore-agent-activity-in-copilot-usage-m)
 - [Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM](https://github.com/musman550/musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx)
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
