@@ -654,5 +654,25 @@
   "ec1d3b5ff81803db": {
     "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
     "repo": "musfira-ai-run-fast-private-agents-on-device-with-lfm25-24b-a2b"
+  },
+  "72deef7fa8989d11": {
+    "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+    "repo": "musfira-ai-upcoming-deprecation-of-selected-github-copilot-models-in-mi"
+  },
+  "de1de999e69eaab3": {
+    "title": "New paper from Stanford, Together AI, UIUC, and Meta introduces Hybrid Reasoning Agents. These AI models think mostly in a hidden internal way (faster and cheaper), and only use normal text when they need tools or give the final answer.",
+    "repo": "musfira-ai-new-paper-from-stanford-together-ai-uiuc-and-meta-introduces"
+  },
+  "7b945f201c3e2235": {
+    "title": "Agentic autofix for code scanning alerts general availability",
+    "repo": "musfira-ai-agentic-autofix-for-code-scanning-alerts-general-availabilit"
+  },
+  "e49b722222cc9390": {
+    "title": "Qwen Flash Next potential SOTA Q2 nobody talks about",
+    "repo": "musfira-ai-qwen-flash-next-potential-sota-q2-nobody-talks-about"
+  },
+  "c61099bdba208362": {
+    "title": "Download GitHub Code Quality license usage as a CSV",
+    "repo": "musfira-ai-download-github-code-quality-license-usage-as-a-csv"
   }
 }
