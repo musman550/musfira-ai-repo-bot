@@ -674,5 +674,25 @@
   "c61099bdba208362": {
     "title": "Download GitHub Code Quality license usage as a CSV",
     "repo": "musfira-ai-download-github-code-quality-license-usage-as-a-csv"
+  },
+  "9355075794c5b700": {
+    "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 \u00b7 Hugging Face",
+    "repo": "musfira-ai-deepseek-aideepseek-v41-flash-1017-hugging-face"
+  },
+  "38a067e5ddf97b98": {
+    "title": "10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)",
+    "repo": "musfira-ai-10-things-you-maybe-didnt-know-you-can-do-with-qwen-36-27b-r"
+  },
+  "80f5271deeb300ad": {
+    "title": "DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API",
+    "repo": "musfira-ai-deepseek-41-flash-1017-incoming----deepseek-users-report-a-p"
+  },
+  "1e838ef07fea389f": {
+    "title": "llama.cpp has come a long way",
+    "repo": "musfira-ai-llamacpp-has-come-a-long-way"
+  },
+  "7a609669adc72191": {
+    "title": "Xcode 27 runner image generally available",
+    "repo": "musfira-ai-xcode-27-runner-image-generally-available"
   }
 }
