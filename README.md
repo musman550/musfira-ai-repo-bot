@@ -3,11 +3,12 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 169
-**Last updated:** 2026-10-16
+**Total repos published:** 174
+**Last updated:** 2026-10-17
 
 ## Catalog
 
+- [10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)](https://github.com/musman550/musfira-ai-10-things-you-maybe-didnt-know-you-can-do-with-qwen-36-27b-r)
 - [12hrs with Ling 3.1 Flash](https://github.com/musman550/musfira-ai-12hrs-with-ling-31-flash)
 - [137B A6.8B model from Microsoft?](https://github.com/musman550/musfira-ai-137b-a68b-model-from-microsoft)
 - [42x Faster Prompt Lookup Drafting in llama.cpp](https://github.com/musman550/musfira-ai-42x-faster-prompt-lookup-drafting-in-llamacpp)
@@ -46,6 +47,8 @@
 - [Copilot code review: New organization billing options and controls](https://github.com/musman550/musfira-ai-copilot-code-review-new-organization-billing-options-and-con)
 - [Copilot impact dashboard now shows feature engagement](https://github.com/musman550/musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement)
 - [Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards](https://github.com/musman550/musfira-ai-decision-30-open-multimodal-decision-models-from-06b-to-27b)
+- [DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API](https://github.com/musman550/musfira-ai-deepseek-41-flash-1017-incoming----deepseek-users-report-a-p)
+- [deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-1017-hugging-face)
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
 - [DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key](https://github.com/musman550/musfira-ai-deepseek-harness-02---optional-bundle-architecture-windows-s)
 - [Deepseek Has Soft Retired Deepseek V4 Pro](https://github.com/musman550/musfira-ai-deepseek-has-soft-retired-deepseek-v4-pro)
@@ -86,6 +89,7 @@
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Jev isn't new tech. Its marketing targets people who think AI started with LLMs.](https://github.com/musman550/musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai)
 - [Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)](https://github.com/musman550/musfira-ai-last-week-some-of-south-koreas-biggest-banks-were-hit-by-a-c)
+- [llama.cpp has come a long way](https://github.com/musman550/musfira-ai-llamacpp-has-come-a-long-way)
 - [llama.cpp on the stage](https://github.com/musman550/musfira-ai-llamacpp-on-the-stage)
 - [Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.](https://github.com/musman550/musfira-ai-looks-like-the-era-of-subsidised-compute-is-coming-to-an-end)
 - [M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s](https://github.com/musman550/musfira-ai-m5-ultra-256-running-glm-53-flash-688-toks)
@@ -173,6 +177,7 @@
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
 - [X25519-only TLS ends for GHE.com on October 7](https://github.com/musman550/musfira-ai-x25519-only-tls-ends-for-ghecom-on-october-7)
+- [Xcode 27 runner image generally available](https://github.com/musman550/musfira-ai-xcode-27-runner-image-generally-available)
 - [XingChen-AGI/Xing4.0-29B-A4B MoE](https://github.com/musman550/musfira-ai-xingchen-agixing40-29b-a4b-moe)
 - [You can now try Aleph Alpha's Kolibri 78B for free online here.](https://github.com/musman550/musfira-ai-you-can-now-try-aleph-alphas-kolibri-78b-for-free-online-her)
 - [Your Agent Aced the Task. Will It Do It Again?](https://github.com/musman550/musfira-ai-your-agent-aced-the-task-will-it-do-it-again)
