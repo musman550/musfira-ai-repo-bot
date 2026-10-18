@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 174
-**Last updated:** 2026-10-17
+**Total repos published:** 177
+**Last updated:** 2026-10-18
 
 ## Catalog
 
@@ -52,6 +52,7 @@
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
 - [DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key](https://github.com/musman550/musfira-ai-deepseek-harness-02---optional-bundle-architecture-windows-s)
 - [Deepseek Has Soft Retired Deepseek V4 Pro](https://github.com/musman550/musfira-ai-deepseek-has-soft-retired-deepseek-v4-pro)
+- [DeepSeek v4.1 Flash 1017 for Dwarfstar (ds4)](https://github.com/musman550/musfira-ai-deepseek-v41-flash-1017-for-dwarfstar-ds4)
 - [DeepSeek V4.1 Flash beats Astra on AA's new benchmark](https://github.com/musman550/musfira-ai-deepseek-v41-flash-beats-astra-on-aas-new-benchmark)
 - [DeepSeek-V4.1-Flash surprised ....](https://github.com/musman550/musfira-ai-deepseek-v41-flash-surprised)
 - [Deprecation notice: All-platform CodeQL bundle](https://github.com/musman550/musfira-ai-deprecation-notice-all-platform-codeql-bundle)
@@ -142,6 +143,7 @@
 - [Refreshed repository pull requests page in public preview](https://github.com/musman550/musfira-ai-refreshed-repository-pull-requests-page-in-public-preview)
 - [Remediate Code Quality findings with agentic autofix](https://github.com/musman550/musfira-ai-remediate-code-quality-findings-with-agentic-autofix)
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://github.com/musman550/musfira-ai-run-fast-private-agents-on-device-with-lfm25-24b-a2b)
+- [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://github.com/musman550/musfira-ai-scaling-indic-pretraining-28-trillion-tokens-and-an-open-dat)
 - [Selected models in GitHub Copilot deprecated](https://github.com/musman550/musfira-ai-selected-models-in-github-copilot-deprecated)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
 - [So relevant](https://github.com/musman550/musfira-ai-so-relevant)
@@ -174,6 +176,7 @@
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
 - [want me to get you some?🤣](https://github.com/musman550/musfira-ai-want-me-to-get-you-some)
 - [We unlearned CCP alignment from Qwen3.6-35B-A3B: censored/propaganda answers 89.8% → 2.8%, general benchmarks within ~1 point (open weights)](https://github.com/musman550/musfira-ai-we-unlearned-ccp-alignment-from-qwen36-35b-a3b-censoredpropa)
+- [Welcome Beam: a 501B open model you can own, customize, and scale](https://github.com/musman550/musfira-ai-welcome-beam-a-501b-open-model-you-can-own-customize-and-sca)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
 - [X25519-only TLS ends for GHE.com on October 7](https://github.com/musman550/musfira-ai-x25519-only-tls-ends-for-ghecom-on-october-7)
