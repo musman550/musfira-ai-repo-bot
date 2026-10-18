@@ -694,5 +694,17 @@
   "7a609669adc72191": {
     "title": "Xcode 27 runner image generally available",
     "repo": "musfira-ai-xcode-27-runner-image-generally-available"
+  },
+  "5f6c908c9c39386e": {
+    "title": "DeepSeek v4.1 Flash 1017 for Dwarfstar (ds4)",
+    "repo": "musfira-ai-deepseek-v41-flash-1017-for-dwarfstar-ds4"
+  },
+  "5f681f428e8843e1": {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "repo": "musfira-ai-welcome-beam-a-501b-open-model-you-can-own-customize-and-sca"
+  },
+  "47b425bdc1294d66": {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "repo": "musfira-ai-scaling-indic-pretraining-28-trillion-tokens-and-an-open-dat"
   }
 }
