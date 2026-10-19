@@ -706,5 +706,25 @@
   "47b425bdc1294d66": {
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "repo": "musfira-ai-scaling-indic-pretraining-28-trillion-tokens-and-an-open-dat"
+  },
+  "fbe9ab47926edbd7": {
+    "title": "MiniMax M3.1 Flash released, Model weights Oct 23",
+    "repo": "musfira-ai-minimax-m31-flash-released-model-weights-oct-23"
+  },
+  "03e59327e27cd272": {
+    "title": "MiniMax-M3.1-Flash is coming",
+    "repo": "musfira-ai-minimax-m31-flash-is-coming"
+  },
+  "8cfe53baf0daee47": {
+    "title": "AI labs report benchmark scores 6.4% higher than independent testers, on average",
+    "repo": "musfira-ai-ai-labs-report-benchmark-scores-64-higher-than-independent-t"
+  },
+  "ddf19d374a0f70ae": {
+    "title": "incoai/Qwen3.8-Flash-Next-DFlash2",
+    "repo": "musfira-ai-incoaiqwen38-flash-next-dflash2"
+  },
+  "d90baf62f93e9491": {
+    "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+    "repo": "musfira-ai-codeql-changes-for-macos-27-xcode-27-and-swift-64"
   }
 }
