@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 177
-**Last updated:** 2026-10-18
+**Total repos published:** 182
+**Last updated:** 2026-10-19
 
 ## Catalog
 
@@ -18,6 +18,7 @@
 - [Agentic autofix for code scanning alerts general availability](https://github.com/musman550/musfira-ai-agentic-autofix-for-code-scanning-alerts-general-availabilit)
 - [Agentic autofix now uses Copilot Memory](https://github.com/musman550/musfira-ai-agentic-autofix-now-uses-copilot-memory)
 - [Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36](https://github.com/musman550/musfira-ai-agnes-aiagnes-30-flash-33b-multimodal-aa-score-36)
+- [AI labs report benchmark scores 6.4% higher than independent testers, on average](https://github.com/musman550/musfira-ai-ai-labs-report-benchmark-scores-64-higher-than-independent-t)
 - [AI Scan for pull request APIs in public preview](https://github.com/musman550/musfira-ai-ai-scan-for-pull-request-apis-in-public-preview)
 - [and then they came for the used server RAM.](https://github.com/musman550/musfira-ai-and-then-they-came-for-the-used-server-ram)
 - [Anthropic is doing free publicity for GLM again](https://github.com/musman550/musfira-ai-anthropic-is-doing-free-publicity-for-glm-again)
@@ -39,6 +40,7 @@
 - [Claude Opus 5.5 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-opus-55-is-now-available-in-github-copilot)
 - [Claude Sonnet 5.5 in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-sonnet-55-in-github-copilot)
 - [CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis](https://github.com/musman550/musfira-ai-codeql-2272-improves-c-go-rust-and-javascript-analysis)
+- [CodeQL changes for macOS 27, Xcode 27, and Swift 6.4](https://github.com/musman550/musfira-ai-codeql-changes-for-macos-27-xcode-27-and-swift-64)
 - [Confidential comments on repository security advisories](https://github.com/musman550/musfira-ai-confidential-comments-on-repository-security-advisories)
 - [Configure cost and quality in Copilot auto model selection](https://github.com/musman550/musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection)
 - [Copilot budget increase requests are generally available](https://github.com/musman550/musfira-ai-copilot-budget-increase-requests-are-generally-available)
@@ -86,6 +88,7 @@
 - [I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB](https://github.com/musman550/musfira-ai-i-developed-my-own-quantized-llm-from-scratch-trained-on-30b)
 - [I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150](https://github.com/musman550/musfira-ai-i-trained-a-157b-parameter-dreamer-4-world-model-from-scratc)
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://github.com/musman550/musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w)
+- [incoai/Qwen3.8-Flash-Next-DFlash2](https://github.com/musman550/musfira-ai-incoaiqwen38-flash-next-dflash2)
 - [It's been too quiet on the other side of the Pacific](https://github.com/musman550/musfira-ai-its-been-too-quiet-on-the-other-side-of-the-pacific)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Jev isn't new tech. Its marketing targets people who think AI started with LLMs.](https://github.com/musman550/musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai)
@@ -99,6 +102,8 @@
 - [Manage the code coverage ruleset condition with the REST API](https://github.com/musman550/musfira-ai-manage-the-code-coverage-ruleset-condition-with-the-rest-api)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
+- [MiniMax-M3.1-Flash is coming](https://github.com/musman550/musfira-ai-minimax-m31-flash-is-coming)
+- [MiniMax M3.1 Flash released, Model weights Oct 23](https://github.com/musman550/musfira-ai-minimax-m31-flash-released-model-weights-oct-23)
 - [Mozilla Report: China-U.S. AI Model Capability Gap Narrows to 4.4 Months](https://github.com/musman550/musfira-ai-mozilla-report-china-us-ai-model-capability-gap-narrows-to-4)
 - [MTP released for Qwen3.8-Flash-Next-GGUF](https://github.com/musman550/musfira-ai-mtp-released-for-qwen38-flash-next-gguf)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence)
