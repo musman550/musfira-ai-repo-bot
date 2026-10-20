@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 182
-**Last updated:** 2026-10-19
+**Total repos published:** 184
+**Last updated:** 2026-10-20
 
 ## Catalog
 
@@ -54,6 +54,7 @@
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
 - [DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key](https://github.com/musman550/musfira-ai-deepseek-harness-02---optional-bundle-architecture-windows-s)
 - [Deepseek Has Soft Retired Deepseek V4 Pro](https://github.com/musman550/musfira-ai-deepseek-has-soft-retired-deepseek-v4-pro)
+- [Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!](https://github.com/musman550/musfira-ai-deepseek-released-deepinfer---open-source-high-performance-l)
 - [DeepSeek v4.1 Flash 1017 for Dwarfstar (ds4)](https://github.com/musman550/musfira-ai-deepseek-v41-flash-1017-for-dwarfstar-ds4)
 - [DeepSeek V4.1 Flash beats Astra on AA's new benchmark](https://github.com/musman550/musfira-ai-deepseek-v41-flash-beats-astra-on-aas-new-benchmark)
 - [DeepSeek-V4.1-Flash surprised ....](https://github.com/musman550/musfira-ai-deepseek-v41-flash-surprised)
@@ -88,6 +89,7 @@
 - [I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB](https://github.com/musman550/musfira-ai-i-developed-my-own-quantized-llm-from-scratch-trained-on-30b)
 - [I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150](https://github.com/musman550/musfira-ai-i-trained-a-157b-parameter-dreamer-4-world-model-from-scratc)
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://github.com/musman550/musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w)
+- [Improve Qwen3.8-27b low quants by using a prefiller model that streams from SSD](https://github.com/musman550/musfira-ai-improve-qwen38-27b-low-quants-by-using-a-prefiller-model-tha)
 - [incoai/Qwen3.8-Flash-Next-DFlash2](https://github.com/musman550/musfira-ai-incoaiqwen38-flash-next-dflash2)
 - [It's been too quiet on the other side of the Pacific](https://github.com/musman550/musfira-ai-its-been-too-quiet-on-the-other-side-of-the-pacific)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
