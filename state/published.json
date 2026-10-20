@@ -726,5 +726,13 @@
   "d90baf62f93e9491": {
     "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
     "repo": "musfira-ai-codeql-changes-for-macos-27-xcode-27-and-swift-64"
+  },
+  "f8254a674918859c": {
+    "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
+    "repo": "musfira-ai-deepseek-released-deepinfer---open-source-high-performance-l"
+  },
+  "6aeed0e40f3ad67f": {
+    "title": "Improve Qwen3.8-27b low quants by using a prefiller model that streams from SSD",
+    "repo": "musfira-ai-improve-qwen38-27b-low-quants-by-using-a-prefiller-model-tha"
   }
 }
