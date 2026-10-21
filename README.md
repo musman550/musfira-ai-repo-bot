@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 184
-**Last updated:** 2026-10-20
+**Total repos published:** 186
+**Last updated:** 2026-10-21
 
 ## Catalog
 
@@ -63,6 +63,7 @@
 - [Don’t buy a $9K RTX 5090.... instead.](https://github.com/musman550/musfira-ai-dont-buy-a-9k-rtx-5090-instead)
 - [Download GitHub Code Quality license usage as a CSV](https://github.com/musman550/musfira-ai-download-github-code-quality-license-usage-as-a-csv)
 - [Enforce GitHub Advanced Security configurations](https://github.com/musman550/musfira-ai-enforce-github-advanced-security-configurations)
+- [EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders](https://github.com/musman550/musfira-ai-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo)
 - [Faster C++ code intelligence with whole codebase indexing](https://github.com/musman550/musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
 - [Folks, have you purchased the Mac M5 Ultra with 256GB yet? We need serious benchmarks, because we only get YouTube clowns influencers results](https://github.com/musman550/musfira-ai-folks-have-you-purchased-the-mac-m5-ultra-with-256gb-yet-we)
@@ -91,6 +92,7 @@
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://github.com/musman550/musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w)
 - [Improve Qwen3.8-27b low quants by using a prefiller model that streams from SSD](https://github.com/musman550/musfira-ai-improve-qwen38-27b-low-quants-by-using-a-prefiller-model-tha)
 - [incoai/Qwen3.8-Flash-Next-DFlash2](https://github.com/musman550/musfira-ai-incoaiqwen38-flash-next-dflash2)
+- [InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]](https://github.com/musman550/musfira-ai-internsciencesage-a15-finetune-of-qwen-36-35b-a3b)
 - [It's been too quiet on the other side of the Pacific](https://github.com/musman550/musfira-ai-its-been-too-quiet-on-the-other-side-of-the-pacific)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Jev isn't new tech. Its marketing targets people who think AI started with LLMs.](https://github.com/musman550/musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai)
