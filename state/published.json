@@ -734,5 +734,13 @@
   "6aeed0e40f3ad67f": {
     "title": "Improve Qwen3.8-27b low quants by using a prefiller model that streams from SSD",
     "repo": "musfira-ai-improve-qwen38-27b-low-quants-by-using-a-prefiller-model-tha"
+  },
+  "ffe4d1b86b545f6b": {
+    "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+    "repo": "musfira-ai-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo"
+  },
+  "0ce69f37d432d08d": {
+    "title": "InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]",
+    "repo": "musfira-ai-internsciencesage-a15-finetune-of-qwen-36-35b-a3b"
   }
 }
