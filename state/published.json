@@ -742,5 +742,17 @@
   "0ce69f37d432d08d": {
     "title": "InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]",
     "repo": "musfira-ai-internsciencesage-a15-finetune-of-qwen-36-35b-a3b"
+  },
+  "b10e570933033992": {
+    "title": "Kitten-TTS 2: New Open-source SOTA 1.58 bit TTS (CPU-only with voice cloning, multilingual, emotion control)",
+    "repo": "musfira-ai-kitten-tts-2-new-open-source-sota-158-bit-tts-cpu-only-with"
+  },
+  "2842011a3d25f937": {
+    "title": "Updates to GitHub secret scanning",
+    "repo": "musfira-ai-updates-to-github-secret-scanning"
+  },
+  "8309f50047c36a0e": {
+    "title": "Dependabot alerts REST API now includes dependency versions",
+    "repo": "musfira-ai-dependabot-alerts-rest-api-now-includes-dependency-versions"
   }
 }
