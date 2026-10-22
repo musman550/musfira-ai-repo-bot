@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 186
-**Last updated:** 2026-10-21
+**Total repos published:** 189
+**Last updated:** 2026-10-22
 
 ## Catalog
 
@@ -58,6 +58,7 @@
 - [DeepSeek v4.1 Flash 1017 for Dwarfstar (ds4)](https://github.com/musman550/musfira-ai-deepseek-v41-flash-1017-for-dwarfstar-ds4)
 - [DeepSeek V4.1 Flash beats Astra on AA's new benchmark](https://github.com/musman550/musfira-ai-deepseek-v41-flash-beats-astra-on-aas-new-benchmark)
 - [DeepSeek-V4.1-Flash surprised ....](https://github.com/musman550/musfira-ai-deepseek-v41-flash-surprised)
+- [Dependabot alerts REST API now includes dependency versions](https://github.com/musman550/musfira-ai-dependabot-alerts-rest-api-now-includes-dependency-versions)
 - [Deprecation notice: All-platform CodeQL bundle](https://github.com/musman550/musfira-ai-deprecation-notice-all-platform-codeql-bundle)
 - [Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some](https://github.com/musman550/musfira-ai-did-anyone-do-a-full-bench-of-eg-qwen-flash-next-iq4-and-qwe)
 - [Don’t buy a $9K RTX 5090.... instead.](https://github.com/musman550/musfira-ai-dont-buy-a-9k-rtx-5090-instead)
@@ -96,6 +97,7 @@
 - [It's been too quiet on the other side of the Pacific](https://github.com/musman550/musfira-ai-its-been-too-quiet-on-the-other-side-of-the-pacific)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Jev isn't new tech. Its marketing targets people who think AI started with LLMs.](https://github.com/musman550/musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai)
+- [Kitten-TTS 2: New Open-source SOTA 1.58 bit TTS (CPU-only with voice cloning, multilingual, emotion control)](https://github.com/musman550/musfira-ai-kitten-tts-2-new-open-source-sota-158-bit-tts-cpu-only-with)
 - [Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)](https://github.com/musman550/musfira-ai-last-week-some-of-south-koreas-biggest-banks-were-hit-by-a-c)
 - [llama.cpp has come a long way](https://github.com/musman550/musfira-ai-llamacpp-has-come-a-long-way)
 - [llama.cpp on the stage](https://github.com/musman550/musfira-ai-llamacpp-on-the-stage)
@@ -181,6 +183,7 @@
 - [Upcoming deprecation of selected GitHub Copilot models in mid-October](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models-in-mi)
 - [Upcoming deprecation of selected GitHub Copilot models in mid-November](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models-in-mi)
 - [Update your IDE to restore agent activity in Copilot usage metrics](https://github.com/musman550/musfira-ai-update-your-ide-to-restore-agent-activity-in-copilot-usage-m)
+- [Updates to GitHub secret scanning](https://github.com/musman550/musfira-ai-updates-to-github-secret-scanning)
 - [Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM](https://github.com/musman550/musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx)
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
 - [want me to get you some?🤣](https://github.com/musman550/musfira-ai-want-me-to-get-you-some)
