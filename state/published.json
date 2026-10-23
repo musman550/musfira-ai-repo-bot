@@ -754,5 +754,17 @@
   "8309f50047c36a0e": {
     "title": "Dependabot alerts REST API now includes dependency versions",
     "repo": "musfira-ai-dependabot-alerts-rest-api-now-includes-dependency-versions"
+  },
+  "34c16620f3573a22": {
+    "title": "Models disappearing from Huggingface",
+    "repo": "musfira-ai-models-disappearing-from-huggingface"
+  },
+  "5356daedf7cf118a": {
+    "title": "Custom skills, agents, and MCP servers in usage metrics API",
+    "repo": "musfira-ai-custom-skills-agents-and-mcp-servers-in-usage-metrics-api"
+  },
+  "afeebea038ab8c77": {
+    "title": "Qwen3-0.6B model converted into MoE",
+    "repo": "musfira-ai-qwen3-06b-model-converted-into-moe"
   }
 }
