@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 189
-**Last updated:** 2026-10-22
+**Total repos published:** 192
+**Last updated:** 2026-10-23
 
 ## Catalog
 
@@ -48,6 +48,7 @@
 - [Copilot code review: API support and new default effort level](https://github.com/musman550/musfira-ai-copilot-code-review-api-support-and-new-default-effort-level)
 - [Copilot code review: New organization billing options and controls](https://github.com/musman550/musfira-ai-copilot-code-review-new-organization-billing-options-and-con)
 - [Copilot impact dashboard now shows feature engagement](https://github.com/musman550/musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement)
+- [Custom skills, agents, and MCP servers in usage metrics API](https://github.com/musman550/musfira-ai-custom-skills-agents-and-mcp-servers-in-usage-metrics-api)
 - [Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards](https://github.com/musman550/musfira-ai-decision-30-open-multimodal-decision-models-from-06b-to-27b)
 - [DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API](https://github.com/musman550/musfira-ai-deepseek-41-flash-1017-incoming----deepseek-users-report-a-p)
 - [deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-1017-hugging-face)
@@ -110,6 +111,7 @@
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
 - [MiniMax-M3.1-Flash is coming](https://github.com/musman550/musfira-ai-minimax-m31-flash-is-coming)
 - [MiniMax M3.1 Flash released, Model weights Oct 23](https://github.com/musman550/musfira-ai-minimax-m31-flash-released-model-weights-oct-23)
+- [Models disappearing from Huggingface](https://github.com/musman550/musfira-ai-models-disappearing-from-huggingface)
 - [Mozilla Report: China-U.S. AI Model Capability Gap Narrows to 4.4 Months](https://github.com/musman550/musfira-ai-mozilla-report-china-us-ai-model-capability-gap-narrows-to-4)
 - [MTP released for Qwen3.8-Flash-Next-GGUF](https://github.com/musman550/musfira-ai-mtp-released-for-qwen38-flash-next-gguf)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence)
@@ -143,6 +145,7 @@
 - [Qwen 4 Announced at Apsara Conference](https://github.com/musman550/musfira-ai-qwen-4-announced-at-apsara-conference)
 - [Qwen Flash Next potential SOTA Q2 nobody talks about](https://github.com/musman550/musfira-ai-qwen-flash-next-potential-sota-q2-nobody-talks-about)
 - [Qwen will be the king?](https://github.com/musman550/musfira-ai-qwen-will-be-the-king)
+- [Qwen3-0.6B model converted into MoE](https://github.com/musman550/musfira-ai-qwen3-06b-model-converted-into-moe)
 - [Qwen3.8-27B: 159 tok/s on R9700, 64 tok/s on Strix Halo](https://github.com/musman550/musfira-ai-qwen38-27b-159-toks-on-r9700-64-toks-on-strix-halo)
 - [Qwen3.8-27B beat the Wikipedia game in 6 clicks.](https://github.com/musman550/musfira-ai-qwen38-27b-beat-the-wikipedia-game-in-6-clicks)
 - [Qwen3.8 27b Game Dev Part 2](https://github.com/musman550/musfira-ai-qwen38-27b-game-dev-part-2)
