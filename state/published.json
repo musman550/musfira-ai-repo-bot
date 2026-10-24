@@ -766,5 +766,17 @@
   "afeebea038ab8c77": {
     "title": "Qwen3-0.6B model converted into MoE",
     "repo": "musfira-ai-qwen3-06b-model-converted-into-moe"
+  },
+  "4822a04d07167c53": {
+    "title": "Qwen4-27B PR found",
+    "repo": "musfira-ai-qwen4-27b-pr-found"
+  },
+  "6ed835145064ecfe": {
+    "title": "Enterprise installations for GitHub Apps generally available",
+    "repo": "musfira-ai-enterprise-installations-for-github-apps-generally-available"
+  },
+  "7f7bccfdad99bf28": {
+    "title": "[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017",
+    "repo": "musfira-ai-release-ista-gsq-rco-ggufs-for-deepseek-v41-flash-1017"
   }
 }
