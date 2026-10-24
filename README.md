@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 192
-**Last updated:** 2026-10-23
+**Total repos published:** 195
+**Last updated:** 2026-10-24
 
 ## Catalog
 
@@ -65,6 +65,7 @@
 - [Don’t buy a $9K RTX 5090.... instead.](https://github.com/musman550/musfira-ai-dont-buy-a-9k-rtx-5090-instead)
 - [Download GitHub Code Quality license usage as a CSV](https://github.com/musman550/musfira-ai-download-github-code-quality-license-usage-as-a-csv)
 - [Enforce GitHub Advanced Security configurations](https://github.com/musman550/musfira-ai-enforce-github-advanced-security-configurations)
+- [Enterprise installations for GitHub Apps generally available](https://github.com/musman550/musfira-ai-enterprise-installations-for-github-apps-generally-available)
 - [EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders](https://github.com/musman550/musfira-ai-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo)
 - [Faster C++ code intelligence with whole codebase indexing](https://github.com/musman550/musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
@@ -151,10 +152,12 @@
 - [Qwen3.8 27b Game Dev Part 2](https://github.com/musman550/musfira-ai-qwen38-27b-game-dev-part-2)
 - [Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following](https://github.com/musman550/musfira-ai-qwen38-27b-humanlike-chat-20-texts-like-a-human-now-with-too)
 - [Qwen3.8-Flash-Next on MLX-serve, 1m context is released!](https://github.com/musman550/musfira-ai-qwen38-flash-next-on-mlx-serve-1m-context-is-released)
+- [Qwen4-27B PR found](https://github.com/musman550/musfira-ai-qwen4-27b-pr-found)
 - [qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-qwen4exp-halve-the-indexer-score-memory-by-serveurpersocom-p)
 - [Qwen/Qwen-Drive-1.0-4B · Hugging Face](https://github.com/musman550/musfira-ai-qwenqwen-drive-10-4b-hugging-face)
 - [Reflection 70B was released two years ago (September 2024)](https://github.com/musman550/musfira-ai-reflection-70b-was-released-two-years-ago-september-2024)
 - [Refreshed repository pull requests page in public preview](https://github.com/musman550/musfira-ai-refreshed-repository-pull-requests-page-in-public-preview)
+- [[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017](https://github.com/musman550/musfira-ai-release-ista-gsq-rco-ggufs-for-deepseek-v41-flash-1017)
 - [Remediate Code Quality findings with agentic autofix](https://github.com/musman550/musfira-ai-remediate-code-quality-findings-with-agentic-autofix)
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://github.com/musman550/musfira-ai-run-fast-private-agents-on-device-with-lfm25-24b-a2b)
 - [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://github.com/musman550/musfira-ai-scaling-indic-pretraining-28-trillion-tokens-and-an-open-dat)
