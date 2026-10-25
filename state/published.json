@@ -778,5 +778,17 @@
   "7f7bccfdad99bf28": {
     "title": "[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017",
     "repo": "musfira-ai-release-ista-gsq-rco-ggufs-for-deepseek-v41-flash-1017"
+  },
+  "0a14784f60d17f01": {
+    "title": "Too good to be true? ISTA's GSQ-RCO 2-bit DeepSeek-V4.1-Flash scoring the same as the base model",
+    "repo": "musfira-ai-too-good-to-be-true-istas-gsq-rco-2-bit-deepseek-v41-flash-s"
+  },
+  "8edcc4e8d8836255": {
+    "title": "Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading",
+    "repo": "musfira-ai-lean-qwenflash-qwen38-flash-next-125b-running-at-20-toks-on"
+  },
+  "43b8851bd580ab99": {
+    "title": "EMU deletions fix",
+    "repo": "musfira-ai-emu-deletions-fix"
   }
 }
