@@ -790,5 +790,13 @@
   "43b8851bd580ab99": {
     "title": "EMU deletions fix",
     "repo": "musfira-ai-emu-deletions-fix"
+  },
+  "58b8ed9097bce58a": {
+    "title": "Qwen4-27B's 4-way HC shift?",
+    "repo": "musfira-ai-qwen4-27bs-4-way-hc-shift"
+  },
+  "dc487a9ff82ea7af": {
+    "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+    "repo": "musfira-ai-have-8-gb-of-vram-and-32-gb-of-ram-you-can-run-qwen-38-flash"
   }
 }
