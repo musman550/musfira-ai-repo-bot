@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 198
-**Last updated:** 2026-10-25
+**Total repos published:** 200
+**Last updated:** 2026-10-26
 
 ## Catalog
 
@@ -87,6 +87,7 @@
 - [GPT-6.1 Sol in GitHub Copilot](https://github.com/musman550/musfira-ai-gpt-61-sol-in-github-copilot)
 - [Granite 4.2 LLMs: How They're Built](https://github.com/musman550/musfira-ai-granite-42-llms-how-theyre-built)
 - [Grok 4.7 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-grok-47-is-now-available-in-github-copilot)
+- [Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!](https://github.com/musman550/musfira-ai-have-8-gb-of-vram-and-32-gb-of-ram-you-can-run-qwen-38-flash)
 - [How Much Memory Does Your Agent Actually Need?](https://github.com/musman550/musfira-ai-how-much-memory-does-your-agent-actually-need)
 - [How to handle naughty model](https://github.com/musman550/musfira-ai-how-to-handle-naughty-model)
 - [Hugging Face security.txt](https://github.com/musman550/musfira-ai-hugging-face-securitytxt)
@@ -155,6 +156,7 @@
 - [Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following](https://github.com/musman550/musfira-ai-qwen38-27b-humanlike-chat-20-texts-like-a-human-now-with-too)
 - [Qwen3.8-Flash-Next on MLX-serve, 1m context is released!](https://github.com/musman550/musfira-ai-qwen38-flash-next-on-mlx-serve-1m-context-is-released)
 - [Qwen4-27B PR found](https://github.com/musman550/musfira-ai-qwen4-27b-pr-found)
+- [Qwen4-27B's 4-way HC shift?](https://github.com/musman550/musfira-ai-qwen4-27bs-4-way-hc-shift)
 - [qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-qwen4exp-halve-the-indexer-score-memory-by-serveurpersocom-p)
 - [Qwen/Qwen-Drive-1.0-4B · Hugging Face](https://github.com/musman550/musfira-ai-qwenqwen-drive-10-4b-hugging-face)
 - [Reflection 70B was released two years ago (September 2024)](https://github.com/musman550/musfira-ai-reflection-70b-was-released-two-years-ago-september-2024)
