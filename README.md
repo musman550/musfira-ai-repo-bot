@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 200
-**Last updated:** 2026-10-26
+**Total repos published:** 205
+**Last updated:** 2026-10-27
 
 ## Catalog
 
@@ -49,6 +49,7 @@
 - [Copilot code review: New organization billing options and controls](https://github.com/musman550/musfira-ai-copilot-code-review-new-organization-billing-options-and-con)
 - [Copilot impact dashboard now shows feature engagement](https://github.com/musman550/musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement)
 - [Custom skills, agents, and MCP servers in usage metrics API](https://github.com/musman550/musfira-ai-custom-skills-agents-and-mcp-servers-in-usage-metrics-api)
+- [Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL](https://github.com/musman550/musfira-ai-debunking-coheres-claim-of-qwen-38-flash-next-uploading-to-a)
 - [Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards](https://github.com/musman550/musfira-ai-decision-30-open-multimodal-decision-models-from-06b-to-27b)
 - [DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API](https://github.com/musman550/musfira-ai-deepseek-41-flash-1017-incoming----deepseek-users-report-a-p)
 - [deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-1017-hugging-face)
@@ -62,10 +63,12 @@
 - [Dependabot alerts REST API now includes dependency versions](https://github.com/musman550/musfira-ai-dependabot-alerts-rest-api-now-includes-dependency-versions)
 - [Deprecation notice: All-platform CodeQL bundle](https://github.com/musman550/musfira-ai-deprecation-notice-all-platform-codeql-bundle)
 - [Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some](https://github.com/musman550/musfira-ai-did-anyone-do-a-full-bench-of-eg-qwen-flash-next-iq4-and-qwe)
+- [Does Your Model Run on AWS Trainium? Look It Up](https://github.com/musman550/musfira-ai-does-your-model-run-on-aws-trainium-look-it-up)
 - [Don’t buy a $9K RTX 5090.... instead.](https://github.com/musman550/musfira-ai-dont-buy-a-9k-rtx-5090-instead)
 - [Download GitHub Code Quality license usage as a CSV](https://github.com/musman550/musfira-ai-download-github-code-quality-license-usage-as-a-csv)
 - [EMU deletions fix](https://github.com/musman550/musfira-ai-emu-deletions-fix)
 - [Enforce GitHub Advanced Security configurations](https://github.com/musman550/musfira-ai-enforce-github-advanced-security-configurations)
+- [Ensemble forecasting with IBM Granite time-series models](https://github.com/musman550/musfira-ai-ensemble-forecasting-with-ibm-granite-time-series-models)
 - [Enterprise installations for GitHub Apps generally available](https://github.com/musman550/musfira-ai-enterprise-installations-for-github-apps-generally-available)
 - [EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders](https://github.com/musman550/musfira-ai-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo)
 - [Faster C++ code intelligence with whole codebase indexing](https://github.com/musman550/musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing)
@@ -187,6 +190,7 @@
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-training-and-finetuning-multi-vector-embedding-models-with-s)
 - [Transformers now runs llama.cpp quants](https://github.com/musman550/musfira-ai-transformers-now-runs-llamacpp-quants)
 - [Triage role users or higher can now archive pull requests](https://github.com/musman550/musfira-ai-triage-role-users-or-higher-can-now-archive-pull-requests)
+- [Turn notifications into code with GitHub Copilot in Teams](https://github.com/musman550/musfira-ai-turn-notifications-into-code-with-github-copilot-in-teams)
 - [Ubuntu 26 generally available and latest migration](https://github.com/musman550/musfira-ai-ubuntu-26-generally-available-and-latest-migration)
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://github.com/musman550/musfira-ai-up-to-32x-faster-inference-with-lfm25-dspark)
 - [Upcoming changes to GitHub Copilot policies and billing](https://github.com/musman550/musfira-ai-upcoming-changes-to-github-copilot-policies-and-billing)
@@ -195,6 +199,7 @@
 - [Upcoming deprecation of selected GitHub Copilot models in mid-November](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models-in-mi)
 - [Update your IDE to restore agent activity in Copilot usage metrics](https://github.com/musman550/musfira-ai-update-your-ide-to-restore-agent-activity-in-copilot-usage-m)
 - [Updates to GitHub secret scanning](https://github.com/musman550/musfira-ai-updates-to-github-secret-scanning)
+- [Usage metrics API adds usage from tools like OpenCode](https://github.com/musman550/musfira-ai-usage-metrics-api-adds-usage-from-tools-like-opencode)
 - [Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM](https://github.com/musman550/musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx)
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
 - [want me to get you some?🤣](https://github.com/musman550/musfira-ai-want-me-to-get-you-some)
