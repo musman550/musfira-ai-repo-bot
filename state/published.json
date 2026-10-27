@@ -798,5 +798,25 @@
   "dc487a9ff82ea7af": {
     "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
     "repo": "musfira-ai-have-8-gb-of-vram-and-32-gb-of-ram-you-can-run-qwen-38-flash"
+  },
+  "b3141cfc6990b0bc": {
+    "title": "Usage metrics API adds usage from tools like OpenCode",
+    "repo": "musfira-ai-usage-metrics-api-adds-usage-from-tools-like-opencode"
+  },
+  "916c685a0dbd99fb": {
+    "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+    "repo": "musfira-ai-debunking-coheres-claim-of-qwen-38-flash-next-uploading-to-a"
+  },
+  "7cafb6e944279fd5": {
+    "title": "Turn notifications into code with GitHub Copilot in Teams",
+    "repo": "musfira-ai-turn-notifications-into-code-with-github-copilot-in-teams"
+  },
+  "d1bfe73dcf64832c": {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "repo": "musfira-ai-does-your-model-run-on-aws-trainium-look-it-up"
+  },
+  "8daf6f9e75293a2c": {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "repo": "musfira-ai-ensemble-forecasting-with-ibm-granite-time-series-models"
   }
 }
