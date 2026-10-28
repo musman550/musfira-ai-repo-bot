@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 205
-**Last updated:** 2026-10-27
+**Total repos published:** 207
+**Last updated:** 2026-10-28
 
 ## Catalog
 
@@ -12,6 +12,7 @@
 - [12hrs with Ling 3.1 Flash](https://github.com/musman550/musfira-ai-12hrs-with-ling-31-flash)
 - [137B A6.8B model from Microsoft?](https://github.com/musman550/musfira-ai-137b-a68b-model-from-microsoft)
 - [42x Faster Prompt Lookup Drafting in llama.cpp](https://github.com/musman550/musfira-ai-42x-faster-prompt-lookup-drafting-in-llamacpp)
+- [AA is getting ridiculous now. Zero open weights in the Most Attractive Quadrant.](https://github.com/musman550/musfira-ai-aa-is-getting-ridiculous-now-zero-open-weights-in-the-most-a)
 - [Accelerating vision-language models with LFM2.5-VL-DSpark](https://github.com/musman550/musfira-ai-accelerating-vision-language-models-with-lfm25-vl-dspark)
 - [add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-add-glm-53-flash-glm5-next-support-by-timkhronos-pull-reques)
 - [Add VS Code Agents to Copilot usage metrics](https://github.com/musman550/musfira-ai-add-vs-code-agents-to-copilot-usage-metrics)
@@ -33,6 +34,7 @@
 - [[Bi-Weekly Megathread] Project Showcase](https://github.com/musman550/musfira-ai-bi-weekly-megathread-project-showcase)
 - [Blabbermouth AI coding agents hate this one weird trick!](https://github.com/musman550/musfira-ai-blabbermouth-ai-coding-agents-hate-this-one-weird-trick)
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
+- [Build specialized multimodal models with LFM3](https://github.com/musman550/musfira-ai-build-specialized-multimodal-models-with-lfm3)
 - [Character.AI files for bankruptcy, to sell some assets to Disney for $20 million](https://github.com/musman550/musfira-ai-characterai-files-for-bankruptcy-to-sell-some-assets-to-disn)
 - [Clarification on the Qwen-image-2.1 license](https://github.com/musman550/musfira-ai-clarification-on-the-qwen-image-21-license)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
