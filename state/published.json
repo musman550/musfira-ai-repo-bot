@@ -818,5 +818,13 @@
   "8daf6f9e75293a2c": {
     "title": "Ensemble forecasting with IBM Granite time-series models",
     "repo": "musfira-ai-ensemble-forecasting-with-ibm-granite-time-series-models"
+  },
+  "594a4415b3e6113f": {
+    "title": "AA is getting ridiculous now. Zero open weights in the Most Attractive Quadrant.",
+    "repo": "musfira-ai-aa-is-getting-ridiculous-now-zero-open-weights-in-the-most-a"
+  },
+  "79d5bebb3c97c845": {
+    "title": "Build specialized multimodal models with LFM3",
+    "repo": "musfira-ai-build-specialized-multimodal-models-with-lfm3"
   }
 }
