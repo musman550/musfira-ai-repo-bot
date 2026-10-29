@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 207
-**Last updated:** 2026-10-28
+**Total repos published:** 210
+**Last updated:** 2026-10-29
 
 ## Catalog
 
@@ -88,6 +88,7 @@
 - [GitHub Copilot weekly releases — October 5](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-october-5)
 - [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
 - [GitHub Copilot weekly releases — September 7](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-7)
+- [GitHub intelligence puts your code, context, and history to work](https://github.com/musman550/musfira-ai-github-intelligence-puts-your-code-context-and-history-to-wo)
 - [Give Your Coding Agents a Memory You Own](https://github.com/musman550/musfira-ai-give-your-coding-agents-a-memory-you-own)
 - [GPT-6.1 Sol in GitHub Copilot](https://github.com/musman550/musfira-ai-gpt-61-sol-in-github-copilot)
 - [Granite 4.2 LLMs: How They're Built](https://github.com/musman550/musfira-ai-granite-42-llms-how-theyre-built)
@@ -160,6 +161,7 @@
 - [Qwen3.8 27b Game Dev Part 2](https://github.com/musman550/musfira-ai-qwen38-27b-game-dev-part-2)
 - [Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following](https://github.com/musman550/musfira-ai-qwen38-27b-humanlike-chat-20-texts-like-a-human-now-with-too)
 - [Qwen3.8-Flash-Next on MLX-serve, 1m context is released!](https://github.com/musman550/musfira-ai-qwen38-flash-next-on-mlx-serve-1m-context-is-released)
+- [Qwen4 1M context window](https://github.com/musman550/musfira-ai-qwen4-1m-context-window)
 - [Qwen4-27B PR found](https://github.com/musman550/musfira-ai-qwen4-27b-pr-found)
 - [Qwen4-27B's 4-way HC shift?](https://github.com/musman550/musfira-ai-qwen4-27bs-4-way-hc-shift)
 - [qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-qwen4exp-halve-the-indexer-score-memory-by-serveurpersocom-p)
@@ -170,6 +172,7 @@
 - [Remediate Code Quality findings with agentic autofix](https://github.com/musman550/musfira-ai-remediate-code-quality-findings-with-agentic-autofix)
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://github.com/musman550/musfira-ai-run-fast-private-agents-on-device-with-lfm25-24b-a2b)
 - [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://github.com/musman550/musfira-ai-scaling-indic-pretraining-28-trillion-tokens-and-an-open-dat)
+- [Security extension for the GitHub Copilot app](https://github.com/musman550/musfira-ai-security-extension-for-the-github-copilot-app)
 - [Selected models in GitHub Copilot deprecated](https://github.com/musman550/musfira-ai-selected-models-in-github-copilot-deprecated)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
 - [So relevant](https://github.com/musman550/musfira-ai-so-relevant)
