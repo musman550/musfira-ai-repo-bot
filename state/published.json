@@ -826,5 +826,17 @@
   "79d5bebb3c97c845": {
     "title": "Build specialized multimodal models with LFM3",
     "repo": "musfira-ai-build-specialized-multimodal-models-with-lfm3"
+  },
+  "46a870b90ca19e75": {
+    "title": "GitHub intelligence puts your code, context, and history to work",
+    "repo": "musfira-ai-github-intelligence-puts-your-code-context-and-history-to-wo"
+  },
+  "61ea9613f59885b0": {
+    "title": "Qwen4 1M context window",
+    "repo": "musfira-ai-qwen4-1m-context-window"
+  },
+  "14396a7c2c71cbdd": {
+    "title": "Security extension for the GitHub Copilot app",
+    "repo": "musfira-ai-security-extension-for-the-github-copilot-app"
   }
 }
