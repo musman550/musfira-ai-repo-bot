@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 210
-**Last updated:** 2026-10-29
+**Total repos published:** 212
+**Last updated:** 2026-10-30
 
 ## Catalog
 
@@ -92,6 +92,7 @@
 - [Give Your Coding Agents a Memory You Own](https://github.com/musman550/musfira-ai-give-your-coding-agents-a-memory-you-own)
 - [GPT-6.1 Sol in GitHub Copilot](https://github.com/musman550/musfira-ai-gpt-61-sol-in-github-copilot)
 - [Granite 4.2 LLMs: How They're Built](https://github.com/musman550/musfira-ai-granite-42-llms-how-theyre-built)
+- [Granite Switch 4.1.1 — Update models like you update software](https://github.com/musman550/musfira-ai-granite-switch-411-update-models-like-you-update-software)
 - [Grok 4.7 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-grok-47-is-now-available-in-github-copilot)
 - [Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!](https://github.com/musman550/musfira-ai-have-8-gb-of-vram-and-32-gb-of-ram-you-can-run-qwen-38-flash)
 - [How Much Memory Does Your Agent Actually Need?](https://github.com/musman550/musfira-ai-how-much-memory-does-your-agent-actually-need)
@@ -136,6 +137,7 @@
 - [Node 20 is no longer available in GitHub Actions](https://github.com/musman550/musfira-ai-node-20-is-no-longer-available-in-github-actions)
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
 - [NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series](https://github.com/musman550/musfira-ai-nvidia-reportedly-discontinuing-rtx-5090-gb202-gpus-to-be-re)
+- [Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor](https://github.com/musman550/musfira-ai-official-claude-code-vs-code-extension-compromised-to-instal)
 - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://github.com/musman550/musfira-ai-open-sourcing-astabrief-the-fast-report-generation-model-in)
 - [OpenAI alleged of stealing mathematicians work](https://github.com/musman550/musfira-ai-openai-alleged-of-stealing-mathematicians-work)
 - [OpenAI's math findings built on stolen user data](https://github.com/musman550/musfira-ai-openais-math-findings-built-on-stolen-user-data)
