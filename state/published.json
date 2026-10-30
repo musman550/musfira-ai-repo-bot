@@ -838,5 +838,13 @@
   "14396a7c2c71cbdd": {
     "title": "Security extension for the GitHub Copilot app",
     "repo": "musfira-ai-security-extension-for-the-github-copilot-app"
+  },
+  "d13eda0c7b349012": {
+    "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+    "repo": "musfira-ai-official-claude-code-vs-code-extension-compromised-to-instal"
+  },
+  "a66bdf8460a6b101": {
+    "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
+    "repo": "musfira-ai-granite-switch-411-update-models-like-you-update-software"
   }
 }
