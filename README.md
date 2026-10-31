@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 212
-**Last updated:** 2026-10-30
+**Total repos published:** 217
+**Last updated:** 2026-10-31
 
 ## Catalog
 
@@ -73,6 +73,7 @@
 - [Ensemble forecasting with IBM Granite time-series models](https://github.com/musman550/musfira-ai-ensemble-forecasting-with-ibm-granite-time-series-models)
 - [Enterprise installations for GitHub Apps generally available](https://github.com/musman550/musfira-ai-enterprise-installations-for-github-apps-generally-available)
 - [EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders](https://github.com/musman550/musfira-ai-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo)
+- [Fable 5.gguf when?](https://github.com/musman550/musfira-ai-fable-5gguf-when)
 - [Faster C++ code intelligence with whole codebase indexing](https://github.com/musman550/musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing)
 - [First serious confirmation. Ox Alpha is GLM-5.3-Flash](https://github.com/musman550/musfira-ai-first-serious-confirmation-ox-alpha-is-glm-53-flash)
 - [Folks, have you purchased the Mac M5 Ultra with 256GB yet? We need serious benchmarks, because we only get YouTube clowns influencers results](https://github.com/musman550/musfira-ai-folks-have-you-purchased-the-mac-m5-ultra-with-256gb-yet-we)
@@ -84,6 +85,7 @@
 - [GGUFs in transformers natively!](https://github.com/musman550/musfira-ai-ggufs-in-transformers-natively)
 - [GitHub Actions: Early September 2026 updates](https://github.com/musman550/musfira-ai-github-actions-early-september-2026-updates)
 - [GitHub App improvements for least privilege and management](https://github.com/musman550/musfira-ai-github-app-improvements-for-least-privilege-and-management)
+- [GitHub Copilot app, Universe releases](https://github.com/musman550/musfira-ai-github-copilot-app-universe-releases)
 - [GitHub Copilot weekly releases — August 31](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-august-31)
 - [GitHub Copilot weekly releases — October 5](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-october-5)
 - [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
@@ -120,6 +122,7 @@
 - [Manage the code coverage ruleset condition with the REST API](https://github.com/musman550/musfira-ai-manage-the-code-coverage-ruleset-condition-with-the-rest-api)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
+- [microsoft/Mage-VL-Cowork · Hugging Face](https://github.com/musman550/musfira-ai-microsoftmage-vl-cowork-hugging-face)
 - [MiniMax-M3.1-Flash is coming](https://github.com/musman550/musfira-ai-minimax-m31-flash-is-coming)
 - [MiniMax M3.1 Flash released, Model weights Oct 23](https://github.com/musman550/musfira-ai-minimax-m31-flash-released-model-weights-oct-23)
 - [Models disappearing from Huggingface](https://github.com/musman550/musfira-ai-models-disappearing-from-huggingface)
@@ -172,6 +175,7 @@
 - [Refreshed repository pull requests page in public preview](https://github.com/musman550/musfira-ai-refreshed-repository-pull-requests-page-in-public-preview)
 - [[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017](https://github.com/musman550/musfira-ai-release-ista-gsq-rco-ggufs-for-deepseek-v41-flash-1017)
 - [Remediate Code Quality findings with agentic autofix](https://github.com/musman550/musfira-ai-remediate-code-quality-findings-with-agentic-autofix)
+- [Route and orchestrate models with GitHub Copilot Fusion](https://github.com/musman550/musfira-ai-route-and-orchestrate-models-with-github-copilot-fusion)
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://github.com/musman550/musfira-ai-run-fast-private-agents-on-device-with-lfm25-24b-a2b)
 - [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://github.com/musman550/musfira-ai-scaling-indic-pretraining-28-trillion-tokens-and-an-open-dat)
 - [Security extension for the GitHub Copilot app](https://github.com/musman550/musfira-ai-security-extension-for-the-github-copilot-app)
@@ -211,6 +215,7 @@
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
 - [want me to get you some?🤣](https://github.com/musman550/musfira-ai-want-me-to-get-you-some)
 - [We unlearned CCP alignment from Qwen3.6-35B-A3B: censored/propaganda answers 89.8% → 2.8%, general benchmarks within ~1 point (open weights)](https://github.com/musman550/musfira-ai-we-unlearned-ccp-alignment-from-qwen36-35b-a3b-censoredpropa)
+- [Webhook IP ranges added to the Meta API](https://github.com/musman550/musfira-ai-webhook-ip-ranges-added-to-the-meta-api)
 - [Welcome Beam: a 501B open model you can own, customize, and scale](https://github.com/musman550/musfira-ai-welcome-beam-a-501b-open-model-you-can-own-customize-and-sca)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
