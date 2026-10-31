@@ -846,5 +846,25 @@
   "a66bdf8460a6b101": {
     "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
     "repo": "musfira-ai-granite-switch-411-update-models-like-you-update-software"
+  },
+  "689f4fdd68d2de0b": {
+    "title": "Route and orchestrate models with GitHub Copilot Fusion",
+    "repo": "musfira-ai-route-and-orchestrate-models-with-github-copilot-fusion"
+  },
+  "d9eb47634f40f3b6": {
+    "title": "Fable 5.gguf when?",
+    "repo": "musfira-ai-fable-5gguf-when"
+  },
+  "cb4118411f872586": {
+    "title": "microsoft/Mage-VL-Cowork \u00b7 Hugging Face",
+    "repo": "musfira-ai-microsoftmage-vl-cowork-hugging-face"
+  },
+  "984141e42a61333e": {
+    "title": "Webhook IP ranges added to the Meta API",
+    "repo": "musfira-ai-webhook-ip-ranges-added-to-the-meta-api"
+  },
+  "24d6b346fc015aba": {
+    "title": "GitHub Copilot app, Universe releases",
+    "repo": "musfira-ai-github-copilot-app-universe-releases"
   }
 }
