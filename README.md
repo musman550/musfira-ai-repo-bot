@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 217
-**Last updated:** 2026-10-31
+**Total repos published:** 220
+**Last updated:** 2026-11-01
 
 ## Catalog
 
@@ -90,6 +90,7 @@
 - [GitHub Copilot weekly releases — October 5](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-october-5)
 - [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
 - [GitHub Copilot weekly releases — September 7](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-7)
+- [GitHub Enterprise now includes access to GitHub Copilot](https://github.com/musman550/musfira-ai-github-enterprise-now-includes-access-to-github-copilot)
 - [GitHub intelligence puts your code, context, and history to work](https://github.com/musman550/musfira-ai-github-intelligence-puts-your-code-context-and-history-to-wo)
 - [Give Your Coding Agents a Memory You Own](https://github.com/musman550/musfira-ai-give-your-coding-agents-a-memory-you-own)
 - [GPT-6.1 Sol in GitHub Copilot](https://github.com/musman550/musfira-ai-gpt-61-sol-in-github-copilot)
@@ -122,6 +123,7 @@
 - [Manage the code coverage ruleset condition with the REST API](https://github.com/musman550/musfira-ai-manage-the-code-coverage-ruleset-condition-with-the-rest-api)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
+- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/musman550/musfira-ai-memdoor-a-team-of-5-qwen38-27b-models-beats-fable-5-on-livec)
 - [microsoft/Mage-VL-Cowork · Hugging Face](https://github.com/musman550/musfira-ai-microsoftmage-vl-cowork-hugging-face)
 - [MiniMax-M3.1-Flash is coming](https://github.com/musman550/musfira-ai-minimax-m31-flash-is-coming)
 - [MiniMax M3.1 Flash released, Model weights Oct 23](https://github.com/musman550/musfira-ai-minimax-m31-flash-released-model-weights-oct-23)
@@ -137,6 +139,7 @@
 - [New fields for SecurityAdvisory GraphQL API](https://github.com/musman550/musfira-ai-new-fields-for-securityadvisory-graphql-api)
 - [New paper from Stanford, Together AI, UIUC, and Meta introduces Hybrid Reasoning Agents. These AI models think mostly in a hidden internal way (faster and cheaper), and only use normal text when they need tools or give the final answer.](https://github.com/musman550/musfira-ai-new-paper-from-stanford-together-ai-uiuc-and-meta-introduces)
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
+- [new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data](https://github.com/musman550/musfira-ai-new-research-a-tiny-109m-parameter-model-outperforms-models)
 - [Node 20 is no longer available in GitHub Actions](https://github.com/musman550/musfira-ai-node-20-is-no-longer-available-in-github-actions)
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
 - [NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series](https://github.com/musman550/musfira-ai-nvidia-reportedly-discontinuing-rtx-5090-gb202-gpus-to-be-re)
