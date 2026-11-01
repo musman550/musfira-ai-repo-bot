@@ -866,5 +866,17 @@
   "24d6b346fc015aba": {
     "title": "GitHub Copilot app, Universe releases",
     "repo": "musfira-ai-github-copilot-app-universe-releases"
+  },
+  "f9fe021b21434862": {
+    "title": "new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42\u00d7 less training data",
+    "repo": "musfira-ai-new-research-a-tiny-109m-parameter-model-outperforms-models"
+  },
+  "141bf825d8e68bb1": {
+    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "repo": "musfira-ai-memdoor-a-team-of-5-qwen38-27b-models-beats-fable-5-on-livec"
+  },
+  "3e3ed357f10efe6b": {
+    "title": "GitHub Enterprise now includes access to GitHub Copilot",
+    "repo": "musfira-ai-github-enterprise-now-includes-access-to-github-copilot"
   }
 }
