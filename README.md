@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 220
-**Last updated:** 2026-11-01
+**Total repos published:** 222
+**Last updated:** 2026-11-02
 
 ## Catalog
 
@@ -141,6 +141,7 @@
 - [New qwen3.8:27b on a 39k line C to single-file HTML / three.js port](https://github.com/musman550/musfira-ai-new-qwen3827b-on-a-39k-line-c-to-single-file-html-threejs-po)
 - [new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data](https://github.com/musman550/musfira-ai-new-research-a-tiny-109m-parameter-model-outperforms-models)
 - [Node 20 is no longer available in GitHub Actions](https://github.com/musman550/musfira-ai-node-20-is-no-longer-available-in-github-actions)
+- [Not another tok/s post: local quants vs Claude on 9 real bugs](https://github.com/musman550/musfira-ai-not-another-toks-post-local-quants-vs-claude-on-9-real-bugs)
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
 - [NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series](https://github.com/musman550/musfira-ai-nvidia-reportedly-discontinuing-rtx-5090-gb202-gpus-to-be-re)
 - [Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor](https://github.com/musman550/musfira-ai-official-claude-code-vs-code-extension-compromised-to-instal)
@@ -176,6 +177,7 @@
 - [Qwen/Qwen-Drive-1.0-4B · Hugging Face](https://github.com/musman550/musfira-ai-qwenqwen-drive-10-4b-hugging-face)
 - [Reflection 70B was released two years ago (September 2024)](https://github.com/musman550/musfira-ai-reflection-70b-was-released-two-years-ago-september-2024)
 - [Refreshed repository pull requests page in public preview](https://github.com/musman550/musfira-ai-refreshed-repository-pull-requests-page-in-public-preview)
+- [[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter](https://github.com/musman550/musfira-ai-release-ista-deepseek-v41-flash-1017-gsq-rco-coder-a-763b-mo)
 - [[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017](https://github.com/musman550/musfira-ai-release-ista-gsq-rco-ggufs-for-deepseek-v41-flash-1017)
 - [Remediate Code Quality findings with agentic autofix](https://github.com/musman550/musfira-ai-remediate-code-quality-findings-with-agentic-autofix)
 - [Route and orchestrate models with GitHub Copilot Fusion](https://github.com/musman550/musfira-ai-route-and-orchestrate-models-with-github-copilot-fusion)
