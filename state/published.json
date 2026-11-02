@@ -878,5 +878,13 @@
   "3e3ed357f10efe6b": {
     "title": "GitHub Enterprise now includes access to GitHub Copilot",
     "repo": "musfira-ai-github-enterprise-now-includes-access-to-github-copilot"
+  },
+  "4582b4a6c69440aa": {
+    "title": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
+    "repo": "musfira-ai-release-ista-deepseek-v41-flash-1017-gsq-rco-coder-a-763b-mo"
+  },
+  "51939ff6a8e8266d": {
+    "title": "Not another tok/s post: local quants vs Claude on 9 real bugs",
+    "repo": "musfira-ai-not-another-toks-post-local-quants-vs-claude-on-9-real-bugs"
   }
 }
