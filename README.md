@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 222
-**Last updated:** 2026-11-02
+**Total repos published:** 226
+**Last updated:** 2026-11-03
 
 ## Catalog
 
@@ -21,6 +21,7 @@
 - [Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36](https://github.com/musman550/musfira-ai-agnes-aiagnes-30-flash-33b-multimodal-aa-score-36)
 - [AI labs report benchmark scores 6.4% higher than independent testers, on average](https://github.com/musman550/musfira-ai-ai-labs-report-benchmark-scores-64-higher-than-independent-t)
 - [AI Scan for pull request APIs in public preview](https://github.com/musman550/musfira-ai-ai-scan-for-pull-request-apis-in-public-preview)
+- [Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice](https://github.com/musman550/musfira-ai-amazon-is-allegedly-canceling-gpu-orders-and-in-rare-cases-c)
 - [and then they came for the used server RAM.](https://github.com/musman550/musfira-ai-and-then-they-came-for-the-used-server-ram)
 - [Anthropic is doing free publicity for GLM again](https://github.com/musman550/musfira-ai-anthropic-is-doing-free-publicity-for-glm-again)
 - [Anyone feel like reverse-engineering CUDA?](https://github.com/musman550/musfira-ai-anyone-feel-like-reverse-engineering-cuda)
@@ -63,6 +64,7 @@
 - [DeepSeek V4.1 Flash beats Astra on AA's new benchmark](https://github.com/musman550/musfira-ai-deepseek-v41-flash-beats-astra-on-aas-new-benchmark)
 - [DeepSeek-V4.1-Flash surprised ....](https://github.com/musman550/musfira-ai-deepseek-v41-flash-surprised)
 - [Dependabot alerts REST API now includes dependency versions](https://github.com/musman550/musfira-ai-dependabot-alerts-rest-api-now-includes-dependency-versions)
+- [Dependabot now supports Python 3.15](https://github.com/musman550/musfira-ai-dependabot-now-supports-python-315)
 - [Deprecation notice: All-platform CodeQL bundle](https://github.com/musman550/musfira-ai-deprecation-notice-all-platform-codeql-bundle)
 - [Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some](https://github.com/musman550/musfira-ai-did-anyone-do-a-full-bench-of-eg-qwen-flash-next-iq4-and-qwe)
 - [Does Your Model Run on AWS Trainium? Look It Up](https://github.com/musman550/musfira-ai-does-your-model-run-on-aws-trainium-look-it-up)
@@ -90,6 +92,7 @@
 - [GitHub Copilot weekly releases — October 5](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-october-5)
 - [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
 - [GitHub Copilot weekly releases — September 7](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-7)
+- [GitHub Desktop adds short-lived authentication tokens](https://github.com/musman550/musfira-ai-github-desktop-adds-short-lived-authentication-tokens)
 - [GitHub Enterprise now includes access to GitHub Copilot](https://github.com/musman550/musfira-ai-github-enterprise-now-includes-access-to-github-copilot)
 - [GitHub intelligence puts your code, context, and history to work](https://github.com/musman550/musfira-ai-github-intelligence-puts-your-code-context-and-history-to-wo)
 - [Give Your Coding Agents a Memory You Own](https://github.com/musman550/musfira-ai-give-your-coding-agents-a-memory-you-own)
@@ -145,6 +148,7 @@
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
 - [NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series](https://github.com/musman550/musfira-ai-nvidia-reportedly-discontinuing-rtx-5090-gb202-gpus-to-be-re)
 - [Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor](https://github.com/musman550/musfira-ai-official-claude-code-vs-code-extension-compromised-to-instal)
+- [Official Statement: Qwen Models Will Stick to Open Source to the End!](https://github.com/musman550/musfira-ai-official-statement-qwen-models-will-stick-to-open-source-to)
 - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://github.com/musman550/musfira-ai-open-sourcing-astabrief-the-fast-report-generation-model-in)
 - [OpenAI alleged of stealing mathematicians work](https://github.com/musman550/musfira-ai-openai-alleged-of-stealing-mathematicians-work)
 - [OpenAI's math findings built on stolen user data](https://github.com/musman550/musfira-ai-openais-math-findings-built-on-stolen-user-data)
