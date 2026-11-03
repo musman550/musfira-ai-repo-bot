@@ -886,5 +886,21 @@
   "51939ff6a8e8266d": {
     "title": "Not another tok/s post: local quants vs Claude on 9 real bugs",
     "repo": "musfira-ai-not-another-toks-post-local-quants-vs-claude-on-9-real-bugs"
+  },
+  "588627fe1dbaf917": {
+    "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+    "repo": "musfira-ai-official-statement-qwen-models-will-stick-to-open-source-to"
+  },
+  "e0c850edb399c0f7": {
+    "title": "Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice",
+    "repo": "musfira-ai-amazon-is-allegedly-canceling-gpu-orders-and-in-rare-cases-c"
+  },
+  "07c381baa54fda0b": {
+    "title": "Dependabot now supports Python 3.15",
+    "repo": "musfira-ai-dependabot-now-supports-python-315"
+  },
+  "69c0c44f82559421": {
+    "title": "GitHub Desktop adds short-lived authentication tokens",
+    "repo": "musfira-ai-github-desktop-adds-short-lived-authentication-tokens"
   }
 }
