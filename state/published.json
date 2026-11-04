@@ -902,5 +902,17 @@
   "69c0c44f82559421": {
     "title": "GitHub Desktop adds short-lived authentication tokens",
     "repo": "musfira-ai-github-desktop-adds-short-lived-authentication-tokens"
+  },
+  "1fc2821d31cce486": {
+    "title": "GitHub Copilot is now available in JetBrains Air",
+    "repo": "musfira-ai-github-copilot-is-now-available-in-jetbrains-air"
+  },
+  "75b0ceffb7a2fba1": {
+    "title": "Introducing Hy4 (open weights soon)",
+    "repo": "musfira-ai-introducing-hy4-open-weights-soon"
+  },
+  "3e4a4c24bc24175a": {
+    "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+    "repo": "musfira-ai-british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutti"
   }
 }
