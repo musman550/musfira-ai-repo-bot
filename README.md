@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 229
-**Last updated:** 2026-11-04
+**Total repos published:** 231
+**Last updated:** 2026-11-05
 
 ## Catalog
 
@@ -90,6 +90,7 @@
 - [GitHub App improvements for least privilege and management](https://github.com/musman550/musfira-ai-github-app-improvements-for-least-privilege-and-management)
 - [GitHub Copilot app, Universe releases](https://github.com/musman550/musfira-ai-github-copilot-app-universe-releases)
 - [GitHub Copilot is now available in JetBrains Air](https://github.com/musman550/musfira-ai-github-copilot-is-now-available-in-jetbrains-air)
+- [GitHub Copilot is now available in Xcode’s coding assistant](https://github.com/musman550/musfira-ai-github-copilot-is-now-available-in-xcodes-coding-assistant)
 - [GitHub Copilot weekly releases — August 31](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-august-31)
 - [GitHub Copilot weekly releases — October 5](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-october-5)
 - [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
@@ -122,6 +123,7 @@
 - [Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading](https://github.com/musman550/musfira-ai-lean-qwenflash-qwen38-flash-next-125b-running-at-20-toks-on)
 - [llama.cpp has come a long way](https://github.com/musman550/musfira-ai-llamacpp-has-come-a-long-way)
 - [llama.cpp on the stage](https://github.com/musman550/musfira-ai-llamacpp-on-the-stage)
+- [Look up a resource’s cost center with the GitHub REST API](https://github.com/musman550/musfira-ai-look-up-a-resources-cost-center-with-the-github-rest-api)
 - [Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.](https://github.com/musman550/musfira-ai-looks-like-the-era-of-subsidised-compute-is-coming-to-an-end)
 - [M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s](https://github.com/musman550/musfira-ai-m5-ultra-256-running-glm-53-flash-688-toks)
 - [M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds](https://github.com/musman550/musfira-ai-m5-ultra-80core-glm-53-flash-on-dwarfstar-speeds)
