@@ -914,5 +914,13 @@
   "3e4a4c24bc24175a": {
     "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
     "repo": "musfira-ai-british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutti"
+  },
+  "f31a239d31dc69c7": {
+    "title": "GitHub Copilot is now available in Xcode\u2019s coding assistant",
+    "repo": "musfira-ai-github-copilot-is-now-available-in-xcodes-coding-assistant"
+  },
+  "05323078f518d759": {
+    "title": "Look up a resource\u2019s cost center with the GitHub REST API",
+    "repo": "musfira-ai-look-up-a-resources-cost-center-with-the-github-rest-api"
   }
 }
