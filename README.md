@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 231
-**Last updated:** 2026-11-05
+**Total repos published:** 234
+**Last updated:** 2026-11-06
 
 ## Catalog
 
@@ -129,6 +129,7 @@
 - [M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds](https://github.com/musman550/musfira-ai-m5-ultra-80core-glm-53-flash-on-dwarfstar-speeds)
 - [Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo](https://github.com/musman550/musfira-ai-made-the-horizontal-open-source-model-for-jev-with-rlcd-and)
 - [Manage the code coverage ruleset condition with the REST API](https://github.com/musman550/musfira-ai-manage-the-code-coverage-ruleset-condition-with-the-rest-api)
+- [Maybe we'll get cheap RAM for Christmas after all!](https://github.com/musman550/musfira-ai-maybe-well-get-cheap-ram-for-christmas-after-all)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
 - [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/musman550/musfira-ai-memdoor-a-team-of-5-qwen38-27b-models-beats-fable-5-on-livec)
@@ -192,6 +193,7 @@
 - [Route and orchestrate models with GitHub Copilot Fusion](https://github.com/musman550/musfira-ai-route-and-orchestrate-models-with-github-copilot-fusion)
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://github.com/musman550/musfira-ai-run-fast-private-agents-on-device-with-lfm25-24b-a2b)
 - [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://github.com/musman550/musfira-ai-scaling-indic-pretraining-28-trillion-tokens-and-an-open-dat)
+- [Secret scanning upgrades detectors, adds SpaceX as partner](https://github.com/musman550/musfira-ai-secret-scanning-upgrades-detectors-adds-spacex-as-partner)
 - [Security extension for the GitHub Copilot app](https://github.com/musman550/musfira-ai-security-extension-for-the-github-copilot-app)
 - [Selected models in GitHub Copilot deprecated](https://github.com/musman550/musfira-ai-selected-models-in-github-copilot-deprecated)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
@@ -224,6 +226,7 @@
 - [Upcoming deprecation of selected GitHub Copilot models in mid-November](https://github.com/musman550/musfira-ai-upcoming-deprecation-of-selected-github-copilot-models-in-mi)
 - [Update your IDE to restore agent activity in Copilot usage metrics](https://github.com/musman550/musfira-ai-update-your-ide-to-restore-agent-activity-in-copilot-usage-m)
 - [Updates to GitHub secret scanning](https://github.com/musman550/musfira-ai-updates-to-github-secret-scanning)
+- [Usage metrics API adds code review details and addressed rate](https://github.com/musman550/musfira-ai-usage-metrics-api-adds-code-review-details-and-addressed-rat)
 - [Usage metrics API adds usage from tools like OpenCode](https://github.com/musman550/musfira-ai-usage-metrics-api-adds-usage-from-tools-like-opencode)
 - [Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM](https://github.com/musman550/musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx)
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
