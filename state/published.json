@@ -922,5 +922,17 @@
   "05323078f518d759": {
     "title": "Look up a resource\u2019s cost center with the GitHub REST API",
     "repo": "musfira-ai-look-up-a-resources-cost-center-with-the-github-rest-api"
+  },
+  "5af63f02d5002a5e": {
+    "title": "Maybe we'll get cheap RAM for Christmas after all!",
+    "repo": "musfira-ai-maybe-well-get-cheap-ram-for-christmas-after-all"
+  },
+  "2208d39cd7fdd816": {
+    "title": "Usage metrics API adds code review details and addressed rate",
+    "repo": "musfira-ai-usage-metrics-api-adds-code-review-details-and-addressed-rat"
+  },
+  "f0b1027ed1c77977": {
+    "title": "Secret scanning upgrades detectors, adds SpaceX as partner",
+    "repo": "musfira-ai-secret-scanning-upgrades-detectors-adds-spacex-as-partner"
   }
 }
