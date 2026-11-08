@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 236
-**Last updated:** 2026-11-07
+**Total repos published:** 239
+**Last updated:** 2026-11-08
 
 ## Catalog
 
@@ -49,6 +49,7 @@
 - [Configure cost and quality in Copilot auto model selection](https://github.com/musman550/musfira-ai-configure-cost-and-quality-in-copilot-auto-model-selection)
 - [Copilot budget increase requests are generally available](https://github.com/musman550/musfira-ai-copilot-budget-increase-requests-are-generally-available)
 - [Copilot code review: An improved review experience](https://github.com/musman550/musfira-ai-copilot-code-review-an-improved-review-experience)
+- [Copilot code review: API management and review overview updates](https://github.com/musman550/musfira-ai-copilot-code-review-api-management-and-review-overview-updat)
 - [Copilot code review: API support and new default effort level](https://github.com/musman550/musfira-ai-copilot-code-review-api-support-and-new-default-effort-level)
 - [Copilot code review: New organization billing options and controls](https://github.com/musman550/musfira-ai-copilot-code-review-new-organization-billing-options-and-con)
 - [Copilot impact dashboard now shows feature engagement](https://github.com/musman550/musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement)
@@ -92,11 +93,13 @@
 - [GitHub Copilot is now available in JetBrains Air](https://github.com/musman550/musfira-ai-github-copilot-is-now-available-in-jetbrains-air)
 - [GitHub Copilot is now available in Xcode’s coding assistant](https://github.com/musman550/musfira-ai-github-copilot-is-now-available-in-xcodes-coding-assistant)
 - [GitHub Copilot weekly releases — August 31](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-august-31)
+- [GitHub Copilot weekly releases — November 2](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-november-2)
 - [GitHub Copilot weekly releases — October 5](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-october-5)
 - [GitHub Copilot weekly releases — September 14](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-14)
 - [GitHub Copilot weekly releases — September 7](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-7)
 - [GitHub Desktop adds short-lived authentication tokens](https://github.com/musman550/musfira-ai-github-desktop-adds-short-lived-authentication-tokens)
 - [GitHub Enterprise now includes access to GitHub Copilot](https://github.com/musman550/musfira-ai-github-enterprise-now-includes-access-to-github-copilot)
+- [@GitHub in Slack and Teams is generally available and more](https://github.com/musman550/musfira-ai-github-in-slack-and-teams-is-generally-available-and-more)
 - [GitHub intelligence puts your code, context, and history to work](https://github.com/musman550/musfira-ai-github-intelligence-puts-your-code-context-and-history-to-wo)
 - [Give Your Coding Agents a Memory You Own](https://github.com/musman550/musfira-ai-give-your-coding-agents-a-memory-you-own)
 - [Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says](https://github.com/musman550/musfira-ai-good-luck-getting-a-cheap-gpu-amd-is-a-data-center-first-com)
