@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 239
-**Last updated:** 2026-11-08
+**Total repos published:** 241
+**Last updated:** 2026-11-09
 
 ## Catalog
 
@@ -123,6 +123,7 @@
 - [It's been too quiet on the other side of the Pacific](https://github.com/musman550/musfira-ai-its-been-too-quiet-on-the-other-side-of-the-pacific)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Jev isn't new tech. Its marketing targets people who think AI started with LLMs.](https://github.com/musman550/musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai)
+- [Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below](https://github.com/musman550/musfira-ai-joined-the-4x-r9700-club-initial-benchmarks-for-qfn-38-below)
 - [Kitten-TTS 2: New Open-source SOTA 1.58 bit TTS (CPU-only with voice cloning, multilingual, emotion control)](https://github.com/musman550/musfira-ai-kitten-tts-2-new-open-source-sota-158-bit-tts-cpu-only-with)
 - [Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)](https://github.com/musman550/musfira-ai-last-week-some-of-south-koreas-biggest-banks-were-hit-by-a-c)
 - [Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading](https://github.com/musman550/musfira-ai-lean-qwenflash-qwen38-flash-next-125b-running-at-20-toks-on)
@@ -137,6 +138,7 @@
 - [Maybe we'll get cheap RAM for Christmas after all!](https://github.com/musman550/musfira-ai-maybe-well-get-cheap-ram-for-christmas-after-all)
 - [Measuring benchmark optimization in speech recognition](https://github.com/musman550/musfira-ai-measuring-benchmark-optimization-in-speech-recognition)
 - [[Megathread] GLM-5.3-Flash - former ox-alpha](https://github.com/musman550/musfira-ai-megathread-glm-53-flash---former-ox-alpha)
+- [meituan-longcat/LongCat-2.5 · Hugging Face](https://github.com/musman550/musfira-ai-meituan-longcatlongcat-25-hugging-face)
 - [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/musman550/musfira-ai-memdoor-a-team-of-5-qwen38-27b-models-beats-fable-5-on-livec)
 - [microsoft/Mage-VL-Cowork · Hugging Face](https://github.com/musman550/musfira-ai-microsoftmage-vl-cowork-hugging-face)
 - [MiniMax-M3.1-Flash is coming](https://github.com/musman550/musfira-ai-minimax-m31-flash-is-coming)
