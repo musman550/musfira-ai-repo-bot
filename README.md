@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 241
-**Last updated:** 2026-11-09
+**Total repos published:** 243
+**Last updated:** 2026-11-10
 
 ## Catalog
 
@@ -12,6 +12,7 @@
 - [12hrs with Ling 3.1 Flash](https://github.com/musman550/musfira-ai-12hrs-with-ling-31-flash)
 - [137B A6.8B model from Microsoft?](https://github.com/musman550/musfira-ai-137b-a68b-model-from-microsoft)
 - [42x Faster Prompt Lookup Drafting in llama.cpp](https://github.com/musman550/musfira-ai-42x-faster-prompt-lookup-drafting-in-llamacpp)
+- [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://github.com/musman550/musfira-ai-a-closer-look-at-phonon-tts-launching-high-quality-on-device)
 - [AA is getting ridiculous now. Zero open weights in the Most Attractive Quadrant.](https://github.com/musman550/musfira-ai-aa-is-getting-ridiculous-now-zero-open-weights-in-the-most-a)
 - [Accelerating vision-language models with LFM2.5-VL-DSpark](https://github.com/musman550/musfira-ai-accelerating-vision-language-models-with-lfm25-vl-dspark)
 - [add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-add-glm-53-flash-glm5-next-support-by-timkhronos-pull-reques)
@@ -56,6 +57,7 @@
 - [Custom skills, agents, and MCP servers in usage metrics API](https://github.com/musman550/musfira-ai-custom-skills-agents-and-mcp-servers-in-usage-metrics-api)
 - [Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL](https://github.com/musman550/musfira-ai-debunking-coheres-claim-of-qwen-38-flash-next-uploading-to-a)
 - [Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards](https://github.com/musman550/musfira-ai-decision-30-open-multimodal-decision-models-from-06b-to-27b)
+- [Decision model to edit LLM weight directly - No training](https://github.com/musman550/musfira-ai-decision-model-to-edit-llm-weight-directly---no-training)
 - [DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API](https://github.com/musman550/musfira-ai-deepseek-41-flash-1017-incoming----deepseek-users-report-a-p)
 - [deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-1017-hugging-face)
 - [deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face](https://github.com/musman550/musfira-ai-deepseek-aideepseek-v41-flash-hugging-face)
