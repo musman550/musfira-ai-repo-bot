@@ -962,5 +962,13 @@
   "787b4146981954e7": {
     "title": "Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below",
     "repo": "musfira-ai-joined-the-4x-r9700-club-initial-benchmarks-for-qfn-38-below"
+  },
+  "ac77fbc1a0b442ab": {
+    "title": "Decision model to edit LLM weight directly - No training",
+    "repo": "musfira-ai-decision-model-to-edit-llm-weight-directly---no-training"
+  },
+  "a32d59db13ef71b1": {
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "repo": "musfira-ai-a-closer-look-at-phonon-tts-launching-high-quality-on-device"
   }
 }
