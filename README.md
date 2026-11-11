@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 243
-**Last updated:** 2026-11-10
+**Total repos published:** 246
+**Last updated:** 2026-11-11
 
 ## Catalog
 
@@ -78,6 +78,7 @@
 - [Enforce GitHub Advanced Security configurations](https://github.com/musman550/musfira-ai-enforce-github-advanced-security-configurations)
 - [Ensemble forecasting with IBM Granite time-series models](https://github.com/musman550/musfira-ai-ensemble-forecasting-with-ibm-granite-time-series-models)
 - [Enterprise installations for GitHub Apps generally available](https://github.com/musman550/musfira-ai-enterprise-installations-for-github-apps-generally-available)
+- [Ernie 5.5 Flash will be released in two weeks](https://github.com/musman550/musfira-ai-ernie-55-flash-will-be-released-in-two-weeks)
 - [EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders](https://github.com/musman550/musfira-ai-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo)
 - [Fable 5.gguf when?](https://github.com/musman550/musfira-ai-fable-5gguf-when)
 - [Faster C++ code intelligence with whole codebase indexing](https://github.com/musman550/musfira-ai-faster-c-code-intelligence-with-whole-codebase-indexing)
@@ -161,6 +162,7 @@
 - [Node 20 is no longer available in GitHub Actions](https://github.com/musman550/musfira-ai-node-20-is-no-longer-available-in-github-actions)
 - [Not another tok/s post: local quants vs Claude on 9 real bugs](https://github.com/musman550/musfira-ai-not-another-toks-post-local-quants-vs-claude-on-9-real-bugs)
 - [NVIDIA buying HF isn't a good thing for open source](https://github.com/musman550/musfira-ai-nvidia-buying-hf-isnt-a-good-thing-for-open-source)
+- [NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs](https://github.com/musman550/musfira-ai-nvidia-reportedly-cancels-geforce-rtx-5080-24gb-launch-bring)
 - [NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series](https://github.com/musman550/musfira-ai-nvidia-reportedly-discontinuing-rtx-5090-gb202-gpus-to-be-re)
 - [Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor](https://github.com/musman550/musfira-ai-official-claude-code-vs-code-extension-compromised-to-instal)
 - [Official Statement: Qwen Models Will Stick to Open Source to the End!](https://github.com/musman550/musfira-ai-official-statement-qwen-models-will-stick-to-open-source-to)
@@ -248,6 +250,7 @@
 - [X25519-only TLS ends for GHE.com on October 7](https://github.com/musman550/musfira-ai-x25519-only-tls-ends-for-ghecom-on-october-7)
 - [Xcode 27 runner image generally available](https://github.com/musman550/musfira-ai-xcode-27-runner-image-generally-available)
 - [XingChen-AGI/Xing4.0-29B-A4B MoE](https://github.com/musman550/musfira-ai-xingchen-agixing40-29b-a4b-moe)
+- [You can now train your own LLMs with less memory, on your gaming GPUs](https://github.com/musman550/musfira-ai-you-can-now-train-your-own-llms-with-less-memory-on-your-gam)
 - [You can now try Aleph Alpha's Kolibri 78B for free online here.](https://github.com/musman550/musfira-ai-you-can-now-try-aleph-alphas-kolibri-78b-for-free-online-her)
 - [Your Agent Aced the Task. Will It Do It Again?](https://github.com/musman550/musfira-ai-your-agent-aced-the-task-will-it-do-it-again)
 - [zai-org/GLM-5.3 · Hugging Face](https://github.com/musman550/musfira-ai-zai-orgglm-53-hugging-face)
