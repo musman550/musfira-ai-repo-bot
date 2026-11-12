@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 246
-**Last updated:** 2026-11-11
+**Total repos published:** 249
+**Last updated:** 2026-11-12
 
 ## Catalog
 
@@ -36,8 +36,10 @@
 - [[Bi-Weekly Megathread] Project Showcase](https://github.com/musman550/musfira-ai-bi-weekly-megathread-project-showcase)
 - [Blabbermouth AI coding agents hate this one weird trick!](https://github.com/musman550/musfira-ai-blabbermouth-ai-coding-agents-hate-this-one-weird-trick)
 - [Block users directly from security advisories](https://github.com/musman550/musfira-ai-block-users-directly-from-security-advisories)
+- [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://github.com/musman550/musfira-ai-botpsy-on-device-personal-assistant-with-a-sub-billion-param)
 - [British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted](https://github.com/musman550/musfira-ai-british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutti)
 - [Build specialized multimodal models with LFM3](https://github.com/musman550/musfira-ai-build-specialized-multimodal-models-with-lfm3)
+- [C++ language server now auto-configures MSBuild builds](https://github.com/musman550/musfira-ai-c-language-server-now-auto-configures-msbuild-builds)
 - [Character.AI files for bankruptcy, to sell some assets to Disney for $20 million](https://github.com/musman550/musfira-ai-characterai-files-for-bankruptcy-to-sell-some-assets-to-disn)
 - [Clarification on the Qwen-image-2.1 license](https://github.com/musman550/musfira-ai-clarification-on-the-qwen-image-21-license)
 - [Claude Fable 5.1 is generally available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-fable-51-is-generally-available-in-github-copilot)
@@ -123,6 +125,7 @@
 - [incoai/Qwen3.8-Flash-Next-DFlash2](https://github.com/musman550/musfira-ai-incoaiqwen38-flash-next-dflash2)
 - [InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]](https://github.com/musman550/musfira-ai-internsciencesage-a15-finetune-of-qwen-36-35b-a3b)
 - [Introducing Hy4 (open weights soon)](https://github.com/musman550/musfira-ai-introducing-hy4-open-weights-soon)
+- [Issue types and fields are available for personal accounts](https://github.com/musman550/musfira-ai-issue-types-and-fields-are-available-for-personal-accounts)
 - [It's been too quiet on the other side of the Pacific](https://github.com/musman550/musfira-ai-its-been-too-quiet-on-the-other-side-of-the-pacific)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
 - [Jev isn't new tech. Its marketing targets people who think AI started with LLMs.](https://github.com/musman550/musfira-ai-jev-isnt-new-tech-its-marketing-targets-people-who-think-ai)
