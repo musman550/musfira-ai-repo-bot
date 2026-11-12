@@ -982,5 +982,17 @@
   "0b1e2d965f98ff3b": {
     "title": "Ernie 5.5 Flash will be released in two weeks",
     "repo": "musfira-ai-ernie-55-flash-will-be-released-in-two-weeks"
+  },
+  "78592c10aea8a6c5": {
+    "title": "Issue types and fields are available for personal accounts",
+    "repo": "musfira-ai-issue-types-and-fields-are-available-for-personal-accounts"
+  },
+  "c1da6ba2bfec4901": {
+    "title": "C++ language server now auto-configures MSBuild builds",
+    "repo": "musfira-ai-c-language-server-now-auto-configures-msbuild-builds"
+  },
+  "75830c06b846929a": {
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "repo": "musfira-ai-botpsy-on-device-personal-assistant-with-a-sub-billion-param"
   }
 }
