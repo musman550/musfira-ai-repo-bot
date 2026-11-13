@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 249
-**Last updated:** 2026-11-12
+**Total repos published:** 252
+**Last updated:** 2026-11-13
 
 ## Catalog
 
@@ -116,6 +116,7 @@
 - [Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!](https://github.com/musman550/musfira-ai-have-8-gb-of-vram-and-32-gb-of-ram-you-can-run-qwen-38-flash)
 - [How Much Memory Does Your Agent Actually Need?](https://github.com/musman550/musfira-ai-how-much-memory-does-your-agent-actually-need)
 - [How to handle naughty model](https://github.com/musman550/musfira-ai-how-to-handle-naughty-model)
+- [Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit](https://github.com/musman550/musfira-ai-hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-af)
 - [Hugging Face security.txt](https://github.com/musman550/musfira-ai-hugging-face-securitytxt)
 - [I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.](https://github.com/musman550/musfira-ai-i-benchmark-dflash-2-pr-build-in-llamacpp-on-qwen-38-27b-aga)
 - [I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB](https://github.com/musman550/musfira-ai-i-developed-my-own-quantized-llm-from-scratch-trained-on-30b)
@@ -135,6 +136,7 @@
 - [Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading](https://github.com/musman550/musfira-ai-lean-qwenflash-qwen38-flash-next-125b-running-at-20-toks-on)
 - [llama.cpp has come a long way](https://github.com/musman550/musfira-ai-llamacpp-has-come-a-long-way)
 - [llama.cpp on the stage](https://github.com/musman550/musfira-ai-llamacpp-on-the-stage)
+- [llama.cpp v1.0 is here 🦙](https://github.com/musman550/musfira-ai-llamacpp-v10-is-here)
 - [Look up a resource’s cost center with the GitHub REST API](https://github.com/musman550/musfira-ai-look-up-a-resources-cost-center-with-the-github-rest-api)
 - [Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.](https://github.com/musman550/musfira-ai-looks-like-the-era-of-subsidised-compute-is-coming-to-an-end)
 - [M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s](https://github.com/musman550/musfira-ai-m5-ultra-256-running-glm-53-flash-688-toks)
@@ -216,6 +218,7 @@
 - [Stage-only npm tokens for safer automation](https://github.com/musman550/musfira-ai-stage-only-npm-tokens-for-safer-automation)
 - [Stateless GitHub App installation tokens rolled out](https://github.com/musman550/musfira-ai-stateless-github-app-installation-tokens-rolled-out)
 - [Stepfun Step-5-Preview released! (600B/27B-1M Context)](https://github.com/musman550/musfira-ai-stepfun-step-5-preview-released-600b27b-1m-context)
+- [Stories coming out about Jensen](https://github.com/musman550/musfira-ai-stories-coming-out-about-jensen)
 - [Swift 1.5 27b: Swift Qwen just got faster](https://github.com/musman550/musfira-ai-swift-15-27b-swift-qwen-just-got-faster)
 - [tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)](https://github.com/musman550/musfira-ai-tencentevie-8b-and-evie-45b-high-capacity-visual-document-re)
 - [Tencent/Hy4-preview 770B-A49B weight dropped](https://github.com/musman550/musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped)
