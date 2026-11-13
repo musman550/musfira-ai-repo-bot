@@ -994,5 +994,17 @@
   "75830c06b846929a": {
     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
     "repo": "musfira-ai-botpsy-on-device-personal-assistant-with-a-sub-billion-param"
+  },
+  "8334b1e6f47dabbb": {
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+    "repo": "musfira-ai-hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-af"
+  },
+  "216551a7b3822c47": {
+    "title": "Stories coming out about Jensen",
+    "repo": "musfira-ai-stories-coming-out-about-jensen"
+  },
+  "c86a7a710a4f756c": {
+    "title": "llama.cpp v1.0 is here \ud83e\udd99",
+    "repo": "musfira-ai-llamacpp-v10-is-here"
   }
 }
