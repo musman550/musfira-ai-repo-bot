@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 252
-**Last updated:** 2026-11-13
+**Total repos published:** 255
+**Last updated:** 2026-11-14
 
 ## Catalog
 
@@ -15,6 +15,7 @@
 - [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://github.com/musman550/musfira-ai-a-closer-look-at-phonon-tts-launching-high-quality-on-device)
 - [AA is getting ridiculous now. Zero open weights in the Most Attractive Quadrant.](https://github.com/musman550/musfira-ai-aa-is-getting-ridiculous-now-zero-open-weights-in-the-most-a)
 - [Accelerating vision-language models with LFM2.5-VL-DSpark](https://github.com/musman550/musfira-ai-accelerating-vision-language-models-with-lfm25-vl-dspark)
+- [Actions for ARM32 Linux & Windows retirement](https://github.com/musman550/musfira-ai-actions-for-arm32-linux-windows-retirement)
 - [add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp](https://github.com/musman550/musfira-ai-add-glm-53-flash-glm5-next-support-by-timkhronos-pull-reques)
 - [Add VS Code Agents to Copilot usage metrics](https://github.com/musman550/musfira-ai-add-vs-code-agents-to-copilot-usage-metrics)
 - [Agentic autofix for code scanning alerts general availability](https://github.com/musman550/musfira-ai-agentic-autofix-for-code-scanning-alerts-general-availabilit)
@@ -114,6 +115,7 @@
 - [Grok 4.7 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-grok-47-is-now-available-in-github-copilot)
 - [Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 & Deep SWE 1.1](https://github.com/musman550/musfira-ai-harness-leaderboard---kimi-code-hermes-pi-claude-code-codex)
 - [Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!](https://github.com/musman550/musfira-ai-have-8-gb-of-vram-and-32-gb-of-ram-you-can-run-qwen-38-flash)
+- [How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?](https://github.com/musman550/musfira-ai-how-long-are-we-gonna-depend-bunch-of-model-creators-like-qw)
 - [How Much Memory Does Your Agent Actually Need?](https://github.com/musman550/musfira-ai-how-much-memory-does-your-agent-actually-need)
 - [How to handle naughty model](https://github.com/musman550/musfira-ai-how-to-handle-naughty-model)
 - [Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit](https://github.com/musman550/musfira-ai-hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-af)
@@ -137,6 +139,7 @@
 - [llama.cpp has come a long way](https://github.com/musman550/musfira-ai-llamacpp-has-come-a-long-way)
 - [llama.cpp on the stage](https://github.com/musman550/musfira-ai-llamacpp-on-the-stage)
 - [llama.cpp v1.0 is here 🦙](https://github.com/musman550/musfira-ai-llamacpp-v10-is-here)
+- [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://github.com/musman550/musfira-ai-llamacpp-v100-a-stronger-foundation-for-the-local-ai-ecosyst)
 - [Look up a resource’s cost center with the GitHub REST API](https://github.com/musman550/musfira-ai-look-up-a-resources-cost-center-with-the-github-rest-api)
 - [Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.](https://github.com/musman550/musfira-ai-looks-like-the-era-of-subsidised-compute-is-coming-to-an-end)
 - [M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s](https://github.com/musman550/musfira-ai-m5-ultra-256-running-glm-53-flash-688-toks)
