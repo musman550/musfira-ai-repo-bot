@@ -1006,5 +1006,17 @@
   "c86a7a710a4f756c": {
     "title": "llama.cpp v1.0 is here \ud83e\udd99",
     "repo": "musfira-ai-llamacpp-v10-is-here"
+  },
+  "f8d6789dce59ba4c": {
+    "title": "How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?",
+    "repo": "musfira-ai-how-long-are-we-gonna-depend-bunch-of-model-creators-like-qw"
+  },
+  "aae1653e525cf5a7": {
+    "title": "Actions for ARM32 Linux & Windows retirement",
+    "repo": "musfira-ai-actions-for-arm32-linux-windows-retirement"
+  },
+  "1ff02f690012b050": {
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "repo": "musfira-ai-llamacpp-v100-a-stronger-foundation-for-the-local-ai-ecosyst"
   }
 }
