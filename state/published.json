@@ -1018,5 +1018,17 @@
   "1ff02f690012b050": {
     "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
     "repo": "musfira-ai-llamacpp-v100-a-stronger-foundation-for-the-local-ai-ecosyst"
+  },
+  "8597b84662c160be": {
+    "title": "Hot take: frontier models haven\u2019t actually become much smarter",
+    "repo": "musfira-ai-hot-take-frontier-models-havent-actually-become-much-smarter"
+  },
+  "a2a6451cb8b6fdfd": {
+    "title": "Gemini 4 Hydrogen in GitHub Copilot",
+    "repo": "musfira-ai-gemini-4-hydrogen-in-github-copilot"
+  },
+  "2ebee1c76bb9bdfa": {
+    "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+    "repo": "musfira-ai-github-enterprise-server-support-in-the-github-copilot-app"
   }
 }
