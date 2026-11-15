@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 255
-**Last updated:** 2026-11-14
+**Total repos published:** 258
+**Last updated:** 2026-11-15
 
 ## Catalog
 
@@ -90,6 +90,7 @@
 - [FT: Corporate America rejects overpriced frontier, embraces open models](https://github.com/musman550/musfira-ai-ft-corporate-america-rejects-overpriced-frontier-embraces-op)
 - [Gemini 3.8 Flash is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-38-flash-is-now-available-in-github-copilot)
 - [Gemini 4 Argon in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-4-argon-in-github-copilot)
+- [Gemini 4 Hydrogen in GitHub Copilot](https://github.com/musman550/musfira-ai-gemini-4-hydrogen-in-github-copilot)
 - [General warning about Clore.AI](https://github.com/musman550/musfira-ai-general-warning-about-cloreai)
 - [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://github.com/musman550/musfira-ai-getting-the-source-right-not-just-the-fact-source-aware-veri)
 - [GGUFs in transformers natively!](https://github.com/musman550/musfira-ai-ggufs-in-transformers-natively)
@@ -105,6 +106,7 @@
 - [GitHub Copilot weekly releases — September 7](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-7)
 - [GitHub Desktop adds short-lived authentication tokens](https://github.com/musman550/musfira-ai-github-desktop-adds-short-lived-authentication-tokens)
 - [GitHub Enterprise now includes access to GitHub Copilot](https://github.com/musman550/musfira-ai-github-enterprise-now-includes-access-to-github-copilot)
+- [GitHub Enterprise Server support in the GitHub Copilot app](https://github.com/musman550/musfira-ai-github-enterprise-server-support-in-the-github-copilot-app)
 - [@GitHub in Slack and Teams is generally available and more](https://github.com/musman550/musfira-ai-github-in-slack-and-teams-is-generally-available-and-more)
 - [GitHub intelligence puts your code, context, and history to work](https://github.com/musman550/musfira-ai-github-intelligence-puts-your-code-context-and-history-to-wo)
 - [Give Your Coding Agents a Memory You Own](https://github.com/musman550/musfira-ai-give-your-coding-agents-a-memory-you-own)
@@ -115,6 +117,7 @@
 - [Grok 4.7 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-grok-47-is-now-available-in-github-copilot)
 - [Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 & Deep SWE 1.1](https://github.com/musman550/musfira-ai-harness-leaderboard---kimi-code-hermes-pi-claude-code-codex)
 - [Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!](https://github.com/musman550/musfira-ai-have-8-gb-of-vram-and-32-gb-of-ram-you-can-run-qwen-38-flash)
+- [Hot take: frontier models haven’t actually become much smarter](https://github.com/musman550/musfira-ai-hot-take-frontier-models-havent-actually-become-much-smarter)
 - [How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?](https://github.com/musman550/musfira-ai-how-long-are-we-gonna-depend-bunch-of-model-creators-like-qw)
 - [How Much Memory Does Your Agent Actually Need?](https://github.com/musman550/musfira-ai-how-much-memory-does-your-agent-actually-need)
 - [How to handle naughty model](https://github.com/musman550/musfira-ai-how-to-handle-naughty-model)
