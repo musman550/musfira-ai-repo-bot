@@ -1030,5 +1030,13 @@
   "2ebee1c76bb9bdfa": {
     "title": "GitHub Enterprise Server support in the GitHub Copilot app",
     "repo": "musfira-ai-github-enterprise-server-support-in-the-github-copilot-app"
+  },
+  "da15852d2a2e7b2e": {
+    "title": "Where is QWEN 4 27b ?",
+    "repo": "musfira-ai-where-is-qwen-4-27b"
+  },
+  "7bce64ba39eb8d46": {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "repo": "musfira-ai-llmon-an-llm-native-markup-language-now-in-granite-41-3b-and"
   }
 }
