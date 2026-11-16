@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 258
-**Last updated:** 2026-11-15
+**Total repos published:** 260
+**Last updated:** 2026-11-16
 
 ## Catalog
 
@@ -143,6 +143,7 @@
 - [llama.cpp on the stage](https://github.com/musman550/musfira-ai-llamacpp-on-the-stage)
 - [llama.cpp v1.0 is here 🦙](https://github.com/musman550/musfira-ai-llamacpp-v10-is-here)
 - [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://github.com/musman550/musfira-ai-llamacpp-v100-a-stronger-foundation-for-the-local-ai-ecosyst)
+- [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://github.com/musman550/musfira-ai-llmon-an-llm-native-markup-language-now-in-granite-41-3b-and)
 - [Look up a resource’s cost center with the GitHub REST API](https://github.com/musman550/musfira-ai-look-up-a-resources-cost-center-with-the-github-rest-api)
 - [Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.](https://github.com/musman550/musfira-ai-looks-like-the-era-of-subsidised-compute-is-coming-to-an-end)
 - [M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s](https://github.com/musman550/musfira-ai-m5-ultra-256-running-glm-53-flash-688-toks)
@@ -257,6 +258,7 @@
 - [We unlearned CCP alignment from Qwen3.6-35B-A3B: censored/propaganda answers 89.8% → 2.8%, general benchmarks within ~1 point (open weights)](https://github.com/musman550/musfira-ai-we-unlearned-ccp-alignment-from-qwen36-35b-a3b-censoredpropa)
 - [Webhook IP ranges added to the Meta API](https://github.com/musman550/musfira-ai-webhook-ip-ranges-added-to-the-meta-api)
 - [Welcome Beam: a 501B open model you can own, customize, and scale](https://github.com/musman550/musfira-ai-welcome-beam-a-501b-open-model-you-can-own-customize-and-sca)
+- [Where is QWEN 4 27b ?](https://github.com/musman550/musfira-ai-where-is-qwen-4-27b)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
 - [X25519-only TLS ends for GHE.com on October 7](https://github.com/musman550/musfira-ai-x25519-only-tls-ends-for-ghecom-on-october-7)
