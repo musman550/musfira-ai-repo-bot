@@ -1038,5 +1038,9 @@
   "7bce64ba39eb8d46": {
     "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
     "repo": "musfira-ai-llmon-an-llm-native-markup-language-now-in-granite-41-3b-and"
+  },
+  "30bdae12f8861474": {
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "repo": "musfira-ai-rumble-2-flash-an-open-05b-speech-model-for-40-languages"
   }
 }
