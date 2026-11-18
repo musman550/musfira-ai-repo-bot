@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 260
-**Last updated:** 2026-11-16
+**Total repos published:** 261
+**Last updated:** 2026-11-18
 
 ## Catalog
 
@@ -214,6 +214,7 @@
 - [[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017](https://github.com/musman550/musfira-ai-release-ista-gsq-rco-ggufs-for-deepseek-v41-flash-1017)
 - [Remediate Code Quality findings with agentic autofix](https://github.com/musman550/musfira-ai-remediate-code-quality-findings-with-agentic-autofix)
 - [Route and orchestrate models with GitHub Copilot Fusion](https://github.com/musman550/musfira-ai-route-and-orchestrate-models-with-github-copilot-fusion)
+- [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://github.com/musman550/musfira-ai-rumble-2-flash-an-open-05b-speech-model-for-40-languages)
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://github.com/musman550/musfira-ai-run-fast-private-agents-on-device-with-lfm25-24b-a2b)
 - [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://github.com/musman550/musfira-ai-scaling-indic-pretraining-28-trillion-tokens-and-an-open-dat)
 - [Secret scanning upgrades detectors, adds SpaceX as partner](https://github.com/musman550/musfira-ai-secret-scanning-upgrades-detectors-adds-spacex-as-partner)
