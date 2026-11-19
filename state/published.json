@@ -1042,5 +1042,13 @@
   "30bdae12f8861474": {
     "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
     "repo": "musfira-ai-rumble-2-flash-an-open-05b-speech-model-for-40-languages"
+  },
+  "aa79cc9ac3f33253": {
+    "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
+    "repo": "musfira-ai-s3-audit-log-streaming-with-openid-connect-expands-to-ghecom"
+  },
+  "e4b7d586113c71ac": {
+    "title": "Security risk assessments run automatically on GitHub Team",
+    "repo": "musfira-ai-security-risk-assessments-run-automatically-on-github-team"
   }
 }
