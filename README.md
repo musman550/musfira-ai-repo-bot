@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 261
-**Last updated:** 2026-11-18
+**Total repos published:** 263
+**Last updated:** 2026-11-19
 
 ## Catalog
 
@@ -216,9 +216,11 @@
 - [Route and orchestrate models with GitHub Copilot Fusion](https://github.com/musman550/musfira-ai-route-and-orchestrate-models-with-github-copilot-fusion)
 - [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://github.com/musman550/musfira-ai-rumble-2-flash-an-open-05b-speech-model-for-40-languages)
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://github.com/musman550/musfira-ai-run-fast-private-agents-on-device-with-lfm25-24b-a2b)
+- [S3 audit log streaming with OpenID Connect expands to GHE.com](https://github.com/musman550/musfira-ai-s3-audit-log-streaming-with-openid-connect-expands-to-ghecom)
 - [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://github.com/musman550/musfira-ai-scaling-indic-pretraining-28-trillion-tokens-and-an-open-dat)
 - [Secret scanning upgrades detectors, adds SpaceX as partner](https://github.com/musman550/musfira-ai-secret-scanning-upgrades-detectors-adds-spacex-as-partner)
 - [Security extension for the GitHub Copilot app](https://github.com/musman550/musfira-ai-security-extension-for-the-github-copilot-app)
+- [Security risk assessments run automatically on GitHub Team](https://github.com/musman550/musfira-ai-security-risk-assessments-run-automatically-on-github-team)
 - [Selected models in GitHub Copilot deprecated](https://github.com/musman550/musfira-ai-selected-models-in-github-copilot-deprecated)
 - [Shared agentic work with GitHub Copilot in Microsoft Teams](https://github.com/musman550/musfira-ai-shared-agentic-work-with-github-copilot-in-microsoft-teams)
 - [So relevant](https://github.com/musman550/musfira-ai-so-relevant)
