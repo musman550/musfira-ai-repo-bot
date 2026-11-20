@@ -1050,5 +1050,17 @@
   "e4b7d586113c71ac": {
     "title": "Security risk assessments run automatically on GitHub Team",
     "repo": "musfira-ai-security-risk-assessments-run-automatically-on-github-team"
+  },
+  "38ccc3686f30f808": {
+    "title": "Improvements on the pull request overview in public preview",
+    "repo": "musfira-ai-improvements-on-the-pull-request-overview-in-public-preview"
+  },
+  "6aba36418083cf99": {
+    "title": "Enterprise Live Migrations from Azure DevOps generally available",
+    "repo": "musfira-ai-enterprise-live-migrations-from-azure-devops-generally-avail"
+  },
+  "9e3e34ef8678fa85": {
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "repo": "musfira-ai-daisyrose-27b-pushing-the-frontier-of-post-training-efficien"
   }
 }
