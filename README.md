@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 263
-**Last updated:** 2026-11-19
+**Total repos published:** 266
+**Last updated:** 2026-11-20
 
 ## Catalog
 
@@ -58,6 +58,7 @@
 - [Copilot code review: New organization billing options and controls](https://github.com/musman550/musfira-ai-copilot-code-review-new-organization-billing-options-and-con)
 - [Copilot impact dashboard now shows feature engagement](https://github.com/musman550/musfira-ai-copilot-impact-dashboard-now-shows-feature-engagement)
 - [Custom skills, agents, and MCP servers in usage metrics API](https://github.com/musman550/musfira-ai-custom-skills-agents-and-mcp-servers-in-usage-metrics-api)
+- [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://github.com/musman550/musfira-ai-daisyrose-27b-pushing-the-frontier-of-post-training-efficien)
 - [Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL](https://github.com/musman550/musfira-ai-debunking-coheres-claim-of-qwen-38-flash-next-uploading-to-a)
 - [Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards](https://github.com/musman550/musfira-ai-decision-30-open-multimodal-decision-models-from-06b-to-27b)
 - [Decision model to edit LLM weight directly - No training](https://github.com/musman550/musfira-ai-decision-model-to-edit-llm-weight-directly---no-training)
@@ -81,6 +82,7 @@
 - [Enforce GitHub Advanced Security configurations](https://github.com/musman550/musfira-ai-enforce-github-advanced-security-configurations)
 - [Ensemble forecasting with IBM Granite time-series models](https://github.com/musman550/musfira-ai-ensemble-forecasting-with-ibm-granite-time-series-models)
 - [Enterprise installations for GitHub Apps generally available](https://github.com/musman550/musfira-ai-enterprise-installations-for-github-apps-generally-available)
+- [Enterprise Live Migrations from Azure DevOps generally available](https://github.com/musman550/musfira-ai-enterprise-live-migrations-from-azure-devops-generally-avail)
 - [Ernie 5.5 Flash will be released in two weeks](https://github.com/musman550/musfira-ai-ernie-55-flash-will-be-released-in-two-weeks)
 - [EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders](https://github.com/musman550/musfira-ai-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo)
 - [Fable 5.gguf when?](https://github.com/musman550/musfira-ai-fable-5gguf-when)
@@ -128,6 +130,7 @@
 - [I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150](https://github.com/musman550/musfira-ai-i-trained-a-157b-parameter-dreamer-4-world-model-from-scratc)
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://github.com/musman550/musfira-ai-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w)
 - [Improve Qwen3.8-27b low quants by using a prefiller model that streams from SSD](https://github.com/musman550/musfira-ai-improve-qwen38-27b-low-quants-by-using-a-prefiller-model-tha)
+- [Improvements on the pull request overview in public preview](https://github.com/musman550/musfira-ai-improvements-on-the-pull-request-overview-in-public-preview)
 - [incoai/Qwen3.8-Flash-Next-DFlash2](https://github.com/musman550/musfira-ai-incoaiqwen38-flash-next-dflash2)
 - [InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]](https://github.com/musman550/musfira-ai-internsciencesage-a15-finetune-of-qwen-36-35b-a3b)
 - [Introducing Hy4 (open weights soon)](https://github.com/musman550/musfira-ai-introducing-hy4-open-weights-soon)
