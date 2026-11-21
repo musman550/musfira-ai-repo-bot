@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 266
-**Last updated:** 2026-11-20
+**Total repos published:** 268
+**Last updated:** 2026-11-21
 
 ## Catalog
 
@@ -108,6 +108,7 @@
 - [GitHub Copilot weekly releases — September 7](https://github.com/musman550/musfira-ai-github-copilot-weekly-releases-september-7)
 - [GitHub Desktop adds short-lived authentication tokens](https://github.com/musman550/musfira-ai-github-desktop-adds-short-lived-authentication-tokens)
 - [GitHub Enterprise now includes access to GitHub Copilot](https://github.com/musman550/musfira-ai-github-enterprise-now-includes-access-to-github-copilot)
+- [GitHub Enterprise Server 3.23 release candidate](https://github.com/musman550/musfira-ai-github-enterprise-server-323-release-candidate)
 - [GitHub Enterprise Server support in the GitHub Copilot app](https://github.com/musman550/musfira-ai-github-enterprise-server-support-in-the-github-copilot-app)
 - [@GitHub in Slack and Teams is generally available and more](https://github.com/musman550/musfira-ai-github-in-slack-and-teams-is-generally-available-and-more)
 - [GitHub intelligence puts your code, context, and history to work](https://github.com/musman550/musfira-ai-github-intelligence-puts-your-code-context-and-history-to-wo)
@@ -188,6 +189,7 @@
 - [[Paper] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](https://github.com/musman550/musfira-ai-paper-engramedit-decoupled-knowledge-updates-in-llms-through)
 - [PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀](https://github.com/musman550/musfira-ai-pewdiepie-getting-banned-twice-by-openai-while-making-a-loca)
 - [Pi 1.0 released - MCP support now included by default](https://github.com/musman550/musfira-ai-pi-10-released---mcp-support-now-included-by-default)
+- [Pin your favorite repositories to your dashboard](https://github.com/musman550/musfira-ai-pin-your-favorite-repositories-to-your-dashboard)
 - [Pinning saved views to the repository issues sidebar is generally available and more](https://github.com/musman550/musfira-ai-pinning-saved-views-to-the-repository-issues-sidebar-is-gene)
 - [Private saved views for repository issues and “Relates to” issue relationship is generally available](https://github.com/musman550/musfira-ai-private-saved-views-for-repository-issues-and-relates-to-iss)
 - [Profiles now show your highest achievement badge tier](https://github.com/musman550/musfira-ai-profiles-now-show-your-highest-achievement-badge-tier)
