@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 268
-**Last updated:** 2026-11-21
+**Total repos published:** 269
+**Last updated:** 2026-11-22
 
 ## Catalog
 
@@ -267,6 +267,7 @@
 - [Webhook IP ranges added to the Meta API](https://github.com/musman550/musfira-ai-webhook-ip-ranges-added-to-the-meta-api)
 - [Welcome Beam: a 501B open model you can own, customize, and scale](https://github.com/musman550/musfira-ai-welcome-beam-a-501b-open-model-you-can-own-customize-and-sca)
 - [Where is QWEN 4 27b ?](https://github.com/musman550/musfira-ai-where-is-qwen-4-27b)
+- [Why your fine-tuning job takes longer than the FLOPs say](https://github.com/musman550/musfira-ai-why-your-fine-tuning-job-takes-longer-than-the-flops-say)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
 - [X25519-only TLS ends for GHE.com on October 7](https://github.com/musman550/musfira-ai-x25519-only-tls-ends-for-ghecom-on-october-7)
