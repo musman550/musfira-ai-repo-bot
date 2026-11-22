@@ -1070,5 +1070,9 @@
   "358f783d7c4c7410": {
     "title": "Pin your favorite repositories to your dashboard",
     "repo": "musfira-ai-pin-your-favorite-repositories-to-your-dashboard"
+  },
+  "7202c4c44e4f6e5b": {
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "repo": "musfira-ai-why-your-fine-tuning-job-takes-longer-than-the-flops-say"
   }
 }
