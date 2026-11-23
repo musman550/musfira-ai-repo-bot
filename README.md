@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 269
-**Last updated:** 2026-11-22
+**Total repos published:** 271
+**Last updated:** 2026-11-23
 
 ## Catalog
 
@@ -47,6 +47,7 @@
 - [Claude Haiku 5.5 in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-haiku-55-in-github-copilot)
 - [Claude Opus 5.5 is now available in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-opus-55-is-now-available-in-github-copilot)
 - [Claude Sonnet 5.5 in GitHub Copilot](https://github.com/musman550/musfira-ai-claude-sonnet-55-in-github-copilot)
+- [Code coverage uploads now flag invalid report formats](https://github.com/musman550/musfira-ai-code-coverage-uploads-now-flag-invalid-report-formats)
 - [CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis](https://github.com/musman550/musfira-ai-codeql-2272-improves-c-go-rust-and-javascript-analysis)
 - [CodeQL changes for macOS 27, Xcode 27, and Swift 6.4](https://github.com/musman550/musfira-ai-codeql-changes-for-macos-27-xcode-27-and-swift-64)
 - [Confidential comments on repository security advisories](https://github.com/musman550/musfira-ai-confidential-comments-on-repository-security-advisories)
@@ -224,6 +225,7 @@
 - [S3 audit log streaming with OpenID Connect expands to GHE.com](https://github.com/musman550/musfira-ai-s3-audit-log-streaming-with-openid-connect-expands-to-ghecom)
 - [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://github.com/musman550/musfira-ai-scaling-indic-pretraining-28-trillion-tokens-and-an-open-dat)
 - [Secret scanning upgrades detectors, adds SpaceX as partner](https://github.com/musman550/musfira-ai-secret-scanning-upgrades-detectors-adds-spacex-as-partner)
+- [Security advisory permissions are now generally available](https://github.com/musman550/musfira-ai-security-advisory-permissions-are-now-generally-available)
 - [Security extension for the GitHub Copilot app](https://github.com/musman550/musfira-ai-security-extension-for-the-github-copilot-app)
 - [Security risk assessments run automatically on GitHub Team](https://github.com/musman550/musfira-ai-security-risk-assessments-run-automatically-on-github-team)
 - [Selected models in GitHub Copilot deprecated](https://github.com/musman550/musfira-ai-selected-models-in-github-copilot-deprecated)
