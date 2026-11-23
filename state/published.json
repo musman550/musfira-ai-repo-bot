@@ -1074,5 +1074,13 @@
   "7202c4c44e4f6e5b": {
     "title": "Why your fine-tuning job takes longer than the FLOPs say",
     "repo": "musfira-ai-why-your-fine-tuning-job-takes-longer-than-the-flops-say"
+  },
+  "eb4fa715d73a8f24": {
+    "title": "Code coverage uploads now flag invalid report formats",
+    "repo": "musfira-ai-code-coverage-uploads-now-flag-invalid-report-formats"
+  },
+  "02a0781e0163c133": {
+    "title": "Security advisory permissions are now generally available",
+    "repo": "musfira-ai-security-advisory-permissions-are-now-generally-available"
   }
 }
