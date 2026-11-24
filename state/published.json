@@ -1082,5 +1082,17 @@
   "02a0781e0163c133": {
     "title": "Security advisory permissions are now generally available",
     "repo": "musfira-ai-security-advisory-permissions-are-now-generally-available"
+  },
+  "3a96ec4e06ae8612": {
+    "title": "Issue statuses and repository boards are in public preview",
+    "repo": "musfira-ai-issue-statuses-and-repository-boards-are-in-public-preview"
+  },
+  "f145675e8cbf4934": {
+    "title": "More predictable notifications on GitHub.com",
+    "repo": "musfira-ai-more-predictable-notifications-on-githubcom"
+  },
+  "34643f260c39647e": {
+    "title": "Usage reports will include a user ID column starting December 1",
+    "repo": "musfira-ai-usage-reports-will-include-a-user-id-column-starting-decembe"
   }
 }
