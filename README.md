@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 271
-**Last updated:** 2026-11-23
+**Total repos published:** 274
+**Last updated:** 2026-11-24
 
 ## Catalog
 
@@ -136,6 +136,7 @@
 - [incoai/Qwen3.8-Flash-Next-DFlash2](https://github.com/musman550/musfira-ai-incoaiqwen38-flash-next-dflash2)
 - [InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]](https://github.com/musman550/musfira-ai-internsciencesage-a15-finetune-of-qwen-36-35b-a3b)
 - [Introducing Hy4 (open weights soon)](https://github.com/musman550/musfira-ai-introducing-hy4-open-weights-soon)
+- [Issue statuses and repository boards are in public preview](https://github.com/musman550/musfira-ai-issue-statuses-and-repository-boards-are-in-public-preview)
 - [Issue types and fields are available for personal accounts](https://github.com/musman550/musfira-ai-issue-types-and-fields-are-available-for-personal-accounts)
 - [It's been too quiet on the other side of the Pacific](https://github.com/musman550/musfira-ai-its-been-too-quiet-on-the-other-side-of-the-pacific)
 - [It's official! 192GB Framework](https://github.com/musman550/musfira-ai-its-official-192gb-framework)
@@ -164,6 +165,7 @@
 - [MiniMax-M3.1-Flash is coming](https://github.com/musman550/musfira-ai-minimax-m31-flash-is-coming)
 - [MiniMax M3.1 Flash released, Model weights Oct 23](https://github.com/musman550/musfira-ai-minimax-m31-flash-released-model-weights-oct-23)
 - [Models disappearing from Huggingface](https://github.com/musman550/musfira-ai-models-disappearing-from-huggingface)
+- [More predictable notifications on GitHub.com](https://github.com/musman550/musfira-ai-more-predictable-notifications-on-githubcom)
 - [Mozilla Report: China-U.S. AI Model Capability Gap Narrows to 4.4 Months](https://github.com/musman550/musfira-ai-mozilla-report-china-us-ai-model-capability-gap-narrows-to-4)
 - [MTP released for Qwen3.8-Flash-Next-GGUF](https://github.com/musman550/musfira-ai-mtp-released-for-qwen38-flash-next-gguf)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://github.com/musman550/musfira-ai-multi-vector-late-interaction-embedding-models-with-sentence)
@@ -262,6 +264,7 @@
 - [Updates to GitHub secret scanning](https://github.com/musman550/musfira-ai-updates-to-github-secret-scanning)
 - [Usage metrics API adds code review details and addressed rate](https://github.com/musman550/musfira-ai-usage-metrics-api-adds-code-review-details-and-addressed-rat)
 - [Usage metrics API adds usage from tools like OpenCode](https://github.com/musman550/musfira-ai-usage-metrics-api-adds-usage-from-tools-like-opencode)
+- [Usage reports will include a user ID column starting December 1](https://github.com/musman550/musfira-ai-usage-reports-will-include-a-user-id-column-starting-decembe)
 - [Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM](https://github.com/musman550/musfira-ai-villager-simulation-game-poc-created-with-qwen38-27b-ud-q3kx)
 - [vote for the Qwen 3.8](https://github.com/musman550/musfira-ai-vote-for-the-qwen-38)
 - [want me to get you some?🤣](https://github.com/musman550/musfira-ai-want-me-to-get-you-some)
