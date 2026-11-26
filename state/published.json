@@ -1094,5 +1094,17 @@
   "34643f260c39647e": {
     "title": "Usage reports will include a user ID column starting December 1",
     "repo": "musfira-ai-usage-reports-will-include-a-user-id-column-starting-decembe"
+  },
+  "faa23b3bddbba5f6": {
+    "title": "Copilot code review billing will default to the organization",
+    "repo": "musfira-ai-copilot-code-review-billing-will-default-to-the-organization"
+  },
+  "75cea89d15b3ea51": {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "repo": "musfira-ai-introducing-the-llamacpp-benchmark-dashboard-for-amd-ryzen-a"
+  },
+  "d127826167977e82": {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "repo": "musfira-ai-building-on-nemotron-35-parse-open-data-fine-tuning-and-fast"
   }
 }
