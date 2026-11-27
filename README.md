@@ -3,8 +3,8 @@
 > The automation engine that researches AI/automation trends daily and
 > publishes a fully documented, MIT-licensed starter repo for each one.
 
-**Total repos published:** 277
-**Last updated:** 2026-11-26
+**Total repos published:** 279
+**Last updated:** 2026-11-27
 
 ## Catalog
 
@@ -242,6 +242,7 @@
 - [Stepfun Step-5-Preview released! (600B/27B-1M Context)](https://github.com/musman550/musfira-ai-stepfun-step-5-preview-released-600b27b-1m-context)
 - [Stories coming out about Jensen](https://github.com/musman550/musfira-ai-stories-coming-out-about-jensen)
 - [Swift 1.5 27b: Swift Qwen just got faster](https://github.com/musman550/musfira-ai-swift-15-27b-swift-qwen-just-got-faster)
+- [Taking Trainium3 to the Track: Generating Videos with LTX-2.5](https://github.com/musman550/musfira-ai-taking-trainium3-to-the-track-generating-videos-with-ltx-25)
 - [tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)](https://github.com/musman550/musfira-ai-tencentevie-8b-and-evie-45b-high-capacity-visual-document-re)
 - [Tencent/Hy4-preview 770B-A49B weight dropped](https://github.com/musman550/musfira-ai-tencenthy4-preview-770b-a49b-weight-dropped)
 - [Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error](https://github.com/musman550/musfira-ai-terminal-bench-40-just-dropped-glm-53-is-at-the-same-level-a)
@@ -275,6 +276,7 @@
 - [Webhook IP ranges added to the Meta API](https://github.com/musman550/musfira-ai-webhook-ip-ranges-added-to-the-meta-api)
 - [Welcome Beam: a 501B open model you can own, customize, and scale](https://github.com/musman550/musfira-ai-welcome-beam-a-501b-open-model-you-can-own-customize-and-sca)
 - [Where is QWEN 4 27b ?](https://github.com/musman550/musfira-ai-where-is-qwen-4-27b)
+- [Where scientists draw the line on AI agents](https://github.com/musman550/musfira-ai-where-scientists-draw-the-line-on-ai-agents)
 - [Why your fine-tuning job takes longer than the FLOPs say](https://github.com/musman550/musfira-ai-why-your-fine-tuning-job-takes-longer-than-the-flops-say)
 - [Windows 11 arm64 VS2026 image generally available](https://github.com/musman550/musfira-ai-windows-11-arm64-vs2026-image-generally-available)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://github.com/musman550/musfira-ai-wire-it-run-it-deploy-it-ai-workflows-in-gradio)
