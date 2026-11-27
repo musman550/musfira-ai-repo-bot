@@ -1106,5 +1106,13 @@
   "d127826167977e82": {
     "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
     "repo": "musfira-ai-building-on-nemotron-35-parse-open-data-fine-tuning-and-fast"
+  },
+  "6dd30373185a6e6b": {
+    "title": "Where scientists draw the line on AI agents",
+    "repo": "musfira-ai-where-scientists-draw-the-line-on-ai-agents"
+  },
+  "fa3c7b3553a12871": {
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "repo": "musfira-ai-taking-trainium3-to-the-track-generating-videos-with-ltx-25"
   }
 }
